@@ -1,0 +1,7 @@
+# macOS
+.DS_Store
+# VSCode / editors
+.vscode/
+# Builds
+build/
+dist/

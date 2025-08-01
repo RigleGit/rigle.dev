@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>C en 100 ejercicios – Pack del Lector</title>
+<link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+<nav class="navbar">
+  <input type="checkbox" id="nav-toggle" class="nav-toggle">
+  <label for="nav-toggle" class="nav-toggle-label">
+    ☰
+  </label>
+  <ul class="nav-menu">
+    <li><a href="/">Inicio</a></li>
+    <li><a href="#pack">Pack del Lector</a></li>
+    <li><a href="#repo">Repositorio</a></li>
+    <li><a href="#erratas">Erratas</a></li>
+  </ul>
+</nav>
+<h1 id="inicio">¡Hola! Aquí tienes tu Pack del Lector para <em>Lenguaje C</em></h1>
+
+<div class="hero" id="pack">
+  <h2>Tu descarga personalizada te espera</h2>
+  <p>Recibe por email la chuleta A4 de punteros, plantilla de proyecto con tests, Devcontainer listo y 10 ejercicios extra.</p>
+
+  <form action="https://api.web3forms.com/submit" method="POST">
+    <input type="hidden" name="access_key" value="09f7b42c-d87c-412b-9965-0db4474dd0d1">
+    <input type="hidden" name="subject" value="Pack del Lector C100">
+    <input type="hidden" name="from_name" value="rigle.dev">
+    <input type="hidden" name="redirect" value="https://rigle.dev/gracias/">
+    <input type="hidden" name="source" id="source">
+    <input type="checkbox" name="botcheck" class="hidden" style="display:none;">
+
+    <input type="email" name="email" placeholder="tu@email" required>
+
+    <label style="display:block;margin-top:8px;">
+      <input type="checkbox" name="pp_ack" required>
+      He leído y acepto la <a href="/privacidad.html" target="_blank" rel="noopener">política de privacidad</a>.
+    </label>
+
+    <label style="display:block;margin-top:6px;">
+      <input type="checkbox" name="consent_newsletter" value="yes">
+      Quiero suscribirme a la newsletter (1–2 emails/mes, baja en un clic).
+    </label>
+
+    <button class="btn" type="submit">Recibir Pack</button>
+    <p class="note">Solo usaré tu email para enviarte el pack y, si marcas la casilla, la newsletter. Doble opt‑in activado.</p>
+  </form>
+</div>
+
+<script>
+// Captura utm_content/origen y lo coloca en el campo oculto
+const params=new URLSearchParams(location.search);
+document.getElementById('source').value = params.get('utm_content') || 'c100_pack';
+</script>
+
+<div class="cards">
+  <div class="card" id="repo">
+    <div class="card-icon">💾</div>
+    <h3>Repositorio del Código</h3>
+    <p>Descarga el ZIP listo para compilar o explora el repositorio online.</p>
+    <a class="btn" href="/c100/code?utm_source=hub&utm_medium=link&utm_campaign=c100_v2&utm_content=code">Ir al repositorio</a>
+  </div>
+  <div class="card" id="erratas">
+    <div class="card-icon">📝</div>
+    <h3>Erratas y Sugerencias</h3>
+    <p>¿Viste algo raro en el libro? Consulta el listado o deja tu aporte.</p>
+    <a class="btn" href="/c100/erratas?utm_source=hub&utm_medium=link&utm_campaign=c100_v2&utm_content=erratas">Revisar erratas</a>
+  </div>
+</div>
+
+<p class="note">¿Te gustó el libro? Puedes apuntarte a la <a href="/newsletter">newsletter</a> para recibir más recursos.</p>
+
+  <footer>
+    <p class="note">© Rodrigo Iglesias • <a href="/privacidad.html">Privacidad</a></p>
+  </footer>
+</body>
+</html>

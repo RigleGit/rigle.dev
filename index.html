@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Rodrigo Iglesias – rigle.dev</title>
+  <link rel="stylesheet" href="/assets/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body>
+  <nav class="navbar">
+    <input type="checkbox" id="nav-toggle" class="nav-toggle">
+    <label for="nav-toggle" class="nav-toggle-label">
+      ☰
+    </label>
+    <ul class="nav-menu">
+      <li><a href="#inicio">Inicio</a></li>
+      <li><a href="#proyectos">Proyectos</a></li>
+      <li><a href="#redes">Redes Sociales</a></li>
+      <li><a href="#contacto">Contacto</a></li>
+    </ul>
+  </nav>
+  <header id="inicio" class="hero">
+    <img src="/assets/rodrigo.jpg" alt="Rodrigo Iglesias" class="profile-img">
+    <h1>Rodrigo Iglesias</h1>
+    <p>Profesor, desarrollador y creador de contenido técnico. </p><p>Me apasiona enseñar tecnología de forma sencilla y útil.</p>
+  </header>
+
+  <section id="proyectos" class="project-section">
+    <h2>MIS PROYECTOS</h2>
+    <div class="cards">
+      <div class="card">
+        <div class="card-icon">📘</div>
+        <h3>Lenguaje C en 100 ejercicios</h3>
+        <p>Libro práctico para aprender C con ejercicios resueltos y recursos adicionales.</p>
+        <a class="btn" href="/c100">Ver proyecto</a>
+      </div>
+      <div class="card">
+        <div class="card-icon">📺</div>
+        <h3>YouTube</h3>
+        <p>Vídeos técnicos sobre programación, tecnología y productividad.</p>
+        <a class="btn" href="https://youtube.com/@rodrigoiglesias">Ver proyecto</a>
+      </div>
+      <div class="card">
+        <div class="card-icon">📬</div>
+        <h3>Newsletter</h3>
+        <p>Recursos exclusivos sobre programación, tecnología y productividad.</p>
+        <a class="btn" href="/newsletter">Ver proyecto</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="redes" class="social-section">
+    <h2>MEDIOS Y REDES SOCIALES</h2>
+    <div class="social-links-list">
+      <a href="https://youtube.com/@rodrigoiglesias" class="social-link">
+        <span><i class="fa-brands fa-youtube"></i> YouTube</span><span>→</span>
+      </a>
+      <a href="https://instagram.com/@rigle" class="social-link">
+        <span><i class="fa-brands fa-instagram"></i> Instagram</span><span>→</span>
+      </a>
+      <a href="https://x.com/@RigleDX" class="social-link">
+        <span><i class="fa-brands fa-x-twitter"></i> Twitter / X</span><span>→</span>
+      </a>
+      <a href="/newsletter" class="social-link">
+        <span><i class="fa-regular fa-envelope"></i> Newsletter</span><span>→</span>
+      </a>
+      <a href="https://youtube.com/@elultimoframe" class="social-link">
+        <span><i class="fa-solid fa-podcast"></i> Podcast</span><span>→</span>
+      </a>
+    </div>
+  </section>
+
+  <section id="contacto" class="contact-section">
+    <h2>Contacto</h2>
+    <form action="https://api.web3forms.com/submit" method="POST">
+      <input type="hidden" name="access_key" value="09f7b42c-d87c-412b-9965-0db4474dd0d1">
+      <input type="hidden" name="from_name" value="rigle.dev">
+      <input type="hidden" name="redirect" value="https://rigle.dev/gracias/">
+      <input type="hidden" name="source" id="source">
+      <input type="checkbox" name="botcheck" class="hidden" style="display:none;">
+
+      <div class="form-row">
+        <input type="text" name="name" placeholder="Tu nombre">
+        <input type="text" name="subject" placeholder="Asunto">
+      </div>
+
+      <input type="email" name="email" placeholder="Tu correo electrónico *" required>
+      <textarea name="message" placeholder="Tu mensaje *" required></textarea>
+
+      <button class="btn" type="submit">Enviar</button>
+      <p class="note">Tu mensaje será enviado directamente a mi correo. <a href="/privacidad.html">Privacidad</a>.</p>
+    </form>
+  </section>
+
+  <footer>
+    <p class="note">© Rodrigo Iglesias • <a href="/privacidad.html">Privacidad</a></p>
+  </footer>
+</body>
+</html>
