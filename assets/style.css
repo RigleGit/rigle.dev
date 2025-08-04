@@ -411,6 +411,10 @@ footer {
 
 .hero form .btn {
   margin-top: 8px;        /* asegura aire por encima del botón */
+  display: block;
+  margin: 24px auto 0 auto;
+  font-weight: bold;
+  text-align: center;
 }
 /* Book cover styling similar to buttons */
 .book-cover {
@@ -455,3 +459,19 @@ footer {
 /* Botones bajo la lista: separación consistente */
 #metodo .btn { margin-top: 12px; }
 #metodo .btn + .btn { margin-left: 8px; }
+
+/* Centra y resalta el botón principal del formulario Pack */
+.pack-form .btn {
+  display: block;
+  margin: 24px auto 0 auto;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Centra los botones de las cards y aplica el mismo estilo */
+.cards .btn {
+  display: block;
+  margin: 20px auto 0 auto;
+  font-weight: bold;
+  text-align: center;
+}
