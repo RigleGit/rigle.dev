@@ -73,16 +73,15 @@
 
   <section id="contacto" class="contact-section">
     <h2>Contacto</h2>
-    <form action="https://api.web3forms.com/submit" method="POST">
+    <form id="contactForm" action="https://api.web3forms.com/submit" method="POST">
       <input type="hidden" name="access_key" value="09f7b42c-d87c-412b-9965-0db4474dd0d1">
       <input type="hidden" name="from_name" value="rigle.dev">
-      <input type="hidden" name="redirect" value="https://rigle.dev/gracias/">
       <input type="hidden" name="source" id="source">
       <input type="checkbox" name="botcheck" class="hidden" style="display:none;">
 
       <div class="form-row">
-        <input type="text" name="name" placeholder="Tu nombre">
-        <input type="text" name="subject" placeholder="Asunto">
+        <input type="text" name="name" placeholder="Tu nombre" required>
+        <input type="text" name="subject" placeholder="Asunto" required>
       </div>
 
       <input type="email" name="email" placeholder="Tu correo electrónico *" required>
@@ -91,6 +90,21 @@
       <button class="btn" type="submit">Enviar</button>
       <p class="note">Tu mensaje será enviado directamente a mi correo. <a href="/privacidad.html">Privacidad</a>.</p>
     </form>
+    <div id="modalEnviado" style="display:none;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(0,127,128,0.15);z-index:9999;align-items:center;justify-content:center;">
+      <div style="background:#fff;padding:32px 24px;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.12);max-width:320px;margin:auto;text-align:center;">
+        <h3>¡Mensaje enviado!</h3>
+        <p>Tu mensaje se ha enviado correctamente.<br>Te responderé lo antes posible.</p>
+        <button onclick="document.getElementById('modalEnviado').style.display='none'" class="btn">Cerrar</button>
+      </div>
+    </div>
+    <div id="modalError" style="display:none;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(255,0,0,0.08);z-index:9999;align-items:center;justify-content:center;">
+      <div style="background:#fff;padding:32px 24px;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.12);max-width:320px;margin:auto;text-align:center;">
+        <h3>Error al enviar</h3>
+        <p>Hubo un error al enviar el mensaje.<br>Por favor, inténtalo de nuevo más tarde.</p>
+        <button onclick="document.getElementById('modalError').style.display='none'" class="btn">Cerrar</button>
+      </div>
+    </div>
+    <script src="/assets/contact.js"></script>
   </section>
 
   <footer>
