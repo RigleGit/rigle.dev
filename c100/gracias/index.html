@@ -28,8 +28,8 @@
   <div class="cards">
     <div class="card" id="dl-chuleta">
       <div class="card-icon">📄</div>
-      <h3>Chuleta de punteros (PDF)</h3>
-      <p>Resumen visual con punteros, memoria y sintaxis clave.</p>
+      <h3>Chuleta A4 de Lenguaje C (PDF)</h3>
+      <p>Resumen visual con sintaxis clave, punteros y memoria.</p>
       <a class="btn" href="/assets/c100/pack/chuleta.pdf">Descargar PDF</a>
     </div>
     <div class="card" id="dl-devcontainer">
@@ -40,9 +40,9 @@
     </div>
     <div class="card" id="dl-ejercicios">
       <div class="card-icon">🗂️</div>
-      <h3>10 ejercicios extra</h3>
-      <p>Prácticas adicionales para afianzar lo aprendido.</p>
-      <a class="btn" href="/assets/c100/pack/ejercicios-extra.zip">Descargar ZIP</a>
+      <h3>Repositorio completo de ejercicios</h3>
+      <p>Descarga el ZIP con los 100 ejercicios resueltos del libro.</p>
+      <a class="btn" href="https://github.com/riglegit/c100-ejercicios/archive/refs/heads/main.zip">Descargar ZIP</a>
     </div>
   </div>
 
@@ -50,6 +50,21 @@
   <footer>
     <p class="note">© Rodrigo Iglesias • <a href="/privacidad.html">Privacidad</a></p>
   </footer>
+
+  <div id="modalNewsletter" style="display:flex;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(0,127,128,0.15);z-index:9999;align-items:center;justify-content:center;">
+    <div style="background:#fff;padding:32px 24px;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.12);max-width:420px;margin:auto;text-align:center;">
+      <h3>¿Te gustaría recibir más recursos y novedades?</h3>
+      <p>Puedes suscribirte a la newsletter para recibir contenido exclusivo y avisos de nuevos packs.</p>
+      <iframe src="https://rodrigoiglesias.substack.com/embed" width="100%" height="320" style="border:1px solid #eaeaea; background:#fff;" frameborder="0" scrolling="no"></iframe>
+      <button onclick="document.getElementById('modalNewsletter').style.display='none'" class="btn" style="margin-top:16px;">Cerrar</button>
+    </div>
+  </div>
+  <script>
+    // Mostrar el modal automáticamente al cargar la página
+    window.onload = function() {
+      document.getElementById('modalNewsletter').style.display = 'flex';
+    };
+  </script>
 
 </body>
 </html>

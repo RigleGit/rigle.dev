@@ -22,31 +22,22 @@
 
 <div class="hero" id="pack">
   <h2>Tu descarga personalizada te espera</h2>
-  <p>Recibe por email la chuleta A4 de punteros, plantilla de proyecto con tests, Devcontainer listo y 10 ejercicios extra.</p>
+  <p>Recibe por email la chuleta A4 del Lenguaje C, plantilla de proyecto con tests y Devcontainer listo.</p>
 
-  <form action="https://api.web3forms.com/submit" method="POST">
-    <input type="hidden" name="access_key" value="09f7b42c-d87c-412b-9965-0db4474dd0d1">
-    <input type="hidden" name="subject" value="Pack del Lector C100">
-    <input type="hidden" name="from_name" value="rigle.dev">
-    <input type="hidden" name="redirect" value="https://rigle.dev/c100/gracias/">
-    <input type="hidden" name="source" id="source">
-    <input type="checkbox" name="botcheck" class="hidden" style="display:none;">
-
-    <input type="email" name="email" placeholder="tu@email" required>
-
-    <label style="display:block;margin-top:8px;">
-      <input type="checkbox" name="pp_ack" required>
-      He leído y acepto la <a href="/privacidad.html" target="_blank" rel="noopener">política de privacidad</a>.
-    </label>
-
-    <label style="display:block;margin-top:6px;">
-      <input type="checkbox" name="consent_newsletter" value="yes">
-      Quiero suscribirme a la newsletter (1–2 emails/mes, baja en un clic).
-    </label>
-
-    <button class="btn" type="submit">Recibir Pack</button>
-    <p class="note">Solo usaré tu email para enviarte el pack y, si marcas la casilla, la newsletter. Doble opt‑in activado.</p>
-  </form>
+  <form action="https://formsubmit.co/7f797f45209bf85dbbc2b30f56f8b8f9" method="POST">
+      <input type="email" name="email" placeholder="Tu email" required>
+      <input type="hidden" name="_subject" value="Tu Pack del Lector – Lenguaje C en 100 ejercicios">
+      <input type="hidden" name="_autoresponse" value="¡Hola! 👋%0A%0AGracias por solicitar el Pack del Lector de Lenguaje C en 100 ejercicios. Aquí tienes tus recursos:%0A%0AChuleta A4 de Lenguaje C (PDF): https://rigle.dev/assets/c100/pack/chuleta.pdf%0APlantilla Devcontainer (VS Code): https://rigle.dev/assets/c100/pack/devcontainer.zip%0A%0AGuarda este correo para futuras consultas. Si tienes cualquier duda, puedes responder directamente a este email.%0A%0A¡Gracias por aprender y practicar!%0ARodrigo Iglesias%0A%0APD: Si no ves este correo, revisa tu carpeta de spam.">
+      <input type="hidden" name="_cc" value="rodri@rigle.dev">
+      <input type="hidden" name="_next" value="https://rigle.dev/c100/gracias/index.html">
+      <label style="display:block;margin-top:8px;">
+        <input type="checkbox" name="pp_ack" required>
+        He leído y acepto la <a href="/privacidad.html" target="_blank" rel="noopener">política de privacidad</a>.
+      </label>
+      <button class="btn" type="submit">Recibir Pack</button>
+      <p class="note">Solo usaré tu email para enviarte el pack. Doble opt‑in activado.</p>
+    </form>
+  <script src="/assets/packform.js"></script>
 </div>
 
 <script>
@@ -71,6 +62,14 @@ document.getElementById('source').value = params.get('utm_content') || 'c100_pac
 </div>
 
 <p class="note">¿Te gustó el libro? Puedes apuntarte a la <a href="/newsletter">newsletter</a> para recibir más recursos.</p>
+
+<div id="modalPackError" style="display:none;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(255,0,0,0.08);z-index:9999;align-items:center;justify-content:center;">
+      <div style="background:#fff;padding:32px 24px;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.12);max-width:320px;margin:auto;text-align:center;">
+        <h3>Error</h3>
+        <p id="modalPackErrorMsg">Ha ocurrido un problema.</p>
+        <button onclick="document.getElementById('modalPackError').style.display='none'" class="btn">Cerrar</button>
+      </div>
+    </div>
 
   <footer>
     <p class="note">© Rodrigo Iglesias • <a href="/privacidad.html">Privacidad</a></p>
