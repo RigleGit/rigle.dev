@@ -2,10 +2,92 @@
 <html lang="es">
 <head>
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>C en 100 ejercicios</title>
+  <title>C en 100 ejercicios – Libro de programación en C</title>
+  <meta name="description" content="Aprende programación en C con 100 ejercicios explicados paso a paso. Enunciados claros, soluciones razonadas y recursos prácticos para avanzar con confianza.">
+  <link rel="canonical" href="https://rigle.dev/c100/">
+
+  <!-- Open Graph / Twitter -->
+  <meta property="og:site_name" content="rigle.dev">
+  <meta property="og:title" content="Lenguaje C en 100 Ejercicios">
+  <meta property="og:description" content="Aprende C paso a paso con 100 ejercicios explicados y recursos complementarios.">
+  <meta property="og:type" content="product">
+  <meta property="og:url" content="https://rigle.dev/c100/">
+  <meta property="og:image" content="https://rigle.dev/assets/img/lenguajecportada.jpg">
+  <meta property="og:locale" content="es_ES">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Lenguaje C en 100 Ejercicios">
+  <meta name="twitter:description" content="Aprende C paso a paso con 100 ejercicios explicados y recursos complementarios.">
+  <meta name="twitter:image" content="https://rigle.dev/assets/img/lenguajecportada.jpg">
+
+  <!-- Favicon -->
+  <link rel="icon" href="/assets/img/rodrigo.jpg" type="image/jpeg">
+
   <link rel="stylesheet" href="/assets/css/style.min.css">
+
+  <!-- JSON-LD Book -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Book",
+    "name": "Lenguaje C en 100 Ejercicios",
+    "author": { "@type": "Person", "name": "Rodrigo Iglesias", "url": "https://rigle.dev/" },
+    "url": "https://rigle.dev/c100/",
+    "image": "https://rigle.dev/assets/img/lenguajecportada.jpg",
+    "inLanguage": "es-ES",
+    "workExample": {
+      "@type": "Book",
+      "url": "https://www.amazon.es/dp/B0CRVJKX5H"
+    }
+  }
+  </script>
+  <!-- JSON-LD Breadcrumbs -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://rigle.dev/"},
+      {"@type": "ListItem", "position": 2, "name": "Lenguaje C en 100 ejercicios", "item": "https://rigle.dev/c100/"}
+    ]
+  }
+  </script>
+  <!-- JSON-LD FAQPage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "¿Para quién es este libro?",
+        "acceptedAnswer": {"@type": "Answer", "text": "Para principiantes y programadores que buscan afianzar fundamentos de C."}
+      },
+      {
+        "@type": "Question",
+        "name": "¿Incluye soluciones paso a paso?",
+        "acceptedAnswer": {"@type": "Answer", "text": "Sí, cada ejercicio incluye enunciado, solución razonada y explicación."}
+      },
+      {
+        "@type": "Question",
+        "name": "¿Puedo descargar el código?",
+        "acceptedAnswer": {"@type": "Answer", "text": "Sí, hay repositorio y ZIP, además de una plantilla con Devcontainer."}
+      },
+      {
+        "@type": "Question",
+        "name": "¿Cubre punteros y memoria dinámica?",
+        "acceptedAnswer": {"@type": "Answer", "text": "Sí, se trabajan punteros, arrays, estructuras, ficheros y memoria dinámica."}
+      },
+      {
+        "@type": "Question",
+        "name": "¿Dónde lo compro?",
+        "acceptedAnswer": {"@type": "Answer", "text": "En Amazon; además hay recursos gratuitos complementarios en esta web."}
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
+  <a class="skip-link" href="#main">Saltar al contenido</a>
   <nav class="navbar">
     <input type="checkbox" id="nav-toggle" class="nav-toggle">
     <label for="nav-toggle" class="nav-toggle-label">☰</label>
@@ -16,22 +98,23 @@
     </ul>
   </nav>
 
-  <h1 id="inicio">Lenguaje C en 100 Ejercicios Explicados</h1>
+  <main id="main" tabindex="-1">
+  <h1 id="inicio">Programación en C: 100 ejercicios explicados</h1>
 
   <!-- HERO DEL LIBRO -->
   <section class="hero" id="libro">
     <div class="grid grid-2">
       <div>
-        <h2>Aprende C paso a paso con 100 ejercicios explicados</h2>
-        <p><strong>Un libro completo y práctico</strong> para aprender programación en C a través de <strong>100 ejercicios detalladamente explicados</strong>, desde lo básico hasta técnicas avanzadas.</p>
-        <p>Cada ejercicio incluye <strong>enunciado claro</strong>, <strong>solución paso a paso</strong> y comentarios sobre el porqué de cada decisión. Ideal tanto para <strong>principiantes</strong> como para <strong>quienes ya programan</strong> y quieren afianzar fundamentos.</p>
-        <p>Dominarás: <em>variables, flujo de control, funciones, punteros, estructuras de datos</em> y mucho más. Una herramienta para <strong>entender a fondo C</strong> y desarrollar habilidades sólidas en <strong>programación de sistemas y aplicaciones de alto rendimiento</strong>.</p>
+        <h2>Ejercicios de programación en C, paso a paso</h2>
+        <p><strong>Aprende haciendo</strong>: 100 ejercicios explicados al detalle para entender C desde los cimientos hasta técnicas avanzadas.</p>
+        <p>Cada ejercicio trae <strong>enunciado claro</strong>, <strong>solución comentada</strong> y el porqué de cada decisión. Útil si empiezas desde cero o si ya programas y quieres afianzar fundamentos.</p>
+        <p>Trabajarás <em>variables, control de flujo, funciones, punteros, estructuras</em> y más. La idea: <strong>comprender a fondo C</strong> y ganar soltura para construir con criterio.</p>
         <p>
-          <a class="btn" href="https://www.amazon.es/dp/B0CRVJKX5H" target="_blank" rel="noopener noreferrer">Comprar en Amazon</a>
+          <a class="btn" href="https://www.amazon.es/dp/B0CRVJKX5H" target="_blank" rel="noopener">Comprar en Amazon</a>
         </p>
       </div>
       <div style="display:flex;justify-content:center;align-items:center;">
-        <img src="/assets/img/lenguajecportada.jpg" alt="Portada del libro Lenguaje C en 100 Ejercicios" class="book-cover" style="max-width:260px;width:100%;height:auto;border-radius:12px;border:1px solid #eaeaea;background:#fff;"/>
+         <img src="/assets/img/lenguajecportada.jpg" alt="Portada del libro ejercicios de programación en C" class="book-cover" width="260" height="390" loading="lazy" style="max-width:260px;width:100%;height:auto;border-radius:12px;border:1px solid #eaeaea;background:#fff;"/>
       </div>
     </div>
   </section>
@@ -49,13 +132,46 @@
       <li><strong>Erratas y actualizaciones</strong> centralizadas para que siempre tengas la última versión.</li>
     </ul>
     <p>
-      <a class="btn" href="https://www.amazon.es/dp/B0CRVJKX5H" target="_blank" rel="noopener noreferrer">Comprar en Amazon</a>
-      <a class="btn" href="https://github.com/riglegit/c100-ejercicios" style="margin-left:8px;">Ver el repositorio</a>
+      <a class="btn" href="https://www.amazon.es/dp/B0CRVJKX5H" target="_blank" rel="noopener">Comprar en Amazon</a>
     </p>
+  </section>
+
+  <!-- FAQ visible -->
+  <section class="hero" id="faq" aria-labelledby="faq-heading">
+    <h2 id="faq-heading">Preguntas frecuentes</h2>
+    <div>
+      <h3>¿Para quién es este libro?</h3>
+      <p>Para principiantes que quieren aprender bien y para quienes ya programan y desean afianzar fundamentos de C.</p>
+      <h3>¿Incluye soluciones paso a paso?</h3>
+      <p>Sí. Cada ejercicio trae enunciado, solución razonada y explicación de por qué se toma cada decisión.</p>
+      <h3>¿Puedo descargar el código?</h3>
+      <p>Sí. Tienes el repositorio completo y descarga en ZIP, además de una plantilla con Devcontainer.</p>
+      <h3>¿Cubre punteros y memoria dinámica?</h3>
+      <p>Sí. Trabajamos punteros, arrays, estructuras, ficheros y gestión de memoria dinámica.</p>
+      <h3>¿Dónde lo compro?</h3>
+      <p>En Amazon. También encontrarás recursos gratuitos complementarios en esta misma página.</p>
+    </div>
+  </section>
+
+  <!-- Temario y objetivos (sin publicar ejercicios) -->
+  <section class="hero" id="temario" aria-labelledby="temario-heading">
+    <h2 id="temario-heading">Temario y objetivos</h2>
+    <ul>
+      <li><strong>Fundamentos</strong>: variables, tipos, operadores y E/S básica.</li>
+      <li><strong>Control de flujo</strong>: condicionales, bucles y patrones clásicos.</li>
+      <li><strong>Arrays y cadenas</strong>: recorrido, búsqueda y transformación.</li>
+      <li><strong>Funciones</strong>: paso de parámetros, ámbito y modularización.</li>
+      <li><strong>Punteros</strong>: aritmética de punteros y punteros a funciones.</li>
+      <li><strong>Estructuras y typedef</strong>: modelado de datos y composición.</li>
+      <li><strong>Ficheros</strong>: lectura/escritura y manejo de errores.</li>
+      <li><strong>Memoria dinámica</strong>: malloc/free, vectores y matrices dinámicas.</li>
+      <li><strong>Recursión</strong>: casos base, descomposición y complejidad.</li>
+    </ul>
   </section>
 
   <p class="note">¿Te gustó el libro? Apúntate a la <a href="/newsletter">newsletter</a> para recibir más recursos.</p>
 
+  </main>
   <footer>
     <p class="note">© Rodrigo Iglesias • <a href="/privacidad.html">Privacidad</a></p>
   </footer>

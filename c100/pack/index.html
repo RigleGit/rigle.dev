@@ -6,6 +6,7 @@
 <link rel="stylesheet" href="/assets/css/style.min.css">
 </head>
 <body>
+<a class="skip-link" href="#main">Saltar al contenido</a>
 <nav class="navbar">
   <input type="checkbox" id="nav-toggle" class="nav-toggle">
   <label for="nav-toggle" class="nav-toggle-label">
@@ -18,6 +19,7 @@
     <li><a href="#erratas">Erratas</a></li>
   </ul>
 </nav>
+<main id="main" tabindex="-1">
 <h1 id="inicio">¡Hola! Aquí tienes tu Pack del Lector para <em>Lenguaje C</em></h1>
 
 <div class="hero" id="pack">
@@ -28,16 +30,18 @@
 <section id="pack-c100" class="contact-section">
   <h2>Descarga el pack “Lenguaje C en 100 ejercicios”</h2>
 
-  <form id="packForm" class="pack-form">
+  <form id="packForm" class="pack-form" aria-describedby="packDesc">
     <div class="form-row">
-      <input type="text" name="name" placeholder="Tu nombre">
-      <input type="email" name="email" placeholder="Tu correo *" required>
+      <label class="sr-only" for="pack-name">Nombre</label>
+      <input id="pack-name" type="text" name="name" placeholder="Tu nombre" autocomplete="name">
+      <label class="sr-only" for="pack-email">Correo electrónico</label>
+      <input id="pack-email" type="email" name="email" placeholder="Tu correo *" required autocomplete="email" inputmode="email">
     </div>
     <input type="hidden" name="packId" value="c100">
     <input type="hidden" name="source" id="source" value="">
     <input type="text" name="botcheck" style="display:none">
     <button class="btn" type="submit" id="packBtn">Quiero el pack</button>
-    <p class="note">Recibirás un correo con los enlaces. Si no lo ves, revisa spam o mira la página de <a href="/c100/gracias/index.html">Gracias</a>.</p>
+    <p id="packDesc" class="note">Recibirás un correo con los enlaces. Si no lo ves, revisa spam o mira la página de <a href="/c100/gracias/index.html">Gracias</a>.</p>
   </form>
 </section>
 
@@ -69,8 +73,20 @@
       </div>
     </div>
 
+  </main>
   <footer>
     <p class="note">© Rodrigo Iglesias • <a href="/privacidad.html">Privacidad</a></p>
   </footer>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://rigle.dev/"},
+      {"@type": "ListItem", "position": 2, "name": "Lenguaje C en 100 ejercicios", "item": "https://rigle.dev/c100/"},
+      {"@type": "ListItem", "position": 3, "name": "Pack del Lector", "item": "https://rigle.dev/c100/pack/"}
+    ]
+  }
+  </script>
 </body>
 </html>

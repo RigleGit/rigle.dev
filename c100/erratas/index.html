@@ -1,8 +1,10 @@
 <!doctype html>
 <html lang="es">
 <head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Erratas – C100</title><link rel="stylesheet" href="/assets/css/style.min.css">
+<title>Erratas – Lenguaje C en 100 ejercicios</title><link rel="stylesheet" href="/assets/css/style.min.css">
+</head>
 <body>
+<a class="skip-link" href="#main">Saltar al contenido</a>
 <nav class="navbar">
   <input type="checkbox" id="nav-toggle" class="nav-toggle">
   <label for="nav-toggle" class="nav-toggle-label">☰</label>
@@ -12,22 +14,35 @@
   </ul>
 </nav>
 
-<header class="hero">
+<main id="main" tabindex="-1">
+<header class="hero" role="banner">
   <h1>¿Has visto algo raro en el libro?</h1>
   <p>Gracias por ayudar a mejorar <em>Lenguaje C en 100 Ejercicios Explicados</em>. Aquí verás correcciones y podrás reportar nuevas erratas.</p>
 </header>
 
 <div class="hero">
-    <h2>📝 Reportar errata en GitHub</h3>
+    <h2>📝 Reportar errata en GitHub</h2>
     <p>Abre una incidencia con capítulo, página y detalle. Así todos los lectores pueden seguirlo.</p>
     <a class="btn" href="https://github.com/riglegit/c100-ejercicios/issues/new?title=Errata:+Cap%C3%ADtulo+p%C3%A1gina&body=Cap%C3%ADtulo:%0AP%C3%A1gina:%0ADetalle:" target="_blank" rel="noopener">Abrir issue</a>
   </div>
 
-</div>
+
 
 <p class="note"><a href="/">← Volver a la página principal</a></p>
+  </main>
   <footer>
     <p class="note">© Rodrigo Iglesias • <a href="/privacidad.html">Privacidad</a></p>
   </footer>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://rigle.dev/"},
+      {"@type": "ListItem", "position": 2, "name": "Lenguaje C en 100 ejercicios", "item": "https://rigle.dev/c100/"},
+      {"@type": "ListItem", "position": 3, "name": "Erratas", "item": "https://rigle.dev/c100/erratas/"}
+    ]
+  }
+  </script>
 </body>
 </html>

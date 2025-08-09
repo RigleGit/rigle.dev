@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="/assets/css/style.min.css">
 </head>
 <body>
+  <a class="skip-link" href="#main">Saltar al contenido</a>
   <nav class="navbar">
     <input type="checkbox" id="nav-toggle" class="nav-toggle">
     <label for="nav-toggle" class="nav-toggle-label">☰</label>
@@ -20,7 +21,19 @@
     </ul>
   </nav>
 
-  <h1>El código que acompaña al libro</h1>
+  <main id="main" tabindex="-1">
+  <h1> Código del libro: ejercicios de C resueltos</h1>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://rigle.dev/"},
+      {"@type": "ListItem", "position": 2, "name": "Lenguaje C en 100 ejercicios", "item": "https://rigle.dev/c100/"},
+      {"@type": "ListItem", "position": 3, "name": "Código", "item": "https://rigle.dev/c100/code/"}
+    ]
+  }
+  </script>
 
   <section class="hero">
     <p>Gracias por pasarte por aquí. Aquí puedes descargar el código completo del libro, tanto en repositorio como en ZIP. Además, tienes una plantilla con Devcontainer lista para empezar a practicar sin complicaciones.</p>
@@ -54,11 +67,12 @@
   </div>
 
   <section class="hero" style="margin-top:32px;">
-    <h2 id="newsletter">Aprende mejor. Construye más.</h1>
+    <h2 id="newsletter">Aprende mejor. Construye más.</h2>
   <p>Envío correos solo cuando tengo algo que merece la pena: novedades de los libros, nuevos ejercicios, curiosidades técnicas, herramientas de productividad, otros lenguajes de programación y recursos para aprender mejor. Sin ruido ni spam.</p>
     <a class="btn" href="/newsletter">Apuntarme a la newsletter</a>
   </section>
 
+  </main>
     <footer>
     <p class="note">© Rodrigo Iglesias • <a href="/privacidad.html">Privacidad</a></p>
   </footer>

@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="/assets/css/style.min.css">
 </head>
 <body>
+  <a class="skip-link" href="#main">Saltar al contenido</a>
 
   <nav class="navbar">
     <input type="checkbox" id="nav-toggle" class="nav-toggle">
@@ -20,7 +21,8 @@
     </ul>
   </nav>
 
-  <header class="hero">
+  <main id="main" tabindex="-1">
+  <header class="hero" role="banner">
     <h1>¡Gracias por tu interés!</h1>
     <p>Tu envío se ha procesado correctamente. Aquí tienes los recursos del pack para descargar cuando quieras si el email no llega correctamente o lo pierdes.</p>
   </header>
@@ -50,19 +52,32 @@
   <footer>
     <p class="note">© Rodrigo Iglesias • <a href="/privacidad.html">Privacidad</a></p>
   </footer>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://rigle.dev/"},
+      {"@type": "ListItem", "position": 2, "name": "Lenguaje C en 100 ejercicios", "item": "https://rigle.dev/c100/"},
+      {"@type": "ListItem", "position": 3, "name": "Gracias", "item": "https://rigle.dev/c100/gracias/"}
+    ]
+  }
+  </script>
 
-  <div id="modalNewsletter" style="display:flex;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(0,127,128,0.15);z-index:9999;align-items:center;justify-content:center;">
+  <div id="modalNewsletter" role="dialog" aria-modal="true" aria-labelledby="modalNewsletterTitle" aria-describedby="modalNewsletterDesc" style="display:flex;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(0,127,128,0.15);z-index:9999;align-items:center;justify-content:center;">
     <div style="background:#fff;padding:32px 24px;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.12);max-width:420px;margin:auto;text-align:center;">
-      <h3>¿Te gustaría recibir más recursos y novedades?</h3>
-      <p>Puedes suscribirte a la newsletter para recibir contenido exclusivo y avisos de nuevos packs.</p>
-      <iframe src="https://rodrigoiglesias.substack.com/embed" width="100%" height="320" style="border:1px solid #eaeaea; background:#fff;" frameborder="0" scrolling="no"></iframe>
+      <h3 id="modalNewsletterTitle">¿Te gustaría recibir más recursos y novedades?</h3>
+      <p id="modalNewsletterDesc">Puedes suscribirte a la newsletter para recibir contenido exclusivo y avisos de nuevos packs.</p>
+      <iframe title="Formulario de suscripción a la newsletter en Substack" src="https://rodrigoiglesias.substack.com/embed" width="100%" height="320" style="border:1px solid #eaeaea; background:#fff;" frameborder="0" scrolling="no" loading="lazy"></iframe>
       <button onclick="document.getElementById('modalNewsletter').style.display='none'" class="btn" style="margin-top:16px;">Cerrar</button>
     </div>
   </div>
   <script>
     // Mostrar el modal automáticamente al cargar la página
     window.onload = function() {
-      document.getElementById('modalNewsletter').style.display = 'flex';
+      var modal = document.getElementById('modalNewsletter');
+      modal.style.display = 'flex';
+      modal.setAttribute('aria-hidden','false');
     };
   </script>
 

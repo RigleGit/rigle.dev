@@ -4,10 +4,60 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Rodrigo Iglesias – rigle.dev</title>
+  <meta name="description" content="Soy Rodrigo Iglesias. Enseño programación en C con ejercicios prácticos, comparto recursos útiles y escribo sobre tecnología y productividad. Descubre mis proyectos y la newsletter.">
+  <link rel="canonical" href="https://rigle.dev/">
+
+  <!-- Open Graph / Twitter -->
+  <meta property="og:site_name" content="rigle.dev">
+  <meta property="og:title" content="Rodrigo Iglesias – rigle.dev">
+  <meta property="og:description" content="Profesor, desarrollador y creador de contenido técnico. Reviso programación, C, productividad y comparto proyectos, newsletter y recursos útiles.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://rigle.dev/">
+  <meta property="og:image" content="https://rigle.dev/assets/img/rodrigo.jpg">
+  <meta property="og:locale" content="es_ES">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Rodrigo Iglesias – rigle.dev">
+  <meta name="twitter:description" content="Profesor, desarrollador y creador de contenido técnico. Reviso programación, C, productividad y comparto proyectos, newsletter y recursos útiles.">
+  <meta name="twitter:image" content="https://rigle.dev/assets/img/rodrigo.jpg">
+
+  <!-- Preconnects -->
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+
+  <!-- Favicon -->
+  <link rel="icon" href="/assets/img/rodrigo.jpg" type="image/jpeg">
+
   <link rel="stylesheet" href="/assets/css/style.min.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+  <!-- JSON-LD Person + WebSite -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "name": "Rodrigo Iglesias",
+        "url": "https://rigle.dev/",
+        "image": "https://rigle.dev/assets/img/rodrigo.jpg",
+        "sameAs": [
+          "https://youtube.com/@rodrigoiglesias",
+          "https://instagram.com/rigle",
+          "https://x.com/RigleDX",
+          "https://rodrigoiglesias.substack.com"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "name": "rigle.dev",
+        "url": "https://rigle.dev/",
+        "inLanguage": "es-ES"
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
+  <a class="skip-link" href="#main">Saltar al contenido</a>
   <nav class="navbar">
     <input type="checkbox" id="nav-toggle" class="nav-toggle">
     <label for="nav-toggle" class="nav-toggle-label">
@@ -20,31 +70,32 @@
       <li><a href="#contacto">Contacto</a></li>
     </ul>
   </nav>
-  <header id="inicio" class="hero">
-    <img src="/assets/img/rodrigo.jpg" alt="Rodrigo Iglesias" class="profile-img">
+  <main id="main" tabindex="-1">
+  <header id="inicio" class="hero" role="banner">
+    <img src="/assets/img/rodrigo.jpg" alt="Rodrigo Iglesias" class="profile-img" fetchpriority="high">
     <h1>Rodrigo Iglesias</h1>
-    <p>Profesor, desarrollador y creador de contenido técnico. </p><p>Me apasiona enseñar tecnología de forma sencilla y útil.</p>
+    <p>Profesor y desarrollador. Ayudo a aprender sobre <strong>tecnología</strong> de forma clara y práctica, con recursos que puedes poner en marcha hoy.</p>
   </header>
 
   <section id="proyectos" class="project-section">
-    <h2>MIS PROYECTOS</h2>
+    <h2>Proyectos destacados</h2>
     <div class="cards">
       <div class="card">
         <div class="card-icon">📘</div>
         <h3>Lenguaje C en 100 ejercicios</h3>
-        <p>Libro práctico para aprender C con ejercicios resueltos y recursos adicionales.</p>
-        <a class="btn" href="/c100">Ver proyecto</a>
+        <p>Libro práctico para aprender C con <strong>100 ejercicios explicados</strong>, recursos de apoyo y código listo para usar.</p>
+        <a class="btn" href="/c100">Ver ejercicios de C</a>
       </div>
       <div class="card">
         <div class="card-icon">📺</div>
         <h3>YouTube</h3>
-        <p>Vídeos técnicos sobre programación, tecnología y productividad.</p>
-        <a class="btn" href="https://youtube.com/@rodrigoiglesias">Ver proyecto</a>
+        <p>Tutoriales y charlas sobre <strong>tecnología</strong>, fundamentos de programación y herramientas que facilitan el día a día.</p>
+          <a class="btn" href="https://youtube.com/@rodrigoiglesias" target="_blank" rel="noopener">Ver proyecto</a>
       </div>
       <div class="card">
         <div class="card-icon">📬</div>
         <h3>Newsletter</h3>
-        <p>Recursos exclusivos sobre programación, tecnología y productividad.</p>
+        <p>Ideas prácticas, ejercicios y herramientas sobre <strong>programación en C</strong>, tecnología y productividad. Sin ruido.</p>
         <a class="btn" href="/newsletter">Ver proyecto</a>
       </div>
     </div>
@@ -52,58 +103,62 @@
 
   <section id="redes" class="social-section">
     <h2>MEDIOS Y REDES SOCIALES</h2>
-    <div class="social-links-list">
-      <a href="https://youtube.com/@rodrigoiglesias" class="social-link">
+    <div class="social-links-list" aria-label="Perfiles en redes sociales">
+      <a href="https://youtube.com/@rodrigoiglesias" class="social-link" target="_blank" rel="noopener" aria-label="YouTube de Rodrigo Iglesias">
         <span><i class="fa-brands fa-youtube"></i> YouTube</span><span>→</span>
       </a>
-      <a href="https://instagram.com/@rigle" class="social-link">
+      <a href="https://instagram.com/rigle" class="social-link" target="_blank" rel="noopener" aria-label="Instagram de Rodrigo Iglesias">
         <span><i class="fa-brands fa-instagram"></i> Instagram</span><span>→</span>
       </a>
-      <a href="https://x.com/@RigleDX" class="social-link">
+      <a href="https://x.com/RigleDX" class="social-link" target="_blank" rel="noopener" aria-label="Cuenta de X de Rodrigo Iglesias">
         <span><i class="fa-brands fa-x-twitter"></i> Twitter / X</span><span>→</span>
       </a>
-      <a href="/newsletter" class="social-link">
+      <a href="/newsletter" class="social-link" aria-label="Ir a la newsletter de rigle.dev">
         <span><i class="fa-regular fa-envelope"></i> Newsletter</span><span>→</span>
       </a>
     </div>
   </section>
 
-  <section id="contacto" class="contact-section">
-    <h2>Contacto</h2>
-    <form id="contactForm" action="https://api.web3forms.com/submit" method="POST">
+  <section id="contacto" class="contact-section" aria-labelledby="contacto-heading">
+    <h2 id="contacto-heading">Contacto</h2>
+    <form id="contactForm" action="https://api.web3forms.com/submit" method="POST" aria-describedby="contacto-descripcion">
       <input type="hidden" name="access_key" value="09f7b42c-d87c-412b-9965-0db4474dd0d1">
       <input type="hidden" name="from_name" value="rigle.dev">
       <input type="hidden" name="source" id="source">
       <input type="checkbox" name="botcheck" class="hidden" style="display:none;">
 
       <div class="form-row">
-        <input type="text" name="name" placeholder="Tu nombre" required>
-        <input type="text" name="subject" placeholder="Asunto" required>
+        <label class="sr-only" for="name">Nombre</label>
+        <input id="name" type="text" name="name" placeholder="Tu nombre" required autocomplete="name">
+        <label class="sr-only" for="subject">Asunto</label>
+        <input id="subject" type="text" name="subject" placeholder="Asunto" required>
       </div>
 
-      <input type="email" name="email" placeholder="Tu correo electrónico *" required>
-      <textarea name="message" placeholder="Tu mensaje *" required></textarea>
+      <label class="sr-only" for="email">Correo electrónico</label>
+      <input id="email" type="email" name="email" placeholder="Tu correo electrónico *" required autocomplete="email" inputmode="email">
+      <label class="sr-only" for="message">Mensaje</label>
+      <textarea id="message" name="message" placeholder="Tu mensaje *" required></textarea>
 
       <button class="btn" type="submit">Enviar</button>
-      <p class="note">Tu mensaje será enviado directamente a mi correo. <a href="/privacidad.html">Privacidad</a>.</p>
+      <p id="contacto-descripcion" class="note">Te responderé personalmente. Tu mensaje llega directo a mi correo. <a href="/privacidad.html">Privacidad</a>.</p>
     </form>
-    <div id="modalEnviado" style="display:none;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(0,127,128,0.15);z-index:9999;align-items:center;justify-content:center;">
+    <div id="modalEnviado" role="dialog" aria-modal="true" aria-labelledby="modalEnviadoTitle" aria-describedby="modalEnviadoDesc" style="display:none;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(0,127,128,0.15);z-index:9999;align-items:center;justify-content:center;">
       <div style="background:#fff;padding:32px 24px;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.12);max-width:320px;margin:auto;text-align:center;">
-        <h3>¡Mensaje enviado!</h3>
-        <p>Tu mensaje se ha enviado correctamente.<br>Te responderé lo antes posible.</p>
+        <h3 id="modalEnviadoTitle">¡Mensaje enviado!</h3>
+        <p id="modalEnviadoDesc">Tu mensaje se ha enviado correctamente.<br>Te responderé lo antes posible.</p>
         <button onclick="document.getElementById('modalEnviado').style.display='none'" class="btn">Cerrar</button>
       </div>
     </div>
-    <div id="modalError" style="display:none;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(255,0,0,0.08);z-index:9999;align-items:center;justify-content:center;">
+    <div id="modalError" role="dialog" aria-modal="true" aria-labelledby="modalErrorTitle" aria-describedby="modalErrorDesc" style="display:none;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(255,0,0,0.08);z-index:9999;align-items:center;justify-content:center;">
       <div style="background:#fff;padding:32px 24px;border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.12);max-width:320px;margin:auto;text-align:center;">
-        <h3>Error al enviar</h3>
-        <p>Hubo un error al enviar el mensaje.<br>Por favor, inténtalo de nuevo más tarde.</p>
+        <h3 id="modalErrorTitle">Error al enviar</h3>
+        <p id="modalErrorDesc">Hubo un error al enviar el mensaje.<br>Por favor, inténtalo de nuevo más tarde.</p>
         <button onclick="document.getElementById('modalError').style.display='none'" class="btn">Cerrar</button>
       </div>
     </div>
     <script src="/assets/js/contact.min.js"></script>
   </section>
-
+  </main>
   <footer>
     <p class="note">© Rodrigo Iglesias • <a href="/privacidad.html">Privacidad</a></p>
   </footer>
