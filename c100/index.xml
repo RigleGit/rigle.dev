@@ -1,0 +1,102 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programación en C en 100 ejercicios resueltos - - rigle.dev</title><link>https://rigle.dev/c100/</link><description>Programación en C en 100 ejercicios resueltos - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><atom:link href="https://rigle.dev/c100/" rel="self" type="application/rss+xml"/><item><title>Código del libro</title><link>https://rigle.dev/c100/code/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/c100/code/</guid><description><![CDATA[<h2 id="código-del-libro-c-en-100-ejercicios" class="headerLink">
+    <a href="#c%c3%b3digo-del-libro-c-en-100-ejercicios" class="header-mark"></a>Código del libro C en 100 ejercicios</h2><p>Accede al código completo del libro en el formato que prefieras y ponlo en marcha al instante.</p>
+<ul>
+<li><a href="https://github.com/riglegit/c100-ejercicios" target="_blank" rel="noopener noreferrer">Repositorio en GitHub</a></li>
+<li><a href="https://github.com/riglegit/c100-ejercicios/archive/refs/heads/main.zip" target="_blank" rel="noopener noreferrer">Descarga en ZIP</a></li>
+<li><a href="https://github.com/riglegit/c100-ejercicios/tree/main/.devcontainer" target="_blank" rel="noopener noreferrer">Plantilla Devcontainer</a></li>
+<li><a href="/c100/erratas/" rel="">Erratas y sugerencias</a></li>
+</ul>
+<p>¿Quieres seguir aprendiendo? <a href="/newsletter/" rel="">Apúntate a la newsletter</a>: tecnología, educación, programación, cultura de internet y herramientas útiles.</p>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://rigle.dev/"},
+    {"@type": "ListItem", "position": 2, "name": "Lenguaje C en 100 ejercicios", "item": "https://rigle.dev/c100/"},
+    {"@type": "ListItem", "position": 3, "name": "Código", "item": "https://rigle.dev/c100/code/"}
+  ]
+}
+</script>]]></description></item><item><title>Erratas</title><link>https://rigle.dev/c100/erratas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/c100/erratas/</guid><description><![CDATA[<h2 id="has-visto-algo-raro-en-el-libro" class="headerLink">
+    <a href="#has-visto-algo-raro-en-el-libro" class="header-mark"></a>¿Has visto algo raro en el libro?</h2><p>Gracias por ayudar a mejorar <em>Programación en C en 100 Ejercicios Resueltos</em>. Aquí verás correcciones y podrás reportar nuevas erratas.</p>
+<h3 id="reportar-una-errata" class="headerLink">
+    <a href="#reportar-una-errata" class="header-mark"></a>Reportar una errata</h3><p>Abre una incidencia con capítulo, página y detalle. Así todos los lectores pueden seguirla y comentar.</p>
+<ul>
+<li><a href="https://github.com/riglegit/c100-ejercicios/issues/new?title=Errata:&#43;Cap%C3%ADtulo&#43;p%C3%A1gina&amp;body=Cap%C3%ADtulo:%0AP%C3%A1gina:%0ADetalle:" target="_blank" rel="noopener noreferrer">Abrir issue en GitHub</a></li>
+</ul>
+<p><a href="/" rel="">← Volver a la página principal</a></p>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://rigle.dev/"},
+    {"@type": "ListItem", "position": 2, "name": "Lenguaje C en 100 ejercicios", "item": "https://rigle.dev/c100/"},
+    {"@type": "ListItem", "position": 3, "name": "Erratas", "item": "https://rigle.dev/c100/erratas/"}
+  ]
+}
+</script>]]></description></item><item><title>Gracias</title><link>https://rigle.dev/c100/gracias/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/c100/gracias/</guid><description><![CDATA[<h2 id="gracias-por-tu-interés" class="headerLink">
+    <a href="#gracias-por-tu-inter%c3%a9s" class="header-mark"></a>¡Gracias por tu interés!</h2><p>Tu envío se ha procesado correctamente. Aquí tienes los recursos del pack por si el correo se retrasa o lo pierdes.</p>
+<ul>
+<li><a href="/assets/c100/pack/chuleta.pdf" rel="">Chuleta A4 de Lenguaje C (PDF)</a></li>
+<li><a href="https://vscode.dev/github/riglegit/c100-ejercicios" target="_blank" rel="noopener noreferrer">Plantilla Devcontainer</a></li>
+<li><a href="https://github.com/riglegit/c100-ejercicios/archive/refs/heads/main.zip" target="_blank" rel="noopener noreferrer">Repositorio completo de ejercicios</a></li>
+</ul>
+<h3 id="apúntate-a-la-newsletter" class="headerLink">
+    <a href="#ap%c3%bantate-a-la-newsletter" class="header-mark"></a>Apúntate a la newsletter</h3><p>Tecnología, educación, programación, cultura de internet y herramientas útiles.</p>
+<iframe title="Formulario de suscripción a la newsletter en Substack" src="https://rodrigoiglesias.substack.com/embed" width="100%" height="320" style="border:1px solid #eaeaea; background:#fff;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+<p><a href="/" rel="">← Volver a la página principal</a></p>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://rigle.dev/"},
+    {"@type": "ListItem", "position": 2, "name": "Lenguaje C en 100 ejercicios", "item": "https://rigle.dev/c100/"},
+    {"@type": "ListItem", "position": 3, "name": "Gracias", "item": "https://rigle.dev/c100/gracias/"}
+  ]
+}
+</script>]]></description></item><item><title>Pack del lector – Programación en C en 100 ejercicios</title><link>https://rigle.dev/c100/pack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/c100/pack/</guid><description><![CDATA[<h2 id="tu-pack-del-lector-está-listo" class="headerLink">
+    <a href="#tu-pack-del-lector-est%c3%a1-listo" class="header-mark"></a>Tu pack del lector está listo</h2><p>Recibe por email la chuleta A4 del Lenguaje C, la plantilla con tests y el Devcontainer preparado.</p>
+<form id="packForm" aria-describedby="packDesc">
+  <p>
+    <label for="pack-name">Nombre</label><br>
+    <input id="pack-name" type="text" name="name" placeholder="Tu nombre" autocomplete="name">
+  </p>
+  <p>
+    <label for="pack-email">Correo electrónico *</label><br>
+    <input id="pack-email" type="email" name="email" placeholder="Tu correo *" required autocomplete="email" inputmode="email">
+  </p>
+  <input type="hidden" name="packId" value="c100">
+  <input type="hidden" name="source" id="source" value="">
+  <input type="text" name="botcheck" style="display:none">
+  <p>
+    <button type="submit" id="packBtn">Quiero el pack</button>
+  </p>
+  <p id="packDesc"><small>Recibirás un correo con los enlaces. Si no lo ves, revisa spam o visita la página de <a href="/c100/gracias/">Gracias</a>.</small></p>
+</form>
+<script src="/assets/js/pack.min.js"></script>
+<h3 id="más-recursos" class="headerLink">
+    <a href="#m%c3%a1s-recursos" class="header-mark"></a>Más recursos</h3><ul>
+<li><a href="/c100/code/?utm_source=pack&amp;utm_medium=link&amp;utm_campaign=c100_v2&amp;utm_content=code" rel="">Repositorio del código</a></li>
+<li><a href="/c100/erratas/?utm_source=pack&amp;utm_medium=link&amp;utm_campaign=c100_v2&amp;utm_content=erratas" rel="">Erratas y sugerencias</a></li>
+<li><a href="/newsletter/" rel="">Suscribirte a la newsletter</a></li>
+</ul>
+<div id="modalPackError" style="display:none;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(255,0,0,0.08);z-index:9999;align-items:center;justify-content:center;">
+  <div style="background:var(--global-background-color);padding:24px;border-radius:12px;max-width:320px;margin:auto;text-align:center;">
+    <h3>Error</h3>
+    <p id="modalPackErrorMsg">Ha ocurrido un problema.</p>
+    <button type="button" onclick="document.getElementById('modalPackError').style.display='none'">Cerrar</button>
+  </div>
+</div>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Inicio", "item": "https://rigle.dev/"},
+    {"@type": "ListItem", "position": 2, "name": "Lenguaje C en 100 ejercicios", "item": "https://rigle.dev/c100/"},
+    {"@type": "ListItem", "position": 3, "name": "Pack del Lector", "item": "https://rigle.dev/c100/pack/"}
+  ]
+}
+</script>]]></description></item></channel></rss>

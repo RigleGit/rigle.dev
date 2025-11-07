@@ -33,7 +33,7 @@
       });
       const json = await res.json().catch(() => null);
       if (json && json.ok) {
-        window.location.href = '/c100/gracias/index.html';
+        window.location.href = '/c100/gracias/';
         return;
       }
       modalErrorMsg.textContent = 'Hubo un problema enviando el pack. Inténtalo más tarde.';
