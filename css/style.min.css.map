@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.min.css",
-	"sourceRoot": "/home/rodrigoiglesias/Documentos/GitHub/rigle.dev",
+	"sourceRoot": "/home/runner/work/rigle.dev-hugo/rigle.dev-hugo",
 	"sources": [
 		"themes/DoIt/assets/css/style.scss",
 		"themes/DoIt/assets/css/_variables.scss",
