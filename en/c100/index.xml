@@ -52,7 +52,7 @@
   <p>
     <button type="submit" id="packBtn">I want the pack</button>
   </p>
-  <p id="packDesc"><small>You will receive an email with the links. If you don't see it, check spam or visit the <a href="/en/c100/gracias/">Thank you</a> page.</small></p>
+  <p id="packDesc"><small>You will receive an email with the links. If you don't see it, check spam or visit the <a href="/en/c100/gracias/">Thank you</a> page. By submitting you accept the <a href="/en/privacy.html">Privacy Policy</a>.</small></p>
 </form>
 <script src="/assets/js/pack.min.js"></script>
 <h3 id="more-resources" class="headerLink">
