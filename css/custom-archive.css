@@ -1,0 +1,50 @@
+/* Mejorar el layout de archive-item para títulos largos */
+.archive-item {
+  display: grid !important;
+  grid-template-columns: 1fr auto auto !important;
+  gap: 0.5rem 1rem !important;
+  align-items: baseline !important;
+}
+
+.archive-item-link {
+  overflow: visible !important;
+  text-overflow: clip !important;
+  word-break: break-word;
+  hyphens: auto;
+  min-width: 0;
+}
+
+.archive-item-reading-time {
+  white-space: nowrap !important;
+  color: var(--global-font-secondary-color);
+  font-size: 0.875rem;
+  text-align: right;
+}
+
+.archive-item-date {
+  white-space: nowrap !important;
+  text-align: right !important;
+  min-width: fit-content !important;
+  margin-left: 0 !important;
+}
+
+@media screen and (max-width: 680px) {
+  .archive-item {
+    grid-template-columns: 1fr auto !important;
+    gap: 0.25rem 0.5rem !important;
+  }
+  
+  .archive-item-link {
+    grid-column: 1 / -1;
+  }
+  
+  .archive-item-reading-time {
+    grid-column: 1;
+    text-align: left;
+  }
+  
+  .archive-item-date {
+    grid-column: 2;
+    margin-left: auto !important;
+  }
+}
