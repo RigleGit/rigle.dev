@@ -1,0 +1,117 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Solved C Exercises - Tag - rigle.dev</title><link>https://rigle.dev/en/tags/solved-c-exercises/</link><description>Solved C Exercises - Tag - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/en/tags/solved-c-exercises/" rel="self" type="application/rss+xml"/><item><title>Files in C: solved exercise (count lines and chars)</title><link>https://rigle.dev/en/ejercicios-c/ficheros-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/ficheros-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="solved-files-in-c-exercise" class="headerLink">
+    <a href="#solved-files-in-c-exercise" class="header-mark" aria-label="Solved files in C exercise" title="Solved files in C exercise"></a>Solved files in C exercise</h2>
+<p>This exercise helps you master file input/output, a key skill in C.</p>
+<h2 id="problem-statement" class="headerLink">
+    <a href="#problem-statement" class="header-mark" aria-label="Problem statement" title="Problem statement"></a>Problem statement</h2>
+<p>Open a text file in read mode and count:</p>
+<ul>
+<li>number of lines,</li>
+<li>total number of characters.</li>
+</ul>
+<h2 id="c-solution" class="headerLink">
+    <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
+<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Matrices in C: solved exercises (diagonals)</title><link>https://rigle.dev/en/ejercicios-c/matrices-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/matrices-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="solved-matrices-in-c-exercise" class="headerLink">
+    <a href="#solved-matrices-in-c-exercise" class="header-mark" aria-label="Solved matrices in C exercise" title="Solved matrices in C exercise"></a>Solved matrices in C exercise</h2>
+<p>If you are searching for <strong>solved matrices exercises in C</strong>, this is a classic interview and exam problem.</p>
+<h2 id="problem-statement" class="headerLink">
+    <a href="#problem-statement" class="header-mark" aria-label="Problem statement" title="Problem statement"></a>Problem statement</h2>
+<p>Given a <code>3x3</code> square matrix, compute:</p>
+<ul>
+<li>main diagonal sum,</li>
+<li>secondary diagonal sum.</li>
+</ul>
+<h2 id="c-solution" class="headerLink">
+    <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
+<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Pointers in C: solved exercises with explanation</title><link>https://rigle.dev/en/ejercicios-c/punteros-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/punteros-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="solved-pointers-in-c-exercise" class="headerLink">
+    <a href="#solved-pointers-in-c-exercise" class="header-mark" aria-label="Solved pointers in C exercise" title="Solved pointers in C exercise"></a>Solved pointers in C exercise</h2>
+<p>This exercise focuses on a core C skill: <strong>pass-by-reference with pointers</strong>.</p>
+<h2 id="problem-statement" class="headerLink">
+    <a href="#problem-statement" class="header-mark" aria-label="Problem statement" title="Problem statement"></a>Problem statement</h2>
+<p>Create a function <code>swap</code> that receives two integers by reference and swaps them. Then print values before and after.</p>
+<h2 id="c-solution" class="headerLink">
+    <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
+<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Recursion in C: solved exercise step by step</title><link>https://rigle.dev/en/ejercicios-c/recursividad-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/recursividad-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="solved-recursion-in-c-exercise" class="headerLink">
+    <a href="#solved-recursion-in-c-exercise" class="header-mark" aria-label="Solved recursion in C exercise" title="Solved recursion in C exercise"></a>Solved recursion in C exercise</h2>
+<p>Recursion in C can be hard at first. This example covers a common pattern: reversing a string.</p>
+<h2 id="problem-statement" class="headerLink">
+    <a href="#problem-statement" class="header-mark" aria-label="Problem statement" title="Problem statement"></a>Problem statement</h2>
+<p>Implement a recursive function that prints a string in reverse order without auxiliary arrays.</p>
+<h2 id="c-solution" class="headerLink">
+    <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
+<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item></channel></rss>
