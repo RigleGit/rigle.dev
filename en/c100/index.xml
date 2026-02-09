@@ -1,5 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Programming in C in 100 Solved Exercises - - rigle.dev</title><link>https://rigle.dev/en/c100/</link><description>Programming in C in 100 Solved Exercises - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><atom:link href="https://rigle.dev/en/c100/" rel="self" type="application/rss+xml"/><item><title>Book Code</title><link>https://rigle.dev/en/c100/code/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/c100/code/</guid><description><![CDATA[<h2 id="code-for-the-c-in-100-exercises-book" class="headerLink">
-    <a href="#code-for-the-c-in-100-exercises-book" class="header-mark"></a>Code for the C in 100 Exercises book</h2><p>Access the complete code for the book in your preferred format and get it running instantly.</p>
+    <a href="#code-for-the-c-in-100-exercises-book" class="header-mark" aria-label="Code for the C in 100 Exercises book" title="Code for the C in 100 Exercises book"></a>Code for the C in 100 Exercises book</h2>
+<p>Access the complete code for the book in your preferred format and get it running instantly.</p>
 <ul>
 <li><a href="https://github.com/riglegit/c100-ejercicios" target="_blank" rel="noopener noreferrer">GitHub Repository</a></li>
 <li><a href="https://github.com/riglegit/c100-ejercicios/archive/refs/heads/main.zip" target="_blank" rel="noopener noreferrer">Download as ZIP</a></li>
@@ -18,25 +19,13 @@
   ]
 }
 </script>]]></description></item><item><title>Errata</title><link>https://rigle.dev/en/c100/erratas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/c100/erratas/</guid><description><![CDATA[<h2 id="did-you-notice-something-odd-in-the-book" class="headerLink">
-    <a href="#did-you-notice-something-odd-in-the-book" class="header-mark"></a>Did you notice something odd in the book?</h2><p>Thank you for helping to improve <em>Programming in C in 100 Solved Exercises</em>. Here you will see corrections and can report new errata.</p>
+    <a href="#did-you-notice-something-odd-in-the-book" class="header-mark" aria-label="Did you notice something odd in the book?" title="Did you notice something odd in the book?"></a>Did you notice something odd in the book?</h2>
+<p>Thank you for helping to improve <em>Programming in C in 100 Solved Exercises</em>. Here you will see corrections and can report new errata.</p>
 <h3 id="report-an-errata" class="headerLink">
-    <a href="#report-an-errata" class="header-mark"></a>Report an errata</h3><p>Open an issue with chapter, page and detail. This way all readers can follow it and comment.</p>
-<ul>
-<li><a href="https://github.com/riglegit/c100-ejercicios/issues/new?title=Errata:&#43;Chapter&#43;page&amp;body=Chapter:%0APage:%0ADetail:" target="_blank" rel="noopener noreferrer">Open issue on GitHub</a></li>
-</ul>
-<p><a href="/en/" rel="">← Back to main page</a></p>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://rigle.dev/en/"},
-    {"@type": "ListItem", "position": 2, "name": "Programming in C in 100 Exercises", "item": "https://rigle.dev/en/c100/"},
-    {"@type": "ListItem", "position": 3, "name": "Errata", "item": "https://rigle.dev/en/c100/erratas/"}
-  ]
-}
-</script>]]></description></item><item><title>Reader Pack – Programming in C in 100 Exercises</title><link>https://rigle.dev/en/c100/pack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/c100/pack/</guid><description><![CDATA[<h2 id="your-reader-pack-is-ready" class="headerLink">
-    <a href="#your-reader-pack-is-ready" class="header-mark"></a>Your reader pack is ready</h2><p>Receive by email the A4 C Language cheat sheet, the template with tests and the prepared Devcontainer.</p>
+    <a href="#report-an-errata" class="header-mark" aria-label="Report an errata" title="Report an errata"></a>Report an errata</h3>
+<p>Open an issue with chapter, page and detail. This way all readers can follow it and comment.</p>]]></description></item><item><title>Reader Pack – Programming in C in 100 Exercises</title><link>https://rigle.dev/en/c100/pack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/c100/pack/</guid><description><![CDATA[<h2 id="your-reader-pack-is-ready" class="headerLink">
+    <a href="#your-reader-pack-is-ready" class="header-mark" aria-label="Your reader pack is ready" title="Your reader pack is ready"></a>Your reader pack is ready</h2>
+<p>Receive by email the A4 C Language cheat sheet, the template with tests and the prepared Devcontainer.</p>
 <form id="packForm" aria-describedby="packDesc">
   <p>
     <label for="pack-name">Name</label><br>
@@ -56,7 +45,8 @@
 </form>
 <script src="/assets/js/pack.min.js"></script>
 <h3 id="more-resources" class="headerLink">
-    <a href="#more-resources" class="header-mark"></a>More resources</h3><ul>
+    <a href="#more-resources" class="header-mark" aria-label="More resources" title="More resources"></a>More resources</h3>
+<ul>
 <li><a href="/en/c100/code/?utm_source=pack&amp;utm_medium=link&amp;utm_campaign=c100_v2&amp;utm_content=code" rel="">Code repository</a></li>
 <li><a href="/en/c100/erratas/?utm_source=pack&amp;utm_medium=link&amp;utm_campaign=c100_v2&amp;utm_content=erratas" rel="">Errata and suggestions</a></li>
 <li><a href="/en/newsletter/" rel="">Subscribe to the newsletter</a></li>
@@ -64,39 +54,14 @@
 <div id="modalPackError" style="display:none;position:fixed;top:0;left:0;width:100vw;height:100vh;background:rgba(255,0,0,0.08);z-index:9999;align-items:center;justify-content:center;">
   <div style="background:var(--global-background-color);padding:24px;border-radius:12px;max-width:320px;margin:auto;text-align:center;">
     <h3>Error</h3>
-    <p id="modalPackErrorMsg">A problem occurred.</p>
-    <button type="button" onclick="document.getElementById('modalPackError').style.display='none'">Close</button>
-  </div>
-</div>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://rigle.dev/en/"},
-    {"@type": "ListItem", "position": 2, "name": "Programming in C in 100 Exercises", "item": "https://rigle.dev/en/c100/"},
-    {"@type": "ListItem", "position": 3, "name": "Reader Pack", "item": "https://rigle.dev/en/c100/pack/"}
-  ]
-}
-</script>]]></description></item><item><title>Thank You</title><link>https://rigle.dev/en/c100/gracias/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/c100/gracias/</guid><description><![CDATA[<h2 id="thank-you-for-your-interest" class="headerLink">
-    <a href="#thank-you-for-your-interest" class="header-mark"></a>Thank you for your interest!</h2><p>Your submission has been processed successfully. Here are the pack resources in case the email is delayed or you lose it.</p>
+    <p id="modalPackErrorMsg">A problem occurred.</p>]]></description></item><item><title>Thank You</title><link>https://rigle.dev/en/c100/gracias/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/c100/gracias/</guid><description><![CDATA[<h2 id="thank-you-for-your-interest" class="headerLink">
+    <a href="#thank-you-for-your-interest" class="header-mark" aria-label="Thank you for your interest!" title="Thank you for your interest!"></a>Thank you for your interest!</h2>
+<p>Your submission has been processed successfully. Here are the pack resources in case the email is delayed or you lose it.</p>
 <ul>
 <li><a href="/assets/c100/pack/chuleta.pdf" rel="">C Language A4 Cheat Sheet (PDF)</a></li>
 <li><a href="https://vscode.dev/github/riglegit/c100-ejercicios" target="_blank" rel="noopener noreferrer">Devcontainer Template</a></li>
 <li><a href="https://github.com/riglegit/c100-ejercicios/archive/refs/heads/main.zip" target="_blank" rel="noopener noreferrer">Complete exercises repository</a></li>
 </ul>
 <h3 id="sign-up-for-the-newsletter" class="headerLink">
-    <a href="#sign-up-for-the-newsletter" class="header-mark"></a>Sign up for the newsletter</h3><p>Technology, education, programming, internet culture and useful tools.</p>
-<iframe title="Newsletter subscription form on Substack" src="https://rodrigoiglesias.substack.com/embed" width="100%" height="320" style="border:1px solid #eaeaea; background:#fff;" frameborder="0" scrolling="no" loading="lazy"></iframe>
-<p><a href="/en/" rel="">← Back to main page</a></p>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://rigle.dev/en/"},
-    {"@type": "ListItem", "position": 2, "name": "Programming in C in 100 Exercises", "item": "https://rigle.dev/en/c100/"},
-    {"@type": "ListItem", "position": 3, "name": "Thank You", "item": "https://rigle.dev/en/c100/gracias/"}
-  ]
-}
-</script>]]></description></item></channel></rss>
+    <a href="#sign-up-for-the-newsletter" class="header-mark" aria-label="Sign up for the newsletter" title="Sign up for the newsletter"></a>Sign up for the newsletter</h3>
+<p>Technology, education, programming, internet culture and useful tools.</p>]]></description></item></channel></rss>
