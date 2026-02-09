@@ -1,0 +1,12 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Lista Doblemente Enlazada C Ejercicio Resuelto - Etiqueta - rigle.dev</title><link>https://rigle.dev/tags/lista-doblemente-enlazada-c-ejercicio-resuelto/</link><description>Lista Doblemente Enlazada C Ejercicio Resuelto - Etiqueta - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/tags/lista-doblemente-enlazada-c-ejercicio-resuelto/" rel="self" type="application/rss+xml"/><item><title>Lista doblemente enlazada en C: ejercicio resuelto con insercion y recorrido</title><link>https://rigle.dev/ejercicios-c/lista-doblemente-enlazada-en-c-ejercicio-resuelto/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/lista-doblemente-enlazada-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="lista-doblemente-enlazada-en-c-ejercicio-resuelto" class="headerLink">
+    <a href="#lista-doblemente-enlazada-en-c-ejercicio-resuelto" class="header-mark" aria-label="Lista doblemente enlazada en C: ejercicio resuelto" title="Lista doblemente enlazada en C: ejercicio resuelto"></a>Lista doblemente enlazada en C: ejercicio resuelto</h2>
+<p>Si buscas <strong>lista doblemente enlazada en C ejercicio resuelto</strong>, este ejemplo te ensena exactamente lo que suele pedirse en practicas, entrevistas y examenes: insertar nodos, recorrer en ambos sentidos y liberar memoria correctamente.</p>
+<h2 id="enunciado" class="headerLink">
+    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
+<p>Implementa una lista doblemente enlazada con nodos que incluyan:</p>
+<ul>
+<li><code>valor</code></li>
+<li>puntero <code>siguiente</code></li>
+<li>puntero <code>anterior</code></li>
+</ul>
+<p>Crea funciones para:</p>]]></description></item></channel></rss>

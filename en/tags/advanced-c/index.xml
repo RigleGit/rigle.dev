@@ -1,7 +1,12 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Advanced C - Tag - rigle.dev</title><link>https://rigle.dev/en/tags/advanced-c/</link><description>Advanced C - Tag - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/en/tags/advanced-c/" rel="self" type="application/rss+xml"/><item><title>Doubly linked list in C: solved exercise step by step</title><link>https://rigle.dev/en/ejercicios-c/lista-doblemente-enlazada-en-c-ejercicio-resuelto/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/lista-doblemente-enlazada-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="solved-doubly-linked-list-in-c-exercise" class="headerLink">
-    <a href="#solved-doubly-linked-list-in-c-exercise" class="header-mark" aria-label="Solved doubly linked list in C exercise" title="Solved doubly linked list in C exercise"></a>Solved doubly linked list in C exercise</h2>
-<p>If you were searching for a clear <strong>doubly linked list in C solved exercise</strong>, this page gives you a practical implementation with complete code and expected output.</p>
-<p>This is one of the advanced exercises from <em>Programming in C in 100 Solved Exercises</em>.</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Advanced C - Tag - rigle.dev</title><link>https://rigle.dev/en/tags/advanced-c/</link><description>Advanced C - Tag - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/en/tags/advanced-c/" rel="self" type="application/rss+xml"/><item><title>Doubly linked list in C: solved exercise with insert and traversal</title><link>https://rigle.dev/en/ejercicios-c/lista-doblemente-enlazada-en-c-ejercicio-resuelto/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/lista-doblemente-enlazada-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="doubly-linked-list-in-c-solved-exercise" class="headerLink">
+    <a href="#doubly-linked-list-in-c-solved-exercise" class="header-mark" aria-label="Doubly linked list in C: solved exercise" title="Doubly linked list in C: solved exercise"></a>Doubly linked list in C: solved exercise</h2>
+<p>If you searched for <strong>doubly linked list in C solved exercise</strong>, this example covers the exact interview and exam pattern: insert nodes, traverse both directions, and free memory correctly.</p>
 <h2 id="problem-statement" class="headerLink">
     <a href="#problem-statement" class="header-mark" aria-label="Problem statement" title="Problem statement"></a>Problem statement</h2>
-<p>Implement a doubly linked list where each node stores:</p>]]></description></item></channel></rss>
+<p>Implement a doubly linked list where each node contains:</p>
+<ul>
+<li><code>value</code></li>
+<li><code>next</code> pointer</li>
+<li><code>prev</code> pointer</li>
+</ul>
+<p>Create functions to:</p>]]></description></item></channel></rss>

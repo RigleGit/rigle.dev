@@ -1,32 +1,128 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>rigle.dev</title><link>https://rigle.dev/</link><description>Ingeniero, profesor y desarrollador. Sistemas, tecnología, seguridad informática, desarrollo, videojuegos. Recursos prácticos y newsletter.</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Cómo arreglar la radio del Renault Clio 2004</title><link>https://rigle.dev/posts/como-arreglar-radio-renault-clio-2004/</link><pubDate>Mon, 05 Jan 2026 12:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/posts/como-arreglar-radio-renault-clio-2004/</guid><description><![CDATA[<p>Después de desconectar la batería o cambiarla en un Renault Clio de 2004 (y modelos similares), es muy común que la radio se bloquee. Si no tienes el código de seguridad a mano, puedes acabar en una situación donde la radio emite pitidos constantes o muestra un mensaje de &ldquo;ERROR&rdquo; que no te permite introducir nada.</p>
-<p>Tras un par de días de pruebas y búsqueda en foros en internet, he conseguido dar con la tecla para dejar todo funcionando y volver a meter el código, así que toca dejarlo escrito por aquí por si a alguien le sirve:</p>]]></description></item><item><title>md-to-pdf-exams: Crea exámenes en Markdown y genera PDFs automáticamente</title><link>https://rigle.dev/posts/md-to-pdf-exams-crear-examenes-markdown/</link><pubDate>Sun, 09 Nov 2025 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/posts/md-to-pdf-exams-crear-examenes-markdown/</guid><description><![CDATA[<div class="featured-image">
-                <img src="/posts/md-to-pdf-exams-crear-examenes-markdown/md-to-pdf-exam.webp" referrerpolicy="no-referrer">
-            </div><h2 id="el-problema-de-trabajar-en-múltiples-sistemas-operativos" class="headerLink">
-    <a href="#el-problema-de-trabajar-en-m%c3%baltiples-sistemas-operativos" class="header-mark" aria-label="El problema de trabajar en múltiples sistemas operativos" title="El problema de trabajar en múltiples sistemas operativos"></a>El problema de trabajar en múltiples sistemas operativos</h2>
-<p>Como muchos profesores de informática, he ido saltando de un sistema operativo a otro. Pero en mi caso, me he quedado usando los tres de normal: <strong>Windows</strong>, <strong>macOS</strong> y <strong>Fedora</strong>.</p>
-<p>Si bien ser &ldquo;multiplataforma&rdquo; me ayuda a probar bien el desarrollo en Flutter, me ha obligado a buscarme soluciones que funcionen independientemente del sistema que esté usando en ese momento.</p>]]></description></item><item><title>Bienvenida al blog</title><link>https://rigle.dev/posts/bienvenida/</link><pubDate>Thu, 06 Nov 2025 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/posts/bienvenida/</guid><description><![CDATA[<h2 id="hola" class="headerLink">
-    <a href="#hola" class="header-mark" aria-label="Hola" title="Hola"></a>Hola</h2>
-<p>Este es el blog de rigle.dev. Aquí iré compartiendo:</p>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>rigle.dev</title><link>https://rigle.dev/</link><description>Ingeniero, profesor y desarrollador. Sistemas, tecnología, seguridad informática, desarrollo, videojuegos. Recursos prácticos y newsletter.</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Ficheros en C: ejercicio resuelto para contar lineas y caracteres</title><link>https://rigle.dev/ejercicios-c/ficheros-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/ficheros-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="ficheros-en-c-ejercicio-resuelto" class="headerLink">
+    <a href="#ficheros-en-c-ejercicio-resuelto" class="header-mark" aria-label="Ficheros en C: ejercicio resuelto" title="Ficheros en C: ejercicio resuelto"></a>Ficheros en C: ejercicio resuelto</h2>
+<p>Si buscas <strong>ficheros en C ejercicios resueltos</strong>, este ejemplo cubre un caso real muy comun: abrir un archivo, recorrerlo caracter a caracter y calcular metricas basicas.</p>
+<h2 id="enunciado" class="headerLink">
+    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
+<p>Abre un archivo de texto en modo lectura y cuenta:</p>
 <ul>
-<li><strong>Tutoriales prácticos</strong> sobre programación, sistemas y herramientas</li>
-<li><strong>Reflexiones</strong> sobre educación y aprendizaje técnico</li>
-<li><strong>Cultura de internet</strong> y tecnología</li>
-<li><strong>Recursos útiles</strong> que vaya descubriendo y me apetezca compartir</li>
+<li>numero de lineas,</li>
+<li>numero total de caracteres.</li>
 </ul>
-<p>Todo lo que publique aquí será contenido que creo que te puede servir.</p>
-<h3 id="por-qué-un-blog" class="headerLink">
-    <a href="#por-qu%c3%a9-un-blog" class="header-mark" aria-label="¿Por qué un blog?" title="¿Por qué un blog?"></a>¿Por qué un blog?</h3>
-<p>La <a href="/newsletter/" rel="">newsletter</a> es para correos más directos y personales. El blog es para contenido más extenso, tutoriales paso a paso y reflexiones que quiero tener documentadas y accesibles.</p>]]></description></item><item><title>¿Cómo mejorar en Smash?</title><link>https://rigle.dev/posts/como-mejorar-en-smash/</link><pubDate>Sun, 30 May 2021 09:21:02 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/posts/como-mejorar-en-smash/</guid><description><![CDATA[<p>Debido al ámbito competitivo de estos juegos, el tema de mejorar está siempre en boca de todos. En cuanto perdemos en una partida de un set de torneo nuestra mente nos dice que hay que mejorar algo, ya que la otra persona lo ha hecho mejor que nosotros o hemos fallado demasiadas cosas. Jugar a un juego competitivo requiere una mejora constante para mantener el nivel.</p>
-<p>Últimamente ha habido videos muy buenos sobre el tema en <a href="https://smashbrosspain.com" target="_blank" rel="noopener noreferrer">Smash Bros Spain</a>, pero me he decidido a hacer una pequeña introducción sobre lo que tendría que ser nuestro camino para mejorar. ¡Espero que os guste!</p>]]></description></item><item><title>Mi setup de Podcasting y Streaming</title><link>https://rigle.dev/posts/mi-setup-de-podcasting-y-streaming/</link><pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/posts/mi-setup-de-podcasting-y-streaming/</guid><description><![CDATA[<div class="featured-image">
-                <img src="/posts/mi-setup-de-podcasting-y-streaming/setup.webp" referrerpolicy="no-referrer">
-            </div><p>Hace 5 meses que empecé a grabar el podcast de <a href="https://youtube.com/c/ElUltimoFrame" target="_blank" rel="noopener noreferrer">El Último Frame</a> con frecuencia casi semanal, y tras este tiempo creo que he conseguido una setup de grabación bastante decente. Hay elementos que se podrían mejorar, como es el caso del micrófono, ya que aunque tiene una calidad aceptable, los hay bastante mejores y que captan menos ruido. No obstante, para mi situación actual es más que suficiente para proporcionar <strong>una buena calidad</strong>.</p>]]></description></item><item><title>Xubuntu 18.04 en el T100TA</title><link>https://rigle.dev/posts/xubuntu-1804-en-el-t100ta/</link><pubDate>Wed, 15 Aug 2018 09:31:07 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/posts/xubuntu-1804-en-el-t100ta/</guid><description><![CDATA[<div class="featured-image">
-                <img src="/posts/xubuntu-1804-en-el-t100ta/asus-t100ta.jpg" referrerpolicy="no-referrer">
-            </div><p>Tras ver las últimas actualizaciones en los kernels, consultar el <a href="https://plus.google.com/communities/117853703024346186936" target="_blank" rel="noopener noreferrer">grupo de Google Plus</a> <em>(nota: Google+ cerró en 2019, puedes ver el grupo <a href="https://web.archive.org/web/20190207094956/https://plus.google.com/communities/117853703024346186936" target="_blank" rel="noopener noreferrer">archivado aquí</a>. Ahora la comunidad está en <a href="https://www.facebook.com/groups/381498159345464/" target="_blank" rel="noopener noreferrer">Facebook</a>)</em> y la nueva guía que han hecho describiendo el proceso de instalación de una manera sencilla, me he aventurado a volver a tener Linux en el pequeñín. Además, gran parte de los problemas que había (no funcionaban los botones físicos, ni la retroiluminación, ni el micrófono…) han sido solucionados.</p>]]></description></item><item><title>Linux en mi Asus T100TA</title><link>https://rigle.dev/posts/linux-on-my-asus-t100ta/</link><pubDate>Mon, 07 Sep 2015 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/posts/linux-on-my-asus-t100ta/</guid><description><![CDATA[<div class="featured-image">
-                <img src="/posts/linux-on-my-asus-t100ta/programming.jpg" referrerpolicy="no-referrer">
-            </div><p>Esta entrada va a ser mi <strong>diario de Linux</strong>, para poder mantener un registro de lo que hago en la tablet. Bueno, empecemos desde el principio:</p>
-<h2 id="windows-me-odia" class="headerLink">
-    <a href="#windows-me-odia" class="header-mark" aria-label="Windows me odia" title="Windows me odia"></a>Windows me odia</h2>
-<p>Este cambio empezó con la nueva actualización del SO de Microsoft, <strong>Windows 10</strong>. Quería probarlo en mi tablet, una <strong>Asus Transformer T100</strong>, para ver cómo funcionaba. Aunque leí mucho sobre su falta de privacidad, también tenía curiosidad por todos los cambios como el <strong>soporte multi-escritorio</strong> (que tanto Linux como Macintosh tienen desde hace años) y <strong>Cortana</strong>, que ofrecía muchas <a href="http://www.pcworld.com/article/2874400/windows/windows-10-the-10-coolest-features-you-should-check-out-first.html" target="_blank" rel="noopener noreferrer">características</a> que parecían útiles.</p>]]></description></item><item><title>Mi primera experiencia con Jekyll</title><link>https://rigle.dev/posts/my-first-experience-with-jekyll/</link><pubDate>Fri, 17 Apr 2015 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/posts/my-first-experience-with-jekyll/</guid><description><![CDATA[<div class="featured-image">
-                <img src="/posts/my-first-experience-with-jekyll/clean-blog.jpg" referrerpolicy="no-referrer">
-            </div><p>Después de casi siete años usando <a href="https://www.wordpress.com/" target="_blank" rel="noopener noreferrer">Wordpress</a> y <a href="https://www.blogger.com/" target="_blank" rel="noopener noreferrer">Blogger</a> como mis principales servicios de blogging, he decidido cambiar de opinión, dar un paso adelante e instalar una web/blog simple con un gran frontend y sin una base de datos compleja y sus vulnerabilidades. Además, no me gusta la sensación de que Wordpress sea dueño del contenido de mi blog porque está alojado allí.</p>
-<p>Echando un vistazo a las posibilidades decidí probar <strong><a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a></strong> en <strong><a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a></strong>. Jekyll es un motor simple de web/blog escrito en <a href="https://www.ruby-lang.org" target="_blank" rel="noopener noreferrer">Ruby</a> que usa páginas estáticas como entradas y posts, así que&hellip; ¡no más bases de datos!</p>]]></description></item></channel></rss>
+<h2 id="solucion-en-c" class="headerLink">
+    <a href="#solucion-en-c" class="header-mark" aria-label="Solucion en C" title="Solucion en C"></a>Solucion en C</h2>
+<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Lista doblemente enlazada en C: ejercicio resuelto con insercion y recorrido</title><link>https://rigle.dev/ejercicios-c/lista-doblemente-enlazada-en-c-ejercicio-resuelto/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/lista-doblemente-enlazada-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="lista-doblemente-enlazada-en-c-ejercicio-resuelto" class="headerLink">
+    <a href="#lista-doblemente-enlazada-en-c-ejercicio-resuelto" class="header-mark" aria-label="Lista doblemente enlazada en C: ejercicio resuelto" title="Lista doblemente enlazada en C: ejercicio resuelto"></a>Lista doblemente enlazada en C: ejercicio resuelto</h2>
+<p>Si buscas <strong>lista doblemente enlazada en C ejercicio resuelto</strong>, este ejemplo te ensena exactamente lo que suele pedirse en practicas, entrevistas y examenes: insertar nodos, recorrer en ambos sentidos y liberar memoria correctamente.</p>
+<h2 id="enunciado" class="headerLink">
+    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
+<p>Implementa una lista doblemente enlazada con nodos que incluyan:</p>
+<ul>
+<li><code>valor</code></li>
+<li>puntero <code>siguiente</code></li>
+<li>puntero <code>anterior</code></li>
+</ul>
+<p>Crea funciones para:</p>]]></description></item><item><title>Matrices en C: ejercicio resuelto de diagonal principal y secundaria</title><link>https://rigle.dev/ejercicios-c/matrices-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/matrices-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="matrices-en-c-ejercicio-resuelto" class="headerLink">
+    <a href="#matrices-en-c-ejercicio-resuelto" class="header-mark" aria-label="Matrices en C: ejercicio resuelto" title="Matrices en C: ejercicio resuelto"></a>Matrices en C: ejercicio resuelto</h2>
+<p>Si llegas buscando <strong>matrices en C ejercicios resueltos</strong>, este es uno de los ejercicios mas utiles para dominar indices en arrays bidimensionales.</p>
+<h2 id="enunciado" class="headerLink">
+    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
+<p>Dada una matriz cuadrada <code>3x3</code>, calcula:</p>
+<ul>
+<li>suma de diagonal principal,</li>
+<li>suma de diagonal secundaria.</li>
+</ul>
+<h2 id="solucion-en-c" class="headerLink">
+    <a href="#solucion-en-c" class="header-mark" aria-label="Solucion en C" title="Solucion en C"></a>Solucion en C</h2>
+<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Punteros en C: ejercicios resueltos de paso por referencia</title><link>https://rigle.dev/ejercicios-c/punteros-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/punteros-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="punteros-en-c-ejercicio-resuelto" class="headerLink">
+    <a href="#punteros-en-c-ejercicio-resuelto" class="header-mark" aria-label="Punteros en C: ejercicio resuelto" title="Punteros en C: ejercicio resuelto"></a>Punteros en C: ejercicio resuelto</h2>
+<p>Si has llegado por <strong>punteros en C ejercicios resueltos</strong>, este ejemplo ataca una base real: modificar valores desde una funcion con paso por referencia.</p>
+<h2 id="enunciado" class="headerLink">
+    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
+<p>Crea una funcion <code>intercambiar</code> que reciba dos enteros por referencia y cambie sus valores. Muestra el estado antes y despues.</p>
+<h2 id="solucion-en-c" class="headerLink">
+    <a href="#solucion-en-c" class="header-mark" aria-label="Solucion en C" title="Solucion en C"></a>Solucion en C</h2>
+<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Recursividad en C: ejercicio resuelto para invertir una cadena</title><link>https://rigle.dev/ejercicios-c/recursividad-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/recursividad-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="recursividad-en-c-ejercicio-resuelto" class="headerLink">
+    <a href="#recursividad-en-c-ejercicio-resuelto" class="header-mark" aria-label="Recursividad en C: ejercicio resuelto" title="Recursividad en C: ejercicio resuelto"></a>Recursividad en C: ejercicio resuelto</h2>
+<p>Si buscas <strong>recursividad en C ejercicio resuelto</strong>, este ejemplo te ensena una estructura clasica: caso base, llamada recursiva y trabajo al volver.</p>
+<h2 id="enunciado" class="headerLink">
+    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
+<p>Implementa una funcion recursiva que imprima una cadena al reves sin usar arrays auxiliares.</p>
+<h2 id="solucion-en-c" class="headerLink">
+    <a href="#solucion-en-c" class="header-mark" aria-label="Solucion en C" title="Solucion en C"></a>Solucion en C</h2>
+<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item></channel></rss>
