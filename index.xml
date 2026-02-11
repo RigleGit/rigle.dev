@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>rigle.dev</title><link>https://rigle.dev/</link><description>Ingeniero, profesor y desarrollador. Sistemas, tecnología, seguridad informática, desarrollo, videojuegos. Recursos prácticos y newsletter.</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Pila en C (stack): ejercicio resuelto con push, pop y peek</title><link>https://rigle.dev/ejercicios-c/pila-en-c-ejercicio-resuelto/</link><pubDate>Wed, 11 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/pila-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="pila-en-c-ejercicio-resuelto" class="headerLink">
     <a href="#pila-en-c-ejercicio-resuelto" class="header-mark" aria-label="Pila en C: ejercicio resuelto" title="Pila en C: ejercicio resuelto"></a>Pila en C: ejercicio resuelto</h2>
-<p>Si buscas <strong>pila en C ejercicio resuelto</strong>, aqui tienes una implementacion clara de stack con validaciones.</p>
+<p>Si buscas <strong>pila en C ejercicio resuelto</strong>, aquí tienes una implementación clara de stack con validaciones.</p>
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
 <p>Implementa una pila de enteros con:</p>
@@ -10,8 +10,8 @@
 <li><code>peek</code>,</li>
 <li>funciones de comprobacion de estado.</li>
 </ul>
-<h2 id="solucion-en-c" class="headerLink">
-    <a href="#solucion-en-c" class="header-mark" aria-label="Solucion en C" title="Solucion en C"></a>Solucion en C</h2>
+<h2 id="solución-en-c" class="headerLink">
+    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
 <div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
   <div class="
     
@@ -31,9 +31,9 @@
       aria-hidden="true">
           <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
-          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Lista simplemente enlazada en C: ejercicio resuelto con insercion y borrado</title><link>https://rigle.dev/ejercicios-c/lista-simplemente-enlazada-en-c-ejercicio-resuelto/</link><pubDate>Tue, 10 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/lista-simplemente-enlazada-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="lista-simplemente-enlazada-en-c-ejercicio-resuelto" class="headerLink">
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Lista simplemente enlazada en C: ejercicio resuelto con inserción y borrado</title><link>https://rigle.dev/ejercicios-c/lista-simplemente-enlazada-en-c-ejercicio-resuelto/</link><pubDate>Tue, 10 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/lista-simplemente-enlazada-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="lista-simplemente-enlazada-en-c-ejercicio-resuelto" class="headerLink">
     <a href="#lista-simplemente-enlazada-en-c-ejercicio-resuelto" class="header-mark" aria-label="Lista simplemente enlazada en C: ejercicio resuelto" title="Lista simplemente enlazada en C: ejercicio resuelto"></a>Lista simplemente enlazada en C: ejercicio resuelto</h2>
-<p>Si buscas <strong>lista simplemente enlazada en C ejercicio resuelto</strong>, este ejemplo cubre operaciones basicas reales: insertar, buscar y borrar.</p>
+<p>Si buscas <strong>lista simplemente enlazada en C ejercicio resuelto</strong>, este ejemplo cubre operaciones básicas reales: insertar, buscar y borrar.</p>
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
 <p>Implementa una lista enlazada simple con funciones para:</p>
@@ -43,8 +43,8 @@
 <li>borrar un nodo,</li>
 <li>liberar memoria.</li>
 </ul>
-<h2 id="solucion-en-c" class="headerLink">
-    <a href="#solucion-en-c" class="header-mark" aria-label="Solucion en C" title="Solucion en C"></a>Solucion en C</h2>
+<h2 id="solución-en-c" class="headerLink">
+    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
 <div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
   <div class="
     
@@ -66,16 +66,16 @@
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
           <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Ficheros en C: ejercicio resuelto para contar lineas y caracteres</title><link>https://rigle.dev/ejercicios-c/ficheros-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/ficheros-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="ficheros-en-c-ejercicio-resuelto" class="headerLink">
     <a href="#ficheros-en-c-ejercicio-resuelto" class="header-mark" aria-label="Ficheros en C: ejercicio resuelto" title="Ficheros en C: ejercicio resuelto"></a>Ficheros en C: ejercicio resuelto</h2>
-<p>Si buscas <strong>ficheros en C ejercicios resueltos</strong>, este ejemplo cubre un caso real muy comun: abrir un archivo, recorrerlo caracter a caracter y calcular metricas basicas.</p>
+<p>Si buscas <strong>ficheros en C ejercicios resueltos</strong>, este ejemplo cubre un caso real muy común: abrir un archivo, recorrerlo carácter a carácter y calcular métricas básicas.</p>
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
 <p>Abre un archivo de texto en modo lectura y cuenta:</p>
 <ul>
-<li>numero de lineas,</li>
-<li>numero total de caracteres.</li>
+<li>número de lineas,</li>
+<li>número total de caracteres.</li>
 </ul>
-<h2 id="solucion-en-c" class="headerLink">
-    <a href="#solucion-en-c" class="header-mark" aria-label="Solucion en C" title="Solucion en C"></a>Solucion en C</h2>
+<h2 id="solución-en-c" class="headerLink">
+    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
 <div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
   <div class="
     
@@ -95,9 +95,9 @@
       aria-hidden="true">
           <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
-          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Lista doblemente enlazada en C: ejercicio resuelto con insercion y recorrido</title><link>https://rigle.dev/ejercicios-c/lista-doblemente-enlazada-en-c-ejercicio-resuelto/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/lista-doblemente-enlazada-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="lista-doblemente-enlazada-en-c-ejercicio-resuelto" class="headerLink">
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Lista doblemente enlazada en C: ejercicio resuelto con inserción y recorrido</title><link>https://rigle.dev/ejercicios-c/lista-doblemente-enlazada-en-c-ejercicio-resuelto/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/lista-doblemente-enlazada-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="lista-doblemente-enlazada-en-c-ejercicio-resuelto" class="headerLink">
     <a href="#lista-doblemente-enlazada-en-c-ejercicio-resuelto" class="header-mark" aria-label="Lista doblemente enlazada en C: ejercicio resuelto" title="Lista doblemente enlazada en C: ejercicio resuelto"></a>Lista doblemente enlazada en C: ejercicio resuelto</h2>
-<p>Si buscas <strong>lista doblemente enlazada en C ejercicio resuelto</strong>, este ejemplo te ensena exactamente lo que suele pedirse en practicas, entrevistas y examenes: insertar nodos, recorrer en ambos sentidos y liberar memoria correctamente.</p>
+<p>Si buscas <strong>lista doblemente enlazada en C ejercicio resuelto</strong>, este ejemplo te enseña exactamente lo que suele pedirse en prácticas, entrevistas y exámenes: insertar nodos, recorrer en ambos sentidos y liberar memoria correctamente.</p>
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
 <p>Implementa una lista doblemente enlazada con nodos que incluyan:</p>
@@ -108,7 +108,7 @@
 </ul>
 <p>Crea funciones para:</p>]]></description></item><item><title>Matrices en C: ejercicio resuelto de diagonal principal y secundaria</title><link>https://rigle.dev/ejercicios-c/matrices-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/matrices-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="matrices-en-c-ejercicio-resuelto" class="headerLink">
     <a href="#matrices-en-c-ejercicio-resuelto" class="header-mark" aria-label="Matrices en C: ejercicio resuelto" title="Matrices en C: ejercicio resuelto"></a>Matrices en C: ejercicio resuelto</h2>
-<p>Si llegas buscando <strong>matrices en C ejercicios resueltos</strong>, este es uno de los ejercicios mas utiles para dominar indices en arrays bidimensionales.</p>
+<p>Si llegas buscando <strong>matrices en C ejercicios resueltos</strong>, este es uno de los ejercicios más utiles para dominar índices en arrays bidimensionales.</p>
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
 <p>Dada una matriz cuadrada <code>3x3</code>, calcula:</p>
@@ -116,8 +116,8 @@
 <li>suma de diagonal principal,</li>
 <li>suma de diagonal secundaria.</li>
 </ul>
-<h2 id="solucion-en-c" class="headerLink">
-    <a href="#solucion-en-c" class="header-mark" aria-label="Solucion en C" title="Solucion en C"></a>Solucion en C</h2>
+<h2 id="solución-en-c" class="headerLink">
+    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
 <div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
   <div class="
     
@@ -139,12 +139,12 @@
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
           <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Punteros en C: ejercicios resueltos de paso por referencia</title><link>https://rigle.dev/ejercicios-c/punteros-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/punteros-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="punteros-en-c-ejercicio-resuelto" class="headerLink">
     <a href="#punteros-en-c-ejercicio-resuelto" class="header-mark" aria-label="Punteros en C: ejercicio resuelto" title="Punteros en C: ejercicio resuelto"></a>Punteros en C: ejercicio resuelto</h2>
-<p>Si has llegado por <strong>punteros en C ejercicios resueltos</strong>, este ejemplo ataca una base real: modificar valores desde una funcion con paso por referencia.</p>
+<p>Si has llegado por <strong>punteros en C ejercicios resueltos</strong>, este ejemplo ataca una base real: modificar valores desde una función con paso por referencia.</p>
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Crea una funcion <code>intercambiar</code> que reciba dos enteros por referencia y cambie sus valores. Muestra el estado antes y despues.</p>
-<h2 id="solucion-en-c" class="headerLink">
-    <a href="#solucion-en-c" class="header-mark" aria-label="Solucion en C" title="Solucion en C"></a>Solucion en C</h2>
+<p>Crea una función <code>intercambiar</code> que reciba dos enteros por referencia y cambie sus valores. Muestra el estado antes y después.</p>
+<h2 id="solución-en-c" class="headerLink">
+    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
 <div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
   <div class="
     
@@ -166,12 +166,12 @@
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
           <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Recursividad en C: ejercicio resuelto para invertir una cadena</title><link>https://rigle.dev/ejercicios-c/recursividad-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/recursividad-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="recursividad-en-c-ejercicio-resuelto" class="headerLink">
     <a href="#recursividad-en-c-ejercicio-resuelto" class="header-mark" aria-label="Recursividad en C: ejercicio resuelto" title="Recursividad en C: ejercicio resuelto"></a>Recursividad en C: ejercicio resuelto</h2>
-<p>Si buscas <strong>recursividad en C ejercicio resuelto</strong>, este ejemplo te ensena una estructura clasica: caso base, llamada recursiva y trabajo al volver.</p>
+<p>Si buscas <strong>recursividad en C ejercicio resuelto</strong>, este ejemplo te enseña una estructura clásica: caso base, llamada recursiva y trabajo al volver.</p>
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Implementa una funcion recursiva que imprima una cadena al reves sin usar arrays auxiliares.</p>
-<h2 id="solucion-en-c" class="headerLink">
-    <a href="#solucion-en-c" class="header-mark" aria-label="Solucion en C" title="Solucion en C"></a>Solucion en C</h2>
+<p>Implementa una función recursiva que imprima una cadena al revés sin usar arrays auxiliares.</p>
+<h2 id="solución-en-c" class="headerLink">
+    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
 <div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
   <div class="
     

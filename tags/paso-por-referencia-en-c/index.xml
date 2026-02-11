@@ -1,11 +1,11 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Paso Por Referencia en C - Etiqueta - rigle.dev</title><link>https://rigle.dev/tags/paso-por-referencia-en-c/</link><description>Paso Por Referencia en C - Etiqueta - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/tags/paso-por-referencia-en-c/" rel="self" type="application/rss+xml"/><item><title>Punteros en C: ejercicios resueltos de paso por referencia</title><link>https://rigle.dev/ejercicios-c/punteros-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/punteros-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="punteros-en-c-ejercicio-resuelto" class="headerLink">
     <a href="#punteros-en-c-ejercicio-resuelto" class="header-mark" aria-label="Punteros en C: ejercicio resuelto" title="Punteros en C: ejercicio resuelto"></a>Punteros en C: ejercicio resuelto</h2>
-<p>Si has llegado por <strong>punteros en C ejercicios resueltos</strong>, este ejemplo ataca una base real: modificar valores desde una funcion con paso por referencia.</p>
+<p>Si has llegado por <strong>punteros en C ejercicios resueltos</strong>, este ejemplo ataca una base real: modificar valores desde una función con paso por referencia.</p>
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Crea una funcion <code>intercambiar</code> que reciba dos enteros por referencia y cambie sus valores. Muestra el estado antes y despues.</p>
-<h2 id="solucion-en-c" class="headerLink">
-    <a href="#solucion-en-c" class="header-mark" aria-label="Solucion en C" title="Solucion en C"></a>Solucion en C</h2>
+<p>Crea una función <code>intercambiar</code> que reciba dos enteros por referencia y cambie sus valores. Muestra el estado antes y después.</p>
+<h2 id="solución-en-c" class="headerLink">
+    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
 <div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
   <div class="
     

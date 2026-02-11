@@ -1,17 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ejercicio Flutter Resuelto - Etiqueta - rigle.dev</title><link>https://rigle.dev/tags/ejercicio-flutter-resuelto/</link><description>Ejercicio Flutter Resuelto - Etiqueta - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/tags/ejercicio-flutter-resuelto/" rel="self" type="application/rss+xml"/><item><title>Contador en Flutter con setState: ejercicio resuelto paso a paso</title><link>https://rigle.dev/ejercicios-flutter/flutter-contador-con-setstate-ejercicio-resuelto/</link><pubDate>Tue, 10 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-flutter/flutter-contador-con-setstate-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="contador-en-flutter-con-setstate-ejercicio-resuelto" class="headerLink">
     <a href="#contador-en-flutter-con-setstate-ejercicio-resuelto" class="header-mark" aria-label="Contador en Flutter con setState: ejercicio resuelto" title="Contador en Flutter con setState: ejercicio resuelto"></a>Contador en Flutter con setState: ejercicio resuelto</h2>
-<p>Si buscas <strong>contador en Flutter con setState</strong>, este ejercicio resuelto te enseña el patron base para actualizar interfaz en tiempo real con estado local.</p>
+<p>Si buscas <strong>contador en Flutter con setState</strong>, este ejercicio resuelto te enseña el patrón base para actualizar interfaz en tiempo real con estado local.</p>
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
 <p>Construye una pantalla con:</p>
 <ul>
 <li>contador visible en el centro,</li>
-<li>boton para incrementar,</li>
-<li>boton para decrementar,</li>
-<li>boton para resetear a cero.</li>
+<li>botón para incrementar,</li>
+<li>botón para decrementar,</li>
+<li>botón para resetear a cero.</li>
 </ul>
-<h2 id="solucion-en-flutter" class="headerLink">
-    <a href="#solucion-en-flutter" class="header-mark" aria-label="Solucion en Flutter" title="Solucion en Flutter"></a>Solucion en Flutter</h2>
+<h2 id="solución-en-flutter" class="headerLink">
+    <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
 <div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
   <div class="
     

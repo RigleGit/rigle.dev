@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Diagonal Principal Y Secundaria - Etiqueta - rigle.dev</title><link>https://rigle.dev/tags/diagonal-principal-y-secundaria/</link><description>Diagonal Principal Y Secundaria - Etiqueta - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Mon, 09 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/tags/diagonal-principal-y-secundaria/" rel="self" type="application/rss+xml"/><item><title>Matrices en C: ejercicio resuelto de diagonal principal y secundaria</title><link>https://rigle.dev/ejercicios-c/matrices-en-c-ejercicios-resueltos/</link><pubDate>Mon, 09 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/matrices-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="matrices-en-c-ejercicio-resuelto" class="headerLink">
     <a href="#matrices-en-c-ejercicio-resuelto" class="header-mark" aria-label="Matrices en C: ejercicio resuelto" title="Matrices en C: ejercicio resuelto"></a>Matrices en C: ejercicio resuelto</h2>
-<p>Si llegas buscando <strong>matrices en C ejercicios resueltos</strong>, este es uno de los ejercicios mas utiles para dominar indices en arrays bidimensionales.</p>
+<p>Si llegas buscando <strong>matrices en C ejercicios resueltos</strong>, este es uno de los ejercicios más utiles para dominar índices en arrays bidimensionales.</p>
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
 <p>Dada una matriz cuadrada <code>3x3</code>, calcula:</p>
@@ -8,8 +8,8 @@
 <li>suma de diagonal principal,</li>
 <li>suma de diagonal secundaria.</li>
 </ul>
-<h2 id="solucion-en-c" class="headerLink">
-    <a href="#solucion-en-c" class="header-mark" aria-label="Solucion en C" title="Solucion en C"></a>Solucion en C</h2>
+<h2 id="solución-en-c" class="headerLink">
+    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
 <div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
   <div class="
     

@@ -1,6 +1,6 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Lista Simplemente Enlazada en C - Etiqueta - rigle.dev</title><link>https://rigle.dev/tags/lista-simplemente-enlazada-en-c/</link><description>Lista Simplemente Enlazada en C - Etiqueta - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/tags/lista-simplemente-enlazada-en-c/" rel="self" type="application/rss+xml"/><item><title>Lista simplemente enlazada en C: ejercicio resuelto con insercion y borrado</title><link>https://rigle.dev/ejercicios-c/lista-simplemente-enlazada-en-c-ejercicio-resuelto/</link><pubDate>Tue, 10 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/lista-simplemente-enlazada-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="lista-simplemente-enlazada-en-c-ejercicio-resuelto" class="headerLink">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Lista Simplemente Enlazada en C - Etiqueta - rigle.dev</title><link>https://rigle.dev/tags/lista-simplemente-enlazada-en-c/</link><description>Lista Simplemente Enlazada en C - Etiqueta - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Tue, 10 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/tags/lista-simplemente-enlazada-en-c/" rel="self" type="application/rss+xml"/><item><title>Lista simplemente enlazada en C: ejercicio resuelto con inserción y borrado</title><link>https://rigle.dev/ejercicios-c/lista-simplemente-enlazada-en-c-ejercicio-resuelto/</link><pubDate>Tue, 10 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/lista-simplemente-enlazada-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="lista-simplemente-enlazada-en-c-ejercicio-resuelto" class="headerLink">
     <a href="#lista-simplemente-enlazada-en-c-ejercicio-resuelto" class="header-mark" aria-label="Lista simplemente enlazada en C: ejercicio resuelto" title="Lista simplemente enlazada en C: ejercicio resuelto"></a>Lista simplemente enlazada en C: ejercicio resuelto</h2>
-<p>Si buscas <strong>lista simplemente enlazada en C ejercicio resuelto</strong>, este ejemplo cubre operaciones basicas reales: insertar, buscar y borrar.</p>
+<p>Si buscas <strong>lista simplemente enlazada en C ejercicio resuelto</strong>, este ejemplo cubre operaciones básicas reales: insertar, buscar y borrar.</p>
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
 <p>Implementa una lista enlazada simple con funciones para:</p>
@@ -10,8 +10,8 @@
 <li>borrar un nodo,</li>
 <li>liberar memoria.</li>
 </ul>
-<h2 id="solucion-en-c" class="headerLink">
-    <a href="#solucion-en-c" class="header-mark" aria-label="Solucion en C" title="Solucion en C"></a>Solucion en C</h2>
+<h2 id="solución-en-c" class="headerLink">
+    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
 <div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
   <div class="
     

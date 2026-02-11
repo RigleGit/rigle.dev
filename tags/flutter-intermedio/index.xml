@@ -3,9 +3,9 @@
 <p>Si buscas <strong>ListView.builder en Flutter</strong>, este ejercicio muestra como pintar listas largas sin penalizar rendimiento.</p>
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Crea una pantalla con una lista de 100 elementos y muestra el indice en cada fila.</p>
-<h2 id="solucion-en-flutter" class="headerLink">
-    <a href="#solucion-en-flutter" class="header-mark" aria-label="Solucion en Flutter" title="Solucion en Flutter"></a>Solucion en Flutter</h2>
+<p>Crea una pantalla con una lista de 100 elementos y muestra el índice en cada fila.</p>
+<h2 id="solución-en-flutter" class="headerLink">
+    <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
 <div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
   <div class="
     
