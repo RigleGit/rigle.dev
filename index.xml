@@ -1,4 +1,31 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>rigle.dev</title><link>https://rigle.dev/</link><description>Ingeniero, profesor y desarrollador. Sistemas, tecnología, seguridad informática, desarrollo, videojuegos. Recursos prácticos y newsletter.</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Búsqueda binaria en C: ejercicio resuelto en array ordenado</title><link>https://rigle.dev/ejercicios-c/busqueda-binaria-en-c-ejercicio-resuelto/</link><pubDate>Fri, 13 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/busqueda-binaria-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="búsqueda-binaria-en-c-ejercicio-resuelto" class="headerLink">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>rigle.dev</title><link>https://rigle.dev/</link><description>Ingeniero, profesor y desarrollador. Sistemas, tecnología, seguridad informática, desarrollo, videojuegos. Recursos prácticos y newsletter.</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Ordenacion burbuja en C: ejercicio resuelto paso a paso</title><link>https://rigle.dev/ejercicios-c/ordenacion-burbuja-en-c-ejercicio-resuelto/</link><pubDate>Sat, 14 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/ordenacion-burbuja-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="ordenacion-burbuja-en-c-ejercicio-resuelto" class="headerLink">
+    <a href="#ordenacion-burbuja-en-c-ejercicio-resuelto" class="header-mark" aria-label="Ordenacion burbuja en C: ejercicio resuelto" title="Ordenacion burbuja en C: ejercicio resuelto"></a>Ordenacion burbuja en C: ejercicio resuelto</h2>
+<p>Si buscas <strong>ordenacion burbuja en C ejercicio resuelto</strong>, este ejemplo explica el algoritmo y su optimizacion más común.</p>
+<h2 id="enunciado" class="headerLink">
+    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
+<p>Ordena un array de enteros de menor a mayor con burbuja e incluye una salida anticipada cuando no hay intercambios.</p>
+<h2 id="solución-en-c" class="headerLink">
+    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
+<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Búsqueda binaria en C: ejercicio resuelto en array ordenado</title><link>https://rigle.dev/ejercicios-c/busqueda-binaria-en-c-ejercicio-resuelto/</link><pubDate>Fri, 13 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/busqueda-binaria-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="búsqueda-binaria-en-c-ejercicio-resuelto" class="headerLink">
     <a href="#b%c3%basqueda-binaria-en-c-ejercicio-resuelto" class="header-mark" aria-label="Búsqueda binaria en C: ejercicio resuelto" title="Búsqueda binaria en C: ejercicio resuelto"></a>Búsqueda binaria en C: ejercicio resuelto</h2>
 <p>Si buscas <strong>búsqueda binaria en C ejercicio resuelto</strong>, este ejemplo incluye implementación iterativa y claves de complejidad.</p>
 <h2 id="enunciado" class="headerLink">
