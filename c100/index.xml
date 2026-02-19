@@ -38,7 +38,7 @@
 <h3 id="apúntate-a-la-newsletter" class="headerLink">
     <a href="#ap%c3%bantate-a-la-newsletter" class="header-mark" aria-label="Apúntate a la newsletter" title="Apúntate a la newsletter"></a>Apúntate a la newsletter</h3>
 <p>Tecnología, educación, programación, cultura de internet y herramientas útiles.</p>
-<iframe title="Formulario de suscripción a la newsletter en Substack" src="https://rodrigoiglesias.substack.com/embed" width="100%" height="320" style="border:1px solid #eaeaea; background:#fff;" frameborder="0" scrolling="no" loading="lazy"></iframe>
+<iframe title="Formulario de suscripción a la newsletter en Substack" src="https://rodrigoiglesias.substack.com/embed" class="substack-embed" width="100%" height="320" frameborder="0" scrolling="no" loading="lazy"></iframe>
 <p><a href="/" rel="">← Volver a la página principal</a></p>]]></description></item><item><title>Pack del lector – Programación en C en 100 ejercicios</title><link>https://rigle.dev/c100/pack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/c100/pack/</guid><description><![CDATA[<h2 id="tu-pack-del-lector-está-listo" class="headerLink">
     <a href="#tu-pack-del-lector-est%c3%a1-listo" class="header-mark" aria-label="Tu pack del lector está listo" title="Tu pack del lector está listo"></a>Tu pack del lector está listo</h2>
 <p>Recibe por email la chuleta A4 del Lenguaje C, la plantilla con tests y el Devcontainer preparado.</p>
