@@ -4,16 +4,20 @@
     if (!menu) return;
 
     const isOverflowing = () => menu.scrollWidth > menu.clientWidth + 2;
+    const dragThreshold = 8;
 
     let dragging = false;
-    let moved = false;
+    let suppressNextClick = false;
     let startX = 0;
     let startScrollLeft = 0;
+    let dragDistance = 0;
 
     const stopDragging = () => {
       if (!dragging) return;
       dragging = false;
       menu.classList.remove("is-dragging");
+      suppressNextClick = dragDistance > dragThreshold;
+      dragDistance = 0;
     };
 
     menu.addEventListener("pointerdown", (event) => {
@@ -22,24 +26,20 @@
       if (!isOverflowing()) return;
 
       dragging = true;
-      moved = false;
+      suppressNextClick = false;
       startX = event.clientX;
       startScrollLeft = menu.scrollLeft;
+      dragDistance = 0;
       menu.classList.add("is-dragging");
-
-      if (typeof menu.setPointerCapture === "function") {
-        menu.setPointerCapture(event.pointerId);
-      }
     });
 
     menu.addEventListener("pointermove", (event) => {
       if (!dragging) return;
 
       const deltaX = event.clientX - startX;
-      if (Math.abs(deltaX) > 2) moved = true;
-
+      dragDistance = Math.max(dragDistance, Math.abs(deltaX));
       menu.scrollLeft = startScrollLeft - deltaX;
-      event.preventDefault();
+      if (dragDistance > 1) event.preventDefault();
     });
 
     menu.addEventListener("pointerup", stopDragging);
@@ -49,10 +49,10 @@
     menu.addEventListener(
       "click",
       (event) => {
-        if (!moved) return;
+        if (!suppressNextClick) return;
         event.preventDefault();
         event.stopPropagation();
-        moved = false;
+        suppressNextClick = false;
       },
       true,
     );
