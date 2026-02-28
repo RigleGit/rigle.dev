@@ -11,7 +11,7 @@
 </ul>
 <h2 id="c-solution" class="headerLink">
     <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -38,7 +38,7 @@
 <p>Implement merge sort to sort an integer array in ascending order.</p>
 <h2 id="c-solution" class="headerLink">
     <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -70,7 +70,7 @@
 </ul>
 <h2 id="c-solution" class="headerLink">
     <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -97,7 +97,7 @@
 <p>Write an integer array to a binary file and read it back into another array.</p>
 <h2 id="c-solution" class="headerLink">
     <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -124,7 +124,7 @@
 <p>Define a <code>Student</code> struct with name and grade. Store multiple students in an array and compute average grade.</p>
 <h2 id="c-solution" class="headerLink">
     <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -151,7 +151,7 @@
 <p>Compare two strings, copy one of them, and print its length.</p>
 <h2 id="c-solution" class="headerLink">
     <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -178,7 +178,7 @@
 <p>Create a function that receives <code>int **p</code> and redirects <code>*p</code> to another integer.</p>
 <h2 id="c-solution" class="headerLink">
     <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -205,7 +205,7 @@
 <p>Allocate an integer array dynamically, fill it, resize with <code>realloc</code>, print values, and free memory.</p>
 <h2 id="c-solution" class="headerLink">
     <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -232,7 +232,7 @@
 <p>Sort an integer array using quicksort and print the final order.</p>
 <h2 id="c-solution" class="headerLink">
     <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -259,7 +259,7 @@
 <p>Sort an integer array ascending using bubble sort and stop early when no swaps happen.</p>
 <h2 id="c-solution" class="headerLink">
     <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 

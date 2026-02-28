@@ -11,7 +11,7 @@
 </ul>
 <h2 id="solución-en-c" class="headerLink">
     <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -38,7 +38,7 @@
 <p>Implementa merge sort para ordenar un array de enteros en orden ascendente.</p>
 <h2 id="solución-en-c" class="headerLink">
     <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -70,7 +70,7 @@
 </ul>
 <h2 id="solución-en-c" class="headerLink">
     <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -97,7 +97,7 @@
 <p>Guarda un array de enteros en un archivo binario y cárgalo después en otro array.</p>
 <h2 id="solución-en-c" class="headerLink">
     <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -124,7 +124,7 @@
 <p>Define una estructura <code>Estudiante</code> con nombre y nota. Guarda varios estudiantes en un array y calcula la media.</p>
 <h2 id="solución-en-c" class="headerLink">
     <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -151,7 +151,7 @@
 <p>Compara dos cadenas, copia una de ellas y muestra su longitud.</p>
 <h2 id="solución-en-c" class="headerLink">
     <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -178,7 +178,7 @@
 <p>Crea una función que reciba <code>int **p</code> y redirija <code>*p</code> hacia otro entero.</p>
 <h2 id="solución-en-c" class="headerLink">
     <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -205,7 +205,7 @@
 <p>Reserva un array dinamico, rellenalo, redimensionalo con <code>realloc</code>, muestra valores y libera memoria.</p>
 <h2 id="solución-en-c" class="headerLink">
     <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -232,7 +232,7 @@
 <p>Ordena un array de enteros con quicksort y muestra el resultado final.</p>
 <h2 id="solución-en-c" class="headerLink">
     <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -259,7 +259,7 @@
 <p>Ordena un array de enteros de menor a mayor con burbuja e incluye una salida anticipada cuando no hay intercambios.</p>
 <h2 id="solución-en-c" class="headerLink">
     <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 

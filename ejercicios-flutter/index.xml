@@ -11,7 +11,7 @@
 <p>Navega usando <code>go_router</code> y rutas por nombre.</p>
 <h2 id="solución-en-flutter" class="headerLink">
     <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -38,7 +38,7 @@
 <p>Crea una tabla <code>tasks</code>, inserta tareas y lístalas en pantalla.</p>
 <h2 id="solución-en-flutter" class="headerLink">
     <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -65,7 +65,7 @@
 <p>Guarda y recupera un nombre de usuario localmente para mantenerlo tras cerrar la app.</p>
 <h2 id="solución-en-flutter" class="headerLink">
     <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -97,7 +97,7 @@
 </ul>
 <h2 id="solución-en-flutter" class="headerLink">
     <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -124,7 +124,7 @@
 <p>Crea una lista que cargue 20 items iniciales y pida 20 más al llegar al final.</p>
 <h2 id="solución-en-flutter" class="headerLink">
     <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -156,7 +156,7 @@
 </ul>
 <h2 id="solución-en-flutter" class="headerLink">
     <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -183,7 +183,7 @@
 <p>Consulta una lista de posts desde una API publica y muéstralos en pantalla.</p>
 <h2 id="solución-en-flutter" class="headerLink">
     <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -210,7 +210,7 @@
 <p>Crea un contador global que se muestre y actualice desde varios widgets.</p>
 <h2 id="solución-en-flutter" class="headerLink">
     <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -237,7 +237,7 @@
 <p>Crea tres pestañas (Inicio, Buscar, Perfil) y conserva contenido al cambiar de tab.</p>
 <h2 id="solución-en-flutter" class="headerLink">
     <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
@@ -264,7 +264,7 @@
 <p>Configura dos pantallas y navega desde Home a Detail usando rutas nombradas.</p>
 <h2 id="solución-en-flutter" class="headerLink">
     <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
-<div class="code-block highlight is-closed show-line-numbers  tw-group tw-my-2">
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
   <div class="
     
     tw-flex 
