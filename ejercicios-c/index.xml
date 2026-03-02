@@ -1,4 +1,81 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ejercicios resueltos en C (paso a paso) - - rigle.dev</title><link>https://rigle.dev/ejercicios-c/</link><description>Ejercicios resueltos en C (paso a paso) - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/ejercicios-c/" rel="self" type="application/rss+xml"/><item><title>Shell sort en C: ejercicio resuelto paso a paso</title><link>https://rigle.dev/ejercicios-c/shell-sort-en-c-ejercicio-resuelto/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/shell-sort-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="método-de-ordenación-shell-sort-en-c" class="headerLink">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ejercicios resueltos en C (paso a paso) - - rigle.dev</title><link>https://rigle.dev/ejercicios-c/</link><description>Ejercicios resueltos en C (paso a paso) - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Mon, 02 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/ejercicios-c/" rel="self" type="application/rss+xml"/><item><title>Mejores libros para aprender C en 2026: comparativa por nivel y enfoque</title><link>https://rigle.dev/ejercicios-c/mejores-libros-para-aprender-c/</link><pubDate>Mon, 02 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/mejores-libros-para-aprender-c/</guid><description><![CDATA[<h2 id="mejores-libros-para-aprender-c-en-2026" class="headerLink">
+    <a href="#mejores-libros-para-aprender-c-en-2026" class="header-mark" aria-label="Mejores libros para aprender C en 2026" title="Mejores libros para aprender C en 2026"></a>Mejores libros para aprender C en 2026</h2>
+<p>Si buscas <strong>mejores libros para aprender C</strong>, la mejor estrategia no es elegir uno solo: funciona mejor combinar un clásico de fundamentos con práctica guiada.</p>
+<p>En esta guía tienes una comparativa clara para decidir según tu nivel y lo que quieres conseguir.</p>
+<h2 id="ranking-práctico-por-objetivo" class="headerLink">
+    <a href="#ranking-pr%c3%a1ctico-por-objetivo" class="header-mark" aria-label="Ranking práctico por objetivo" title="Ranking práctico por objetivo"></a>Ranking práctico por objetivo</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Libro</th>
+          <th>Nivel recomendado</th>
+          <th>Punto fuerte</th>
+          <th>Límite principal</th>
+          <th>Cuándo elegirlo</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><em>C Programming: A Modern Approach</em> (K. N. King)</td>
+          <td>Principiante-intermedio</td>
+          <td>Muy didáctico y progresivo</td>
+          <td>Menos centrado en entrevistas</td>
+          <td>Si empiezas desde cero y quieres base sólida</td>
+      </tr>
+      <tr>
+          <td><em>The C Programming Language</em> (Kernighan y Ritchie)</td>
+          <td>Intermedio</td>
+          <td>Referencia clásica y compacta</td>
+          <td>Denso para empezar</td>
+          <td>Si ya conoces sintaxis y quieres afinar criterio</td>
+      </tr>
+      <tr>
+          <td><em>Expert C Programming: Deep C Secrets</em> (van der Linden)</td>
+          <td>Intermedio-avanzado</td>
+          <td>Errores reales y trampas típicas</td>
+          <td>No es una ruta desde cero</td>
+          <td>Si quieres subir nivel técnico y evitar fallos sutiles</td>
+      </tr>
+      <tr>
+          <td><em>Modern C</em> (Jens Gustedt)</td>
+          <td>Intermedio-avanzado</td>
+          <td>C moderno (C11/C17), buenas prácticas</td>
+          <td>Curva inicial más exigente</td>
+          <td>Si te interesa C actual para proyectos serios</td>
+      </tr>
+      <tr>
+          <td><a href="/c100/" rel="">Programación en C en 100 ejercicios resueltos</a></td>
+          <td>Principiante-avanzado</td>
+          <td>Práctica guiada con progresión diaria</td>
+          <td>Menos teoría histórica</td>
+          <td>Si quieres aprender haciendo ejercicios desde el día 1</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="cómo-elegir-según-tu-punto-de-partida" class="headerLink">
+    <a href="#c%c3%b3mo-elegir-seg%c3%ban-tu-punto-de-partida" class="header-mark" aria-label="Cómo elegir según tu punto de partida" title="Cómo elegir según tu punto de partida"></a>Cómo elegir según tu punto de partida</h2>
+<ul>
+<li>Si empiezas de cero: prioriza claridad + ejercicios progresivos.</li>
+<li>Si ya programas algo: combina un clásico (K&amp;R o King) con ejercicios de punteros, memoria y estructuras.</li>
+<li>Si preparas entrevistas técnicas: busca libros con problemas prácticos y repasos de complejidad.</li>
+</ul>
+<h2 id="ruta-recomendada-de-estudio-6-a-8-semanas" class="headerLink">
+    <a href="#ruta-recomendada-de-estudio-6-a-8-semanas" class="header-mark" aria-label="Ruta recomendada de estudio (6 a 8 semanas)" title="Ruta recomendada de estudio (6 a 8 semanas)"></a>Ruta recomendada de estudio (6 a 8 semanas)</h2>
+<ol>
+<li>Semana 1-2: sintaxis, control de flujo y funciones.</li>
+<li>Semana 3-4: punteros, arrays y memoria dinámica.</li>
+<li>Semana 5-6: estructuras de datos básicas (listas, pilas, colas).</li>
+<li>Semana 7-8: ficheros, depuracion y ejercicios tipo entrevista.</li>
+</ol>
+<h2 id="práctica-guiada-y-libro-completo" class="headerLink">
+    <a href="#pr%c3%a1ctica-guiada-y-libro-completo" class="header-mark" aria-label="Práctica guiada y libro completo" title="Práctica guiada y libro completo"></a>Práctica guiada y libro completo</h2>
+<p>Si quieres convertir la teoría en progreso medible, usa esta combinación:</p>]]></description></item><item><title>Ordenación por inserción directa en C: ejercicio resuelto</title><link>https://rigle.dev/ejercicios-c/insercion-directa-en-c-ejercicio-resuelto/</link><pubDate>Mon, 02 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/insercion-directa-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="método-de-inserción-directa-en-c" class="headerLink">
+    <a href="#m%c3%a9todo-de-inserci%c3%b3n-directa-en-c" class="header-mark" aria-label="Método de inserción directa en C" title="Método de inserción directa en C"></a>Método de inserción directa en C</h2>
+<p>Si buscas <strong>inserción directa en C ejercicio resuelto</strong>, este post te muestra la implementación completa y el razonamiento detrás del algoritmo.</p>
+<p>La idea es la misma que cuando ordenas cartas en la mano: tomas el siguiente elemento y lo insertas en la posición correcta dentro de la parte que ya está ordenada.</p>
+<h2 id="enunciado" class="headerLink">
+    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
+<p>Implementa el algoritmo de inserción directa para ordenar un array de enteros en orden ascendente.</p>]]></description></item><item><title>Shell sort en C: ejercicio resuelto paso a paso</title><link>https://rigle.dev/ejercicios-c/shell-sort-en-c-ejercicio-resuelto/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/shell-sort-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="método-de-ordenación-shell-sort-en-c" class="headerLink">
     <a href="#m%c3%a9todo-de-ordenaci%c3%b3n-shell-sort-en-c" class="header-mark" aria-label="Método de ordenación shell sort en C" title="Método de ordenación shell sort en C"></a>Método de ordenación shell sort en C</h2>
 <p>Si buscas <strong>shell sort en C ejercicio resuelto</strong>, este ejemplo te ayuda a entender la lógica completa, no solo el código final.</p>
 <p>Shell sort mejora la inserción directa usando <strong>saltos (gaps)</strong>. En lugar de comparar siempre elementos contiguos, compara elementos alejados y va reduciendo el salto hasta llegar a 1. Es un algoritmo <strong>in-situ</strong> (no necesita un array auxiliar grande) y suele rendir mejor que burbuja o inserción directa en arrays medianos.</p>]]></description></item><item><title>Lista circular en C: ejercicio resuelto con inserción y recorrido</title><link>https://rigle.dev/ejercicios-c/lista-circular-en-c-ejercicio-resuelto/</link><pubDate>Sat, 28 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/lista-circular-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="lista-circular-en-c-ejercicio-resuelto" class="headerLink">
@@ -156,60 +233,6 @@ Se atribuye a John von Neumann (1945) y sigue siendo una referencia para entende
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
 <p>Crea una función que reciba <code>int **p</code> y redirija <code>*p</code> hacia otro entero.</p>
-<h2 id="solución-en-c" class="headerLink">
-    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
-  <div class="
-    
-    tw-flex 
-    tw-flex-row
-    tw-flex-1 
-    tw-justify-between 
-    tw-w-full tw-bg-bgColor-secondary
-    ">      
-    <button 
-      class="
-        code-block-button
-        tw-mx-2 
-        tw-flex
-        tw-flex-row
-        tw-flex-1"
-      aria-hidden="true">
-          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
-          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Malloc y free en C: ejercicio resuelto de memoria dinamica</title><link>https://rigle.dev/ejercicios-c/malloc-free-en-c-ejercicios-resueltos/</link><pubDate>Tue, 17 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/malloc-free-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="malloc-y-free-en-c-ejercicio-resuelto" class="headerLink">
-    <a href="#malloc-y-free-en-c-ejercicio-resuelto" class="header-mark" aria-label="Malloc y free en C: ejercicio resuelto" title="Malloc y free en C: ejercicio resuelto"></a>Malloc y free en C: ejercicio resuelto</h2>
-<p>Si buscas <strong>malloc y free en C ejercicios resueltos</strong>, este ejemplo cubre reserva, redimensionado y liberacion segura.</p>
-<h2 id="enunciado" class="headerLink">
-    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Reserva un array dinamico, rellenalo, redimensionalo con <code>realloc</code>, muestra valores y libera memoria.</p>
-<h2 id="solución-en-c" class="headerLink">
-    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
-  <div class="
-    
-    tw-flex 
-    tw-flex-row
-    tw-flex-1 
-    tw-justify-between 
-    tw-w-full tw-bg-bgColor-secondary
-    ">      
-    <button 
-      class="
-        code-block-button
-        tw-mx-2 
-        tw-flex
-        tw-flex-row
-        tw-flex-1"
-      aria-hidden="true">
-          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
-          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Quicksort en C: ejercicio resuelto con particion de Lomuto</title><link>https://rigle.dev/ejercicios-c/quicksort-en-c-ejercicio-resuelto/</link><pubDate>Sun, 15 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/quicksort-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="quicksort-en-c-ejercicio-resuelto" class="headerLink">
-    <a href="#quicksort-en-c-ejercicio-resuelto" class="header-mark" aria-label="Quicksort en C: ejercicio resuelto" title="Quicksort en C: ejercicio resuelto"></a>Quicksort en C: ejercicio resuelto</h2>
-<p>Si buscas <strong>quicksort en C ejercicio resuelto</strong>, este ejemplo implementa la versión clásica con particion de Lomuto.</p>
-<h2 id="enunciado" class="headerLink">
-    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Ordena un array de enteros con quicksort y muestra el resultado final.</p>
 <h2 id="solución-en-c" class="headerLink">
     <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
 <div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
