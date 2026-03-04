@@ -1,4 +1,68 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Solved C programming exercises (step by step) - - rigle.dev</title><link>https://rigle.dev/en/ejercicios-c/</link><description>Solved C programming exercises (step by step) - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Tue, 03 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/en/ejercicios-c/" rel="self" type="application/rss+xml"/><item><title>Binary insertion sort in C: solved sorting exercise</title><link>https://rigle.dev/en/ejercicios-c/insercion-binaria-en-c-ejercicio-resuelto/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/insercion-binaria-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="binary-insertion-method-in-c" class="headerLink">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Solved C programming exercises (step by step) - - rigle.dev</title><link>https://rigle.dev/en/ejercicios-c/</link><description>Solved C programming exercises (step by step) - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/en/ejercicios-c/" rel="self" type="application/rss+xml"/><item><title>For loop in C: solved exercises with accumulators and counters</title><link>https://rigle.dev/en/ejercicios-c/for-en-c-ejercicios-resueltos/</link><pubDate>Wed, 04 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/for-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="for-loop-in-c-solved-exercises-step-by-step" class="headerLink">
+    <a href="#for-loop-in-c-solved-exercises-step-by-step" class="header-mark" aria-label="For loop in C: solved exercises step by step" title="For loop in C: solved exercises step by step"></a>For loop in C: solved exercises step by step</h2>
+<p>If you searched for <strong>for loop in C solved exercises</strong>, this post gives practical patterns that appear in beginner classes and early interview screens.</p>
+<p>The main goal is to master three key loop patterns: accumulation, counting, and array traversal.</p>
+<h2 id="problem-statement" class="headerLink">
+    <a href="#problem-statement" class="header-mark" aria-label="Problem statement" title="Problem statement"></a>Problem statement</h2>
+<p>Solve these 4 mini exercises with <code>for</code>:</p>]]></description></item><item><title>Is learning C worth it in 2026? Practical decision guide</title><link>https://rigle.dev/en/ejercicios-c/merece-la-pena-aprender-c/</link><pubDate>Wed, 04 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/merece-la-pena-aprender-c/</guid><description><![CDATA[<h2 id="is-learning-c-worth-it-in-2026" class="headerLink">
+    <a href="#is-learning-c-worth-it-in-2026" class="header-mark" aria-label="Is learning C worth it in 2026?" title="Is learning C worth it in 2026?"></a>Is learning C worth it in 2026?</h2>
+<p>If you are asking <strong>is learning C worth it in 2026</strong>, the short answer is yes for technical paths that involve performance, systems, or hardware.</p>
+<p>C is not mandatory for everyone, but it still builds strong engineering judgment.</p>
+<h2 id="where-c-still-gives-you-an-edge" class="headerLink">
+    <a href="#where-c-still-gives-you-an-edge" class="header-mark" aria-label="Where C still gives you an edge" title="Where C still gives you an edge"></a>Where C still gives you an edge</h2>
+<ul>
+<li>Embedded and firmware work (microcontrollers, automotive, IoT).</li>
+<li>Systems software and low-level tooling.</li>
+<li>Performance-critical libraries.</li>
+<li>Security work where memory behavior matters.</li>
+<li>Technical interviews with pointers, memory, and data structures.</li>
+</ul>
+<h2 id="when-c-is-not-your-first-choice" class="headerLink">
+    <a href="#when-c-is-not-your-first-choice" class="header-mark" aria-label="When C is not your first choice" title="When C is not your first choice"></a>When C is not your first choice</h2>
+<ul>
+<li>You only need fast high-level web/product prototyping.</li>
+<li>You will never work near low-level constraints.</li>
+<li>Your immediate target is scripting-heavy automation.</li>
+</ul>
+<h2 id="practical-roi-of-learning-c" class="headerLink">
+    <a href="#practical-roi-of-learning-c" class="header-mark" aria-label="Practical ROI of learning C" title="Practical ROI of learning C"></a>Practical ROI of learning C</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Goal</th>
+          <th>What C gives you</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Better interview performance</td>
+          <td>Strong pointer, memory, and complexity fundamentals</td>
+      </tr>
+      <tr>
+          <td>Embedded career path</td>
+          <td>Direct foundation for firmware roles</td>
+      </tr>
+      <tr>
+          <td>Deeper software understanding</td>
+          <td>Better model of memory, CPU, and performance</td>
+      </tr>
+      <tr>
+          <td>Better decisions in other languages</td>
+          <td>Stronger engineering choices in Rust, Go, C++, Python, or Java</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="30-day-practical-plan" class="headerLink">
+    <a href="#30-day-practical-plan" class="header-mark" aria-label="30-day practical plan" title="30-day practical plan"></a>30-day practical plan</h2>
+<ol>
+<li>Days 1-7: core syntax and functions.</li>
+<li>Days 8-14: pointers, arrays, and strings.</li>
+<li>Days 15-21: dynamic memory and common pitfalls.</li>
+<li>Days 22-30: core data structures and interview-style exercises.</li>
+</ol>
+<h2 id="guided-practice-and-full-book" class="headerLink">
+    <a href="#guided-practice-and-full-book" class="header-mark" aria-label="Guided practice and full book" title="Guided practice and full book"></a>Guided practice and full book</h2>
+<p>If you want measurable progress, combine free drills with a structured 100-exercise path:</p>]]></description></item><item><title>Binary insertion sort in C: solved sorting exercise</title><link>https://rigle.dev/en/ejercicios-c/insercion-binaria-en-c-ejercicio-resuelto/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/insercion-binaria-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="binary-insertion-method-in-c" class="headerLink">
     <a href="#binary-insertion-method-in-c" class="header-mark" aria-label="Binary insertion method in C" title="Binary insertion method in C"></a>Binary insertion method in C</h2>
 <p>If you are looking for a <strong>binary insertion sort in C solved exercise</strong>, this post gives you the full implementation and the key reasoning.</p>
 <p>Binary insertion sort is a variation of insertion sort. It uses binary search to find the insertion position, but still shifts elements linearly.</p>
@@ -158,60 +222,6 @@ It is commonly attributed to John von Neumann (1945) and is still a core example
 <h2 id="problem-statement" class="headerLink">
     <a href="#problem-statement" class="header-mark" aria-label="Problem statement" title="Problem statement"></a>Problem statement</h2>
 <p>Write an integer array to a binary file and read it back into another array.</p>
-<h2 id="c-solution" class="headerLink">
-    <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
-<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
-  <div class="
-    
-    tw-flex 
-    tw-flex-row
-    tw-flex-1 
-    tw-justify-between 
-    tw-w-full tw-bg-bgColor-secondary
-    ">      
-    <button 
-      class="
-        code-block-button
-        tw-mx-2 
-        tw-flex
-        tw-flex-row
-        tw-flex-1"
-      aria-hidden="true">
-          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
-          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Struct in C: solved exercise with arrays of structs</title><link>https://rigle.dev/en/ejercicios-c/struct-en-c-ejercicio-resuelto/</link><pubDate>Fri, 20 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/struct-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="struct-in-c-solved-exercise" class="headerLink">
-    <a href="#struct-in-c-solved-exercise" class="header-mark" aria-label="Struct in C: solved exercise" title="Struct in C: solved exercise"></a>Struct in C: solved exercise</h2>
-<p>If you searched for <strong>struct in C solved exercise</strong>, this example helps you model real entities in C.</p>
-<h2 id="problem-statement" class="headerLink">
-    <a href="#problem-statement" class="header-mark" aria-label="Problem statement" title="Problem statement"></a>Problem statement</h2>
-<p>Define a <code>Student</code> struct with name and grade. Store multiple students in an array and compute average grade.</p>
-<h2 id="c-solution" class="headerLink">
-    <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
-<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
-  <div class="
-    
-    tw-flex 
-    tw-flex-row
-    tw-flex-1 
-    tw-justify-between 
-    tw-w-full tw-bg-bgColor-secondary
-    ">      
-    <button 
-      class="
-        code-block-button
-        tw-mx-2 
-        tw-flex
-        tw-flex-row
-        tw-flex-1"
-      aria-hidden="true">
-          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
-          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Strings in C: solved exercises with strlen, strcpy, and strcmp</title><link>https://rigle.dev/en/ejercicios-c/cadenas-en-c-ejercicios-resueltos/</link><pubDate>Thu, 19 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/cadenas-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="strings-in-c-solved-exercise" class="headerLink">
-    <a href="#strings-in-c-solved-exercise" class="header-mark" aria-label="Strings in C: solved exercise" title="Strings in C: solved exercise"></a>Strings in C: solved exercise</h2>
-<p>If you searched for <strong>strings in C solved exercises</strong>, this example covers core <code>string.h</code> operations.</p>
-<h2 id="problem-statement" class="headerLink">
-    <a href="#problem-statement" class="header-mark" aria-label="Problem statement" title="Problem statement"></a>Problem statement</h2>
-<p>Compare two strings, copy one of them, and print its length.</p>
 <h2 id="c-solution" class="headerLink">
     <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
 <div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
