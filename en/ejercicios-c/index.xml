@@ -1,4 +1,14 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Solved C programming exercises (step by step) - - rigle.dev</title><link>https://rigle.dev/en/ejercicios-c/</link><description>Solved C programming exercises (step by step) - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/en/ejercicios-c/" rel="self" type="application/rss+xml"/><item><title>For loop in C: solved exercises with accumulators and counters</title><link>https://rigle.dev/en/ejercicios-c/for-en-c-ejercicios-resueltos/</link><pubDate>Wed, 04 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/for-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="for-loop-in-c-solved-exercises-step-by-step" class="headerLink">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Solved C programming exercises (step by step) - - rigle.dev</title><link>https://rigle.dev/en/ejercicios-c/</link><description>Solved C programming exercises (step by step) - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>en-US</language><lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/en/ejercicios-c/" rel="self" type="application/rss+xml"/><item><title>While and do while in C: solved exercises</title><link>https://rigle.dev/en/ejercicios-c/while-do-while-en-c-ejercicios-resueltos/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/while-do-while-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="while-and-do-while-in-c-solved-exercises-step-by-step" class="headerLink">
+    <a href="#while-and-do-while-in-c-solved-exercises-step-by-step" class="header-mark" aria-label="While and do while in C: solved exercises step by step" title="While and do while in C: solved exercises step by step"></a>While and do while in C: solved exercises step by step</h2>
+<p>If you are looking for <strong>while and do while exercises in C</strong>, this post gives solved examples with practical loop scenarios.</p>
+<p>Core difference:</p>
+<ul>
+<li><code>while</code> checks the condition before running,</li>
+<li><code>do while</code> runs at least once and then checks the condition.</li>
+</ul>
+<h2 id="problem-statement" class="headerLink">
+    <a href="#problem-statement" class="header-mark" aria-label="Problem statement" title="Problem statement"></a>Problem statement</h2>
+<p>Solve these 4 mini exercises:</p>]]></description></item><item><title>For loop in C: solved exercises with accumulators and counters</title><link>https://rigle.dev/en/ejercicios-c/for-en-c-ejercicios-resueltos/</link><pubDate>Wed, 04 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/for-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="for-loop-in-c-solved-exercises-step-by-step" class="headerLink">
     <a href="#for-loop-in-c-solved-exercises-step-by-step" class="header-mark" aria-label="For loop in C: solved exercises step by step" title="For loop in C: solved exercises step by step"></a>For loop in C: solved exercises step by step</h2>
 <p>If you searched for <strong>for loop in C solved exercises</strong>, this post gives practical patterns that appear in beginner classes and early interview screens.</p>
 <p>The main goal is to master three key loop patterns: accumulation, counting, and array traversal.</p>
@@ -195,33 +205,6 @@ It is commonly attributed to John von Neumann (1945) and is still a core example
 <li>value lookup,</li>
 <li>output showing if value exists.</li>
 </ul>
-<h2 id="c-solution" class="headerLink">
-    <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
-<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
-  <div class="
-    
-    tw-flex 
-    tw-flex-row
-    tw-flex-1 
-    tw-justify-between 
-    tw-w-full tw-bg-bgColor-secondary
-    ">      
-    <button 
-      class="
-        code-block-button
-        tw-mx-2 
-        tw-flex
-        tw-flex-row
-        tw-flex-1"
-      aria-hidden="true">
-          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
-          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>fread and fwrite in C: solved binary file exercise</title><link>https://rigle.dev/en/ejercicios-c/fread-fwrite-en-c-ejercicio-resuelto/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/en/ejercicios-c/fread-fwrite-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="fread-and-fwrite-in-c-solved-exercise" class="headerLink">
-    <a href="#fread-and-fwrite-in-c-solved-exercise" class="header-mark" aria-label="fread and fwrite in C: solved exercise" title="fread and fwrite in C: solved exercise"></a>fread and fwrite in C: solved exercise</h2>
-<p>If you searched for <strong>fread and fwrite in C solved exercise</strong>, this page shows the full binary write/read workflow.</p>
-<h2 id="problem-statement" class="headerLink">
-    <a href="#problem-statement" class="header-mark" aria-label="Problem statement" title="Problem statement"></a>Problem statement</h2>
-<p>Write an integer array to a binary file and read it back into another array.</p>
 <h2 id="c-solution" class="headerLink">
     <a href="#c-solution" class="header-mark" aria-label="C solution" title="C solution"></a>C solution</h2>
 <div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
