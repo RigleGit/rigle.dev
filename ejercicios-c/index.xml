@@ -1,4 +1,42 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ejercicios resueltos en C (paso a paso) - - rigle.dev</title><link>https://rigle.dev/ejercicios-c/</link><description>Ejercicios resueltos en C (paso a paso) - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/ejercicios-c/" rel="self" type="application/rss+xml"/><item><title>If else en C: ejercicios resueltos con condicionales anidadas</title><link>https://rigle.dev/ejercicios-c/if-else-en-c-ejercicios-resueltos/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/if-else-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="if-else-en-c-ejercicios-resueltos" class="headerLink">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ejercicios resueltos en C (paso a paso) - - rigle.dev</title><link>https://rigle.dev/ejercicios-c/</link><description>Ejercicios resueltos en C (paso a paso) - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/ejercicios-c/" rel="self" type="application/rss+xml"/><item><title>Clases en C con struct: ejercicio resuelto de diseño modular</title><link>https://rigle.dev/ejercicios-c/simular-clases-con-struct-en-c/</link><pubDate>Sun, 08 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/simular-clases-con-struct-en-c/</guid><description><![CDATA[<h2 id="clases-en-c-con-struct-ejercicio-resuelto-paso-a-paso" class="headerLink">
+    <a href="#clases-en-c-con-struct-ejercicio-resuelto-paso-a-paso" class="header-mark" aria-label="Clases en C con struct: ejercicio resuelto paso a paso" title="Clases en C con struct: ejercicio resuelto paso a paso"></a>Clases en C con struct: ejercicio resuelto paso a paso</h2>
+<p>Si buscas <strong>clases en C con struct</strong>, esta guía te muestra un enfoque práctico para modelar objetos sin POO nativa: <code>struct</code> + funciones + archivos separados.</p>
+<p>La idea es aproximar encapsulación y responsabilidades claras en C puro.</p>
+<h2 id="enunciado" class="headerLink">
+    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
+<p>Diseña un módulo <code>Cuenta</code> que:</p>]]></description></item><item><title>Tipos de datos en C: ejercicio resuelto con sizeof y conversiones</title><link>https://rigle.dev/ejercicios-c/tipos-de-datos-en-c-ejercicio-resuelto/</link><pubDate>Sun, 08 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/tipos-de-datos-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="tipos-de-datos-en-c-ejercicio-resuelto" class="headerLink">
+    <a href="#tipos-de-datos-en-c-ejercicio-resuelto" class="header-mark" aria-label="Tipos de datos en C: ejercicio resuelto" title="Tipos de datos en C: ejercicio resuelto"></a>Tipos de datos en C: ejercicio resuelto</h2>
+<p>Si buscas <strong>tipos de datos en C ejercicio resuelto</strong>, este ejemplo te ayuda a entender tamaños, rangos y conversiones básicas.</p>
+<h2 id="enunciado" class="headerLink">
+    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
+<p>Crea un programa que:</p>
+<ul>
+<li>muestre el tamaño de tipos numéricos comunes,</li>
+<li>convierta <code>float</code> a <code>int</code>,</li>
+<li>convierta <code>int</code> a <code>double</code>.</li>
+</ul>
+<h2 id="solución-en-c" class="headerLink">
+    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>If else en C: ejercicios resueltos con condicionales anidadas</title><link>https://rigle.dev/ejercicios-c/if-else-en-c-ejercicios-resueltos/</link><pubDate>Fri, 06 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/if-else-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="if-else-en-c-ejercicios-resueltos" class="headerLink">
     <a href="#if-else-en-c-ejercicios-resueltos" class="header-mark" aria-label="If else en C: ejercicios resueltos" title="If else en C: ejercicios resueltos"></a>If else en C: ejercicios resueltos</h2>
 <p>Si buscas <strong>ejercicios condicionales en C</strong>, esta guía reúne casos típicos con <code>if</code>, <code>if else</code>, <code>if else if</code> y condicionales anidadas.</p>
 <p>La clave es aprender a escribir decisiones claras y evitar ramas innecesarias.</p>
@@ -249,39 +287,4 @@
 <p>La idea es la misma que cuando ordenas cartas en la mano: tomas el siguiente elemento y lo insertas en la posición correcta dentro de la parte que ya está ordenada.</p>
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Implementa el algoritmo de inserción directa para ordenar un array de enteros en orden ascendente.</p>]]></description></item><item><title>Shell sort en C: ejercicio resuelto paso a paso</title><link>https://rigle.dev/ejercicios-c/shell-sort-en-c-ejercicio-resuelto/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/shell-sort-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="método-de-ordenación-shell-sort-en-c" class="headerLink">
-    <a href="#m%c3%a9todo-de-ordenaci%c3%b3n-shell-sort-en-c" class="header-mark" aria-label="Método de ordenación shell sort en C" title="Método de ordenación shell sort en C"></a>Método de ordenación shell sort en C</h2>
-<p>Si buscas <strong>shell sort en C ejercicio resuelto</strong>, este ejemplo te ayuda a entender la lógica completa, no solo el código final.</p>
-<p>Shell sort mejora la inserción directa usando <strong>saltos (gaps)</strong>. En lugar de comparar siempre elementos contiguos, compara elementos alejados y va reduciendo el salto hasta llegar a 1. Es un algoritmo <strong>in-situ</strong> (no necesita un array auxiliar grande) y suele rendir mejor que burbuja o inserción directa en arrays medianos.</p>]]></description></item><item><title>Lista circular en C: ejercicio resuelto con inserción y recorrido</title><link>https://rigle.dev/ejercicios-c/lista-circular-en-c-ejercicio-resuelto/</link><pubDate>Sat, 28 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/lista-circular-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="lista-circular-en-c-ejercicio-resuelto" class="headerLink">
-    <a href="#lista-circular-en-c-ejercicio-resuelto" class="header-mark" aria-label="Lista circular en C: ejercicio resuelto" title="Lista circular en C: ejercicio resuelto"></a>Lista circular en C: ejercicio resuelto</h2>
-<p>Si buscas <strong>lista circular en C ejercicio resuelto</strong>, este ejemplo te enseña cómo insertar nodos y recorrer la lista sin bucles infinitos.</p>
-<h2 id="enunciado" class="headerLink">
-    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Implementa una lista circular simple con:</p>
-<ul>
-<li>inserción al final,</li>
-<li>recorrido completo,</li>
-<li>liberación de memoria.</li>
-</ul>
-<h2 id="solución-en-c" class="headerLink">
-    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
-  <div class="
-    
-    tw-flex 
-    tw-flex-row
-    tw-flex-1 
-    tw-justify-between 
-    tw-w-full tw-bg-bgColor-secondary
-    ">      
-    <button 
-      class="
-        code-block-button
-        tw-mx-2 
-        tw-flex
-        tw-flex-row
-        tw-flex-1"
-      aria-hidden="true">
-          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
-          <p class="tw-select-none !tw-my-1">c</p>]]></description></item></channel></rss>
+<p>Implementa el algoritmo de inserción directa para ordenar un array de enteros en orden ascendente.</p>]]></description></item></channel></rss>
