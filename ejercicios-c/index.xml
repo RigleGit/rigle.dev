@@ -1,4 +1,206 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ejercicios resueltos en C (paso a paso) - - rigle.dev</title><link>https://rigle.dev/ejercicios-c/</link><description>Ejercicios resueltos en C (paso a paso) - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Sun, 08 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/ejercicios-c/" rel="self" type="application/rss+xml"/><item><title>Clases en C con struct: ejercicio resuelto de diseño modular</title><link>https://rigle.dev/ejercicios-c/simular-clases-con-struct-en-c/</link><pubDate>Sun, 08 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/simular-clases-con-struct-en-c/</guid><description><![CDATA[<h2 id="clases-en-c-con-struct-ejercicio-resuelto-paso-a-paso" class="headerLink">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ejercicios resueltos en C (paso a paso) - - rigle.dev</title><link>https://rigle.dev/ejercicios-c/</link><description>Ejercicios resueltos en C (paso a paso) - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/ejercicios-c/" rel="self" type="application/rss+xml"/><item><title>C vs Rust vs C++ vs C#: comparativa práctica para elegir en 2026</title><link>https://rigle.dev/ejercicios-c/c-vs-rust-vs-cpp-vs-csharp-comparativa-practica/</link><pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/c-vs-rust-vs-cpp-vs-csharp-comparativa-practica/</guid><description><![CDATA[<h2 id="c-vs-rust-vs-c-vs-c-respuesta-rápida" class="headerLink">
+    <a href="#c-vs-rust-vs-c-vs-c-respuesta-r%c3%a1pida" class="header-mark" aria-label="C vs Rust vs C&#43;&#43; vs C#: respuesta rápida" title="C vs Rust vs C&#43;&#43; vs C#: respuesta rápida"></a>C vs Rust vs C++ vs C#: respuesta rápida</h2>
+<p>Si buscas <strong>C vs Rust</strong>, <strong>C vs C++</strong> o <strong>C vs C#</strong>, la decisión correcta depende del tipo de proyecto y del plazo en el que necesitas producir resultados.</p>
+<h2 id="comparativa-por-criterio-clave" class="headerLink">
+    <a href="#comparativa-por-criterio-clave" class="header-mark" aria-label="Comparativa por criterio clave" title="Comparativa por criterio clave"></a>Comparativa por criterio clave</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Lenguaje</th>
+          <th>Rendimiento</th>
+          <th>Seguridad de memoria</th>
+          <th>Curva de aprendizaje</th>
+          <th>Casos típicos</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>C</td>
+          <td>Muy alto</td>
+          <td>Baja (manual)</td>
+          <td>Media</td>
+          <td>Embebidos, sistemas, librerías core</td>
+      </tr>
+      <tr>
+          <td>Rust</td>
+          <td>Muy alto</td>
+          <td>Alta (por diseño)</td>
+          <td>Alta</td>
+          <td>Sistemas modernos y tooling seguro</td>
+      </tr>
+      <tr>
+          <td>C++</td>
+          <td>Muy alto</td>
+          <td>Media-baja (según disciplina)</td>
+          <td>Alta</td>
+          <td>Motores, trading, software de alto rendimiento</td>
+      </tr>
+      <tr>
+          <td>C#</td>
+          <td>Alto</td>
+          <td>Alta (runtime gestionado)</td>
+          <td>Media</td>
+          <td>Backend empresarial, apps desktop y juegos con Unity</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="recomendación-por-objetivo-real" class="headerLink">
+    <a href="#recomendaci%c3%b3n-por-objetivo-real" class="header-mark" aria-label="Recomendación por objetivo real" title="Recomendación por objetivo real"></a>Recomendación por objetivo real</h2>
+<ul>
+<li>Quieres entender memoria a fondo: empieza por C.</li>
+<li>Quieres seguridad + rendimiento: Rust suele ser mejor apuesta.</li>
+<li>Estás en ecosistema legacy/performance extremo: C++.</li>
+<li>Priorizas productividad en backend/app: C#.</li>
+</ul>
+<h2 id="ruta-práctica-si-eliges-c-como-base" class="headerLink">
+    <a href="#ruta-pr%c3%a1ctica-si-eliges-c-como-base" class="header-mark" aria-label="Ruta práctica si eliges C como base" title="Ruta práctica si eliges C como base"></a>Ruta práctica si eliges C como base</h2>
+<ol>
+<li>Domina punteros, memoria dinámica y estructuras.</li>
+<li>Resuelve problemas de listas, pilas, colas y archivos.</li>
+<li>Después salta a Rust o C++ con base sólida.</li>
+</ol>
+<h2 id="siguiente-recurso-recomendado" class="headerLink">
+    <a href="#siguiente-recurso-recomendado" class="header-mark" aria-label="Siguiente recurso recomendado" title="Siguiente recurso recomendado"></a>Siguiente recurso recomendado</h2>
+<ul>
+<li><a href="/ejercicios-c/punteros-en-c-ejercicios-resueltos/" rel="">Punteros en C: ejercicios resueltos</a></li>
+<li><a href="/ejercicios-c/malloc-free-en-c-ejercicios-resueltos/" rel="">malloc y free en C: ejercicio resuelto</a></li>
+<li><a href="/ejercicios-c/lista-doblemente-enlazada-en-c-ejercicio-resuelto/" rel="">Lista doblemente enlazada en C: ejercicio resuelto</a></li>
+<li><a href="/ejercicios-c/" rel="">Todos los ejercicios de C</a></li>
+</ul>
+<h2 id="práctica-guiada-y-libro-completo" class="headerLink">
+    <a href="#pr%c3%a1ctica-guiada-y-libro-completo" class="header-mark" aria-label="Práctica guiada y libro completo" title="Práctica guiada y libro completo"></a>Práctica guiada y libro completo</h2>
+<p>Si quieres una ruta estructurada para aprender C y usarlo como base técnica:</p>]]></description></item><item><title>Programación secuencial en C: ejercicios resueltos desde cero</title><link>https://rigle.dev/ejercicios-c/programacion-secuencial-en-c-ejercicios-resueltos/</link><pubDate>Tue, 10 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/programacion-secuencial-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="programación-secuencial-en-c-ejercicios-resueltos-para-empezar" class="headerLink">
+    <a href="#programaci%c3%b3n-secuencial-en-c-ejercicios-resueltos-para-empezar" class="header-mark" aria-label="Programación secuencial en C: ejercicios resueltos para empezar" title="Programación secuencial en C: ejercicios resueltos para empezar"></a>Programación secuencial en C: ejercicios resueltos para empezar</h2>
+<p>Si buscas <strong>programación secuencial en C</strong>, aquí tienes ejercicios básicos resueltos con el patrón más importante al inicio: entrada, proceso y salida.</p>
+<p>Son problemas simples, pero clave para construir una base sólida antes de bucles, condicionales complejos y estructuras de datos.</p>
+<h2 id="enunciado" class="headerLink">
+    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
+<p>Resuelve estos 4 mini ejercicios secuenciales:</p>]]></description></item><item><title>Compilador C online: 7 opciones para practicar C sin instalar nada</title><link>https://rigle.dev/ejercicios-c/c-online-compiler-para-practicar-c/</link><pubDate>Mon, 09 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/c-online-compiler-para-practicar-c/</guid><description><![CDATA[<h2 id="compilador-c-online-qué-opción-elegir" class="headerLink">
+    <a href="#compilador-c-online-qu%c3%a9-opci%c3%b3n-elegir" class="header-mark" aria-label="Compilador C online: qué opción elegir" title="Compilador C online: qué opción elegir"></a>Compilador C online: qué opción elegir</h2>
+<p>Si buscas <strong>compilador C online</strong>, no te conviene usar siempre la misma herramienta. La mejor elección depende de si estás practicando fundamentos, depurando o compartiendo código.</p>
+<h2 id="comparativa-rápida-de-compiladores-c-online" class="headerLink">
+    <a href="#comparativa-r%c3%a1pida-de-compiladores-c-online" class="header-mark" aria-label="Comparativa rápida de compiladores C online" title="Comparativa rápida de compiladores C online"></a>Comparativa rápida de compiladores C online</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Herramienta</th>
+          <th>Punto fuerte</th>
+          <th>Ideal para</th>
+          <th>Límite principal</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>OnlineGDB</td>
+          <td>Compilar + depurar en navegador</td>
+          <td>Ejercicios paso a paso</td>
+          <td>Interfaz menos ligera</td>
+      </tr>
+      <tr>
+          <td>Replit</td>
+          <td>Entorno completo y colaboración</td>
+          <td>Práctica diaria y proyectos pequeños</td>
+          <td>Arranque algo más pesado</td>
+      </tr>
+      <tr>
+          <td>Programiz</td>
+          <td>Muy simple para empezar</td>
+          <td>Primeros programas en C</td>
+          <td>Menos opciones avanzadas</td>
+      </tr>
+      <tr>
+          <td>JDoodle</td>
+          <td>Ejecución rápida de snippets</td>
+          <td>Pruebas cortas de funciones</td>
+          <td>Restricciones de uso gratuitas</td>
+      </tr>
+      <tr>
+          <td>Ideone</td>
+          <td>Compartir código por enlace</td>
+          <td>Revisiones rápidas</td>
+          <td>Menos cómodo para proyectos largos</td>
+      </tr>
+      <tr>
+          <td>Wandbox</td>
+          <td>Varias versiones de compilador</td>
+          <td>Comparar comportamiento</td>
+          <td>Curva inicial algo mayor</td>
+      </tr>
+      <tr>
+          <td>Compiler Explorer</td>
+          <td>Ver salida del compilador</td>
+          <td>Rendimiento y código generado</td>
+          <td>No es el mejor para principiantes</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="recomendación-rápida-por-perfil" class="headerLink">
+    <a href="#recomendaci%c3%b3n-r%c3%a1pida-por-perfil" class="header-mark" aria-label="Recomendación rápida por perfil" title="Recomendación rápida por perfil"></a>Recomendación rápida por perfil</h2>
+<ul>
+<li>Si empiezas: Programiz u OnlineGDB.</li>
+<li>Si quieres practicar todos los días: Replit u OnlineGDB.</li>
+<li>Si quieres analizar optimización: Compiler Explorer.</li>
+<li>Si preparas entrevistas: combina JDoodle/Ideone para probar ideas rápido.</li>
+</ul>
+<h2 id="flujo-recomendado-para-practicar-c" class="headerLink">
+    <a href="#flujo-recomendado-para-practicar-c" class="header-mark" aria-label="Flujo recomendado para practicar C" title="Flujo recomendado para practicar C"></a>Flujo recomendado para practicar C</h2>
+<ol>
+<li>Resuelve el ejercicio en local o en OnlineGDB.</li>
+<li>Verifica casos límite (nulos, límites de array, tamaños).</li>
+<li>Copia el snippet a Ideone/JDoodle para compartirlo y recibir feedback.</li>
+<li>Cuando funcione, pásalo a un repositorio para histórico de progreso.</li>
+</ol>
+<h2 id="errores-frecuentes" class="headerLink">
+    <a href="#errores-frecuentes" class="header-mark" aria-label="Errores frecuentes" title="Errores frecuentes"></a>Errores frecuentes</h2>
+<ul>
+<li>Confiar en un único compilador para todos los casos.</li>
+<li>No probar entradas límite antes de dar por bueno el resultado.</li>
+<li>Practicar solo ejecución y no revisar warnings del compilador.</li>
+</ul>
+<h2 id="siguiente-recurso-recomendado" class="headerLink">
+    <a href="#siguiente-recurso-recomendado" class="header-mark" aria-label="Siguiente recurso recomendado" title="Siguiente recurso recomendado"></a>Siguiente recurso recomendado</h2>
+<ul>
+<li><a href="/ejercicios-c/punteros-en-c-ejercicios-resueltos/" rel="">Punteros en C: ejercicios resueltos</a></li>
+<li><a href="/ejercicios-c/malloc-realloc-en-c-ejercicio-resuelto/" rel="">malloc y realloc en C: ejercicio resuelto</a></li>
+<li><a href="/ejercicios-c/memset-en-c-ejercicio-resuelto/" rel="">memset en C: ejercicio resuelto</a></li>
+<li><a href="/ejercicios-c/" rel="">Todos los ejercicios de C</a></li>
+</ul>
+<h2 id="práctica-guiada-y-libro-completo" class="headerLink">
+    <a href="#pr%c3%a1ctica-guiada-y-libro-completo" class="header-mark" aria-label="Práctica guiada y libro completo" title="Práctica guiada y libro completo"></a>Práctica guiada y libro completo</h2>
+<p>Si quieres una ruta completa con progresión real de dificultad:</p>]]></description></item><item><title>Herencia en C: ejercicio resuelto con composición y punteros</title><link>https://rigle.dev/ejercicios-c/simular-herencia-en-c-con-composicion/</link><pubDate>Mon, 09 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/simular-herencia-en-c-con-composicion/</guid><description><![CDATA[<h2 id="herencia-en-c-con-composición-ejercicio-resuelto" class="headerLink">
+    <a href="#herencia-en-c-con-composici%c3%b3n-ejercicio-resuelto" class="header-mark" aria-label="Herencia en C con composición: ejercicio resuelto" title="Herencia en C con composición: ejercicio resuelto"></a>Herencia en C con composición: ejercicio resuelto</h2>
+<p>Si buscas <strong>herencia en C</strong>, el enfoque práctico es simularla con composición y punteros a función, porque C no incluye herencia nativa.</p>
+<p>Este patrón te permite modelar jerarquías simples y comportamiento dinámico sin salir de C puro.</p>
+<h2 id="enunciado" class="headerLink">
+    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
+<p>Modela una jerarquía básica:</p>
+<ol>
+<li>tipo base <code>Animal</code> con nombre y función <code>hablar</code>,</li>
+<li>tipo <code>Perro</code> y tipo <code>Gato</code> que “extienden” a <code>Animal</code> por composición,</li>
+<li>recorrido de un array de <code>Animal*</code> para ejecutar comportamiento polimórfico.</li>
+</ol>
+<h2 id="solución-en-c" class="headerLink">
+    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Clases en C con struct: ejercicio resuelto de diseño modular</title><link>https://rigle.dev/ejercicios-c/simular-clases-con-struct-en-c/</link><pubDate>Sun, 08 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/simular-clases-con-struct-en-c/</guid><description><![CDATA[<h2 id="clases-en-c-con-struct-ejercicio-resuelto-paso-a-paso" class="headerLink">
     <a href="#clases-en-c-con-struct-ejercicio-resuelto-paso-a-paso" class="header-mark" aria-label="Clases en C con struct: ejercicio resuelto paso a paso" title="Clases en C con struct: ejercicio resuelto paso a paso"></a>Clases en C con struct: ejercicio resuelto paso a paso</h2>
 <p>Si buscas <strong>clases en C con struct</strong>, esta guía te muestra un enfoque práctico para modelar objetos sin POO nativa: <code>struct</code> + funciones + archivos separados.</p>
 <p>La idea es aproximar encapsulación y responsabilidades claras en C puro.</p>
@@ -14,6 +216,41 @@
 <li>muestre el tamaño de tipos numéricos comunes,</li>
 <li>convierta <code>float</code> a <code>int</code>,</li>
 <li>convierta <code>int</code> a <code>double</code>.</li>
+</ul>
+<h2 id="solución-en-c" class="headerLink">
+    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
+<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
+  <div class="
+    
+    tw-flex 
+    tw-flex-row
+    tw-flex-1 
+    tw-justify-between 
+    tw-w-full tw-bg-bgColor-secondary
+    ">      
+    <button 
+      class="
+        code-block-button
+        tw-mx-2 
+        tw-flex
+        tw-flex-row
+        tw-flex-1"
+      aria-hidden="true">
+          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Arreglos y vectores en C: ejercicios resueltos básicos</title><link>https://rigle.dev/ejercicios-c/arreglos-vectores-en-c-ejercicios-resueltos/</link><pubDate>Sat, 07 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/arreglos-vectores-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="arreglos-y-vectores-en-c-ejercicios-resueltos-paso-a-paso" class="headerLink">
+    <a href="#arreglos-y-vectores-en-c-ejercicios-resueltos-paso-a-paso" class="header-mark" aria-label="Arreglos y vectores en C: ejercicios resueltos paso a paso" title="Arreglos y vectores en C: ejercicios resueltos paso a paso"></a>Arreglos y vectores en C: ejercicios resueltos paso a paso</h2>
+<p>Si buscas <strong>ejercicios de vectores en C</strong>, aquí tienes una práctica guiada con operaciones fundamentales que se repiten en clase, exámenes y entrevistas técnicas iniciales.</p>
+<p>Vas a trabajar lectura segura por teclado, suma acumulada, búsqueda de máximo y conteo por condición.</p>]]></description></item><item><title>memset en C: ejercicio resuelto para inicializar arrays y buffers</title><link>https://rigle.dev/ejercicios-c/memset-en-c-ejercicio-resuelto/</link><pubDate>Sat, 07 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/memset-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="memset-en-c-ejercicio-resuelto" class="headerLink">
+    <a href="#memset-en-c-ejercicio-resuelto" class="header-mark" aria-label="memset en C: ejercicio resuelto" title="memset en C: ejercicio resuelto"></a>memset en C: ejercicio resuelto</h2>
+<p>Si buscas <strong>memset en C ejercicio resuelto</strong>, aquí tienes un caso práctico para inicializar buffers de texto y arrays numéricos.</p>
+<h2 id="enunciado" class="headerLink">
+    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
+<p>Crea un programa que:</p>
+<ul>
+<li>inicialice un buffer de texto con <code>'*'</code>,</li>
+<li>inicialice un array de enteros a <code>0</code>,</li>
+<li>imprima los resultados para verificar el estado final.</li>
 </ul>
 <h2 id="solución-en-c" class="headerLink">
     <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
@@ -102,189 +339,4 @@
       aria-hidden="true">
           <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
     xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
-          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>While y do while en C: ejercicios resueltos</title><link>https://rigle.dev/ejercicios-c/while-do-while-en-c-ejercicios-resueltos/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/while-do-while-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="while-y-do-while-en-c-ejercicios-resueltos-paso-a-paso" class="headerLink">
-    <a href="#while-y-do-while-en-c-ejercicios-resueltos-paso-a-paso" class="header-mark" aria-label="While y do while en C: ejercicios resueltos paso a paso" title="While y do while en C: ejercicios resueltos paso a paso"></a>While y do while en C: ejercicios resueltos paso a paso</h2>
-<p>Si buscas <strong>ejercicios while do while en C</strong>, aquí tienes ejemplos resueltos y explicados con casos reales de práctica.</p>
-<p>La diferencia principal es esta:</p>
-<ul>
-<li><code>while</code> evalúa la condición antes de ejecutar,</li>
-<li><code>do while</code> ejecuta al menos una vez y luego evalúa.</li>
-</ul>
-<h2 id="enunciado" class="headerLink">
-    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Resuelve estos 4 mini ejercicios:</p>]]></description></item><item><title>¿Merece la pena aprender C en 2026? Guía práctica para decidir</title><link>https://rigle.dev/ejercicios-c/merece-la-pena-aprender-c/</link><pubDate>Wed, 04 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/merece-la-pena-aprender-c/</guid><description><![CDATA[<h2 id="merece-la-pena-aprender-c-en-2026" class="headerLink">
-    <a href="#merece-la-pena-aprender-c-en-2026" class="header-mark" aria-label="¿Merece la pena aprender C en 2026?" title="¿Merece la pena aprender C en 2026?"></a>¿Merece la pena aprender C en 2026?</h2>
-<p>Si te preguntas <strong>si merece la pena aprender C en 2026</strong>, la respuesta corta es sí para perfiles técnicos que tocan rendimiento, sistemas o hardware.</p>
-<p>No es obligatorio para todo el mundo, pero sigue siendo uno de los lenguajes que más criterio técnico te da.</p>
-<h2 id="dónde-c-sigue-siendo-diferencial" class="headerLink">
-    <a href="#d%c3%b3nde-c-sigue-siendo-diferencial" class="header-mark" aria-label="Dónde C sigue siendo diferencial" title="Dónde C sigue siendo diferencial"></a>Dónde C sigue siendo diferencial</h2>
-<ul>
-<li>Firmware y embebidos (microcontroladores, automocion, IoT).</li>
-<li>Sistemas y tooling de bajo nivel.</li>
-<li>Librerias de alto rendimiento.</li>
-<li>Seguridad ofensiva/defensiva donde entender memoria importa.</li>
-<li>Entrevistas técnicas que piden punteros, memoria y estructuras.</li>
-</ul>
-<h2 id="cuándo-no-es-tu-primera-opción" class="headerLink">
-    <a href="#cu%c3%a1ndo-no-es-tu-primera-opci%c3%b3n" class="header-mark" aria-label="Cuándo no es tu primera opción" title="Cuándo no es tu primera opción"></a>Cuándo no es tu primera opción</h2>
-<ul>
-<li>Si solo quieres lanzar producto web rápido.</li>
-<li>Si no vas a tocar nunca rendimiento, memoria ni sistemas.</li>
-<li>Si tu objetivo inmediato es automatización sencilla con alto nivel.</li>
-</ul>
-<h2 id="retorno-real-de-aprender-c" class="headerLink">
-    <a href="#retorno-real-de-aprender-c" class="header-mark" aria-label="Retorno real de aprender C" title="Retorno real de aprender C"></a>Retorno real de aprender C</h2>
-<table>
-  <thead>
-      <tr>
-          <th>Objetivo</th>
-          <th>Lo que te aporta C</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td>Mejorar entrevistas técnicas</td>
-          <td>Dominas preguntas de punteros, memoria y complejidad</td>
-      </tr>
-      <tr>
-          <td>Programar embebidos</td>
-          <td>Base directa para firmware profesional</td>
-      </tr>
-      <tr>
-          <td>Entender como funciona software</td>
-          <td>Mejor modelo mental de memoria, CPU y rendimiento</td>
-      </tr>
-      <tr>
-          <td>Ser mejor en otros lenguajes</td>
-          <td>Tomas mejores decisiones en Rust, Go, C++, Python o Java</td>
-      </tr>
-  </tbody>
-</table>
-<h2 id="plan-práctico-de-30-días" class="headerLink">
-    <a href="#plan-pr%c3%a1ctico-de-30-d%c3%adas" class="header-mark" aria-label="Plan práctico de 30 días" title="Plan práctico de 30 días"></a>Plan práctico de 30 días</h2>
-<ol>
-<li>Días 1-7: sintaxis base y funciones.</li>
-<li>Días 8-14: punteros, arrays y cadenas.</li>
-<li>Días 15-21: memoria dinámica y errores comunes.</li>
-<li>Días 22-30: estructuras de datos y ejercicios tipo entrevista.</li>
-</ol>
-<h2 id="práctica-guiada-y-libro-completo" class="headerLink">
-    <a href="#pr%c3%a1ctica-guiada-y-libro-completo" class="header-mark" aria-label="Práctica guiada y libro completo" title="Práctica guiada y libro completo"></a>Práctica guiada y libro completo</h2>
-<p>Si quieres convertir esta decisión en progreso real, combina ejercicios gratuitos con una ruta cerrada de 100 ejercicios:</p>]]></description></item><item><title>For en C: ejercicios resueltos con acumuladores y contadores</title><link>https://rigle.dev/ejercicios-c/for-en-c-ejercicios-resueltos/</link><pubDate>Wed, 04 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/for-en-c-ejercicios-resueltos/</guid><description><![CDATA[<h2 id="for-en-c-ejercicios-resueltos-paso-a-paso" class="headerLink">
-    <a href="#for-en-c-ejercicios-resueltos-paso-a-paso" class="header-mark" aria-label="For en C: ejercicios resueltos paso a paso" title="For en C: ejercicios resueltos paso a paso"></a>For en C: ejercicios resueltos paso a paso</h2>
-<p>Si buscas <strong>ejercicios for en C resueltos</strong>, aquí tienes un bloque práctico con casos típicos de clase y entrevistas iniciales.</p>
-<p>El objetivo es dominar tres patrones clave del bucle <code>for</code>: acumulación, conteo y recorrido de arrays.</p>
-<h2 id="enunciado" class="headerLink">
-    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Resuelve estos 4 mini ejercicios usando <code>for</code>:</p>
-<ol>
-<li>calcular la suma de <code>1..n</code>,</li>
-<li>contar cuántos pares hay en un array,</li>
-<li>obtener el máximo de un array,</li>
-<li>calcular la media de un array.</li>
-</ol>
-<h2 id="solución-en-c" class="headerLink">
-    <a href="#soluci%c3%b3n-en-c" class="header-mark" aria-label="Solución en C" title="Solución en C"></a>Solución en C</h2>
-<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
-  <div class="
-    
-    tw-flex 
-    tw-flex-row
-    tw-flex-1 
-    tw-justify-between 
-    tw-w-full tw-bg-bgColor-secondary
-    ">      
-    <button 
-      class="
-        code-block-button
-        tw-mx-2 
-        tw-flex
-        tw-flex-row
-        tw-flex-1"
-      aria-hidden="true">
-          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
-          <p class="tw-select-none !tw-my-1">c</p>]]></description></item><item><title>Inserción binaria en C: ejercicio resuelto de ordenación</title><link>https://rigle.dev/ejercicios-c/insercion-binaria-en-c-ejercicio-resuelto/</link><pubDate>Tue, 03 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/insercion-binaria-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="método-de-inserción-binaria-en-c" class="headerLink">
-    <a href="#m%c3%a9todo-de-inserci%c3%b3n-binaria-en-c" class="header-mark" aria-label="Método de inserción binaria en C" title="Método de inserción binaria en C"></a>Método de inserción binaria en C</h2>
-<p>Si buscas <strong>inserción binaria en C ejercicio resuelto</strong>, aquí tienes una implementación completa con la idea clave: separar la búsqueda de posición y el desplazamiento de elementos.</p>
-<p>Inserción binaria es una variante de inserción directa. Reduce comparaciones usando búsqueda binaria para encontrar dónde insertar, pero sigue necesitando mover elementos en el array.</p>
-<h2 id="enunciado" class="headerLink">
-    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Implementa inserción binaria para ordenar un array de enteros en orden ascendente.</p>]]></description></item><item><title>Mejores libros para aprender C en 2026: comparativa por nivel y enfoque</title><link>https://rigle.dev/ejercicios-c/mejores-libros-para-aprender-c/</link><pubDate>Mon, 02 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/mejores-libros-para-aprender-c/</guid><description><![CDATA[<h2 id="mejores-libros-para-aprender-c-en-2026" class="headerLink">
-    <a href="#mejores-libros-para-aprender-c-en-2026" class="header-mark" aria-label="Mejores libros para aprender C en 2026" title="Mejores libros para aprender C en 2026"></a>Mejores libros para aprender C en 2026</h2>
-<p>Si buscas <strong>mejores libros para aprender C</strong>, la mejor estrategia no es elegir uno solo: funciona mejor combinar un clásico de fundamentos con práctica guiada.</p>
-<p>En esta guía tienes una comparativa clara para decidir según tu nivel y lo que quieres conseguir.</p>
-<h2 id="ranking-práctico-por-objetivo" class="headerLink">
-    <a href="#ranking-pr%c3%a1ctico-por-objetivo" class="header-mark" aria-label="Ranking práctico por objetivo" title="Ranking práctico por objetivo"></a>Ranking práctico por objetivo</h2>
-<table>
-  <thead>
-      <tr>
-          <th>Libro</th>
-          <th>Nivel recomendado</th>
-          <th>Punto fuerte</th>
-          <th>Límite principal</th>
-          <th>Cuándo elegirlo</th>
-      </tr>
-  </thead>
-  <tbody>
-      <tr>
-          <td><em>C Programming: A Modern Approach</em> (K. N. King)</td>
-          <td>Principiante-intermedio</td>
-          <td>Muy didáctico y progresivo</td>
-          <td>Menos centrado en entrevistas</td>
-          <td>Si empiezas desde cero y quieres base sólida</td>
-      </tr>
-      <tr>
-          <td><em>The C Programming Language</em> (Kernighan y Ritchie)</td>
-          <td>Intermedio</td>
-          <td>Referencia clásica y compacta</td>
-          <td>Denso para empezar</td>
-          <td>Si ya conoces sintaxis y quieres afinar criterio</td>
-      </tr>
-      <tr>
-          <td><em>Expert C Programming: Deep C Secrets</em> (van der Linden)</td>
-          <td>Intermedio-avanzado</td>
-          <td>Errores reales y trampas típicas</td>
-          <td>No es una ruta desde cero</td>
-          <td>Si quieres subir nivel técnico y evitar fallos sutiles</td>
-      </tr>
-      <tr>
-          <td><em>Modern C</em> (Jens Gustedt)</td>
-          <td>Intermedio-avanzado</td>
-          <td>C moderno (C11/C17), buenas prácticas</td>
-          <td>Curva inicial más exigente</td>
-          <td>Si te interesa C actual para proyectos serios</td>
-      </tr>
-      <tr>
-          <td><a href="/c100/" rel="">Programación en C en 100 ejercicios resueltos</a></td>
-          <td>Principiante-avanzado</td>
-          <td>Práctica guiada con progresión diaria</td>
-          <td>Menos teoría histórica</td>
-          <td>Si quieres aprender haciendo ejercicios desde el día 1</td>
-      </tr>
-  </tbody>
-</table>
-<h2 id="cómo-elegir-según-tu-punto-de-partida" class="headerLink">
-    <a href="#c%c3%b3mo-elegir-seg%c3%ban-tu-punto-de-partida" class="header-mark" aria-label="Cómo elegir según tu punto de partida" title="Cómo elegir según tu punto de partida"></a>Cómo elegir según tu punto de partida</h2>
-<ul>
-<li>Si empiezas de cero: prioriza claridad + ejercicios progresivos.</li>
-<li>Si ya programas algo: combina un clásico (K&amp;R o King) con ejercicios de punteros, memoria y estructuras.</li>
-<li>Si preparas entrevistas técnicas: busca libros con problemas prácticos y repasos de complejidad.</li>
-</ul>
-<h2 id="ruta-recomendada-de-estudio-6-a-8-semanas" class="headerLink">
-    <a href="#ruta-recomendada-de-estudio-6-a-8-semanas" class="header-mark" aria-label="Ruta recomendada de estudio (6 a 8 semanas)" title="Ruta recomendada de estudio (6 a 8 semanas)"></a>Ruta recomendada de estudio (6 a 8 semanas)</h2>
-<ol>
-<li>Semana 1-2: sintaxis, control de flujo y funciones.</li>
-<li>Semana 3-4: punteros, arrays y memoria dinámica.</li>
-<li>Semana 5-6: estructuras de datos básicas (listas, pilas, colas).</li>
-<li>Semana 7-8: ficheros, depuracion y ejercicios tipo entrevista.</li>
-</ol>
-<h2 id="práctica-guiada-y-libro-completo" class="headerLink">
-    <a href="#pr%c3%a1ctica-guiada-y-libro-completo" class="header-mark" aria-label="Práctica guiada y libro completo" title="Práctica guiada y libro completo"></a>Práctica guiada y libro completo</h2>
-<p>Si quieres convertir la teoría en progreso medible, usa esta combinación:</p>]]></description></item><item><title>Ordenación por inserción directa en C: ejercicio resuelto</title><link>https://rigle.dev/ejercicios-c/insercion-directa-en-c-ejercicio-resuelto/</link><pubDate>Mon, 02 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-c/insercion-directa-en-c-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="método-de-inserción-directa-en-c" class="headerLink">
-    <a href="#m%c3%a9todo-de-inserci%c3%b3n-directa-en-c" class="header-mark" aria-label="Método de inserción directa en C" title="Método de inserción directa en C"></a>Método de inserción directa en C</h2>
-<p>Si buscas <strong>inserción directa en C ejercicio resuelto</strong>, este post te muestra la implementación completa y el razonamiento detrás del algoritmo.</p>
-<p>La idea es la misma que cuando ordenas cartas en la mano: tomas el siguiente elemento y lo insertas en la posición correcta dentro de la parte que ya está ordenada.</p>
-<h2 id="enunciado" class="headerLink">
-    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Implementa el algoritmo de inserción directa para ordenar un array de enteros en orden ascendente.</p>]]></description></item></channel></rss>
+          <p class="tw-select-none !tw-my-1">c</p>]]></description></item></channel></rss>
