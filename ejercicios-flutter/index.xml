@@ -1,4 +1,120 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ejercicios resueltos de Flutter (paso a paso) - - rigle.dev</title><link>https://rigle.dev/ejercicios-flutter/</link><description>Ejercicios resueltos de Flutter (paso a paso) - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/ejercicios-flutter/" rel="self" type="application/rss+xml"/><item><title>Dark mode en Flutter con ThemeMode: ejercicio resuelto</title><link>https://rigle.dev/ejercicios-flutter/flutter-theme-dark-mode-ejercicio-resuelto/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-flutter/flutter-theme-dark-mode-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="dark-mode-en-flutter-con-thememode-ejercicio-resuelto" class="headerLink">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ejercicios resueltos de Flutter (paso a paso) - - rigle.dev</title><link>https://rigle.dev/ejercicios-flutter/</link><description>Ejercicios resueltos de Flutter (paso a paso) - - rigle.dev</description><generator>Hugo -- gohugo.io</generator><language>es-ES</language><lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/ejercicios-flutter/" rel="self" type="application/rss+xml"/><item><title>Flutter + IA: 5 ideas prácticas para crear apps útiles</title><link>https://rigle.dev/ejercicios-flutter/flutter-ai-ideas-practicas/</link><pubDate>Thu, 12 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-flutter/flutter-ai-ideas-practicas/</guid><description><![CDATA[<h2 id="flutter--ia-por-dónde-empezar-sin-humo" class="headerLink">
+    <a href="#flutter--ia-por-d%c3%b3nde-empezar-sin-humo" class="header-mark" aria-label="Flutter &#43; IA: por dónde empezar sin humo" title="Flutter &#43; IA: por dónde empezar sin humo"></a>Flutter + IA: por dónde empezar sin humo</h2>
+<p>Si te interesa <strong>Flutter AI</strong>, la vía más útil es construir funcionalidades pequeñas que mejoren una app real, no empezar por una app gigante desde cero.</p>
+<h2 id="5-ideas-prácticas-para-aplicar-ia-en-flutter" class="headerLink">
+    <a href="#5-ideas-pr%c3%a1cticas-para-aplicar-ia-en-flutter" class="header-mark" aria-label="5 ideas prácticas para aplicar IA en Flutter" title="5 ideas prácticas para aplicar IA en Flutter"></a>5 ideas prácticas para aplicar IA en Flutter</h2>
+<ol>
+<li><strong>Autocompletar descripciones</strong> en formularios de inventario.</li>
+<li><strong>Resumen automático</strong> de notas largas en una app de estudio.</li>
+<li><strong>Clasificación de incidencias</strong> en un panel de soporte.</li>
+<li><strong>Búsqueda semántica</strong> sobre contenido interno.</li>
+<li><strong>Asistente de onboarding</strong> que responda dudas del usuario.</li>
+</ol>
+<h2 id="arquitectura-mínima-recomendada" class="headerLink">
+    <a href="#arquitectura-m%c3%adnima-recomendada" class="header-mark" aria-label="Arquitectura mínima recomendada" title="Arquitectura mínima recomendada"></a>Arquitectura mínima recomendada</h2>
+<ul>
+<li>Flutter en cliente (UI + estado).</li>
+<li>API backend para orquestar llamadas al modelo.</li>
+<li>Persistencia local con <code>shared_preferences</code> o <code>sqflite</code> para caché ligera.</li>
+<li>Logging de prompts y resultados para iterar con criterio.</li>
+</ul>
+<h2 id="riesgos-y-errores-frecuentes" class="headerLink">
+    <a href="#riesgos-y-errores-frecuentes" class="header-mark" aria-label="Riesgos y errores frecuentes" title="Riesgos y errores frecuentes"></a>Riesgos y errores frecuentes</h2>
+<ul>
+<li>Meter IA en todo sin un caso de uso concreto.</li>
+<li>No definir métricas de calidad (tiempo ahorrado, tasa de acierto, etc.).</li>
+<li>Ignorar costes de llamadas y latencia en móvil.</li>
+</ul>
+<h2 id="siguiente-recurso-recomendado" class="headerLink">
+    <a href="#siguiente-recurso-recomendado" class="header-mark" aria-label="Siguiente recurso recomendado" title="Siguiente recurso recomendado"></a>Siguiente recurso recomendado</h2>
+<ul>
+<li><a href="/ejercicios-flutter/flutter-consumo-api-http-ejercicio-resuelto/" rel="">Consumo de API con http en Flutter: ejercicio resuelto</a></li>
+<li><a href="/ejercicios-flutter/flutter-futurebuilder-ejercicio-resuelto/" rel="">FutureBuilder en Flutter: ejercicio resuelto</a></li>
+<li><a href="/ejercicios-flutter/flutter-provider-estado-global-ejercicio-resuelto/" rel="">Provider en Flutter para estado global: ejercicio resuelto</a></li>
+<li><a href="/ejercicios-flutter/" rel="">Todos los ejercicios de Flutter</a></li>
+</ul>
+<h2 id="práctica-guiada-y-siguiente-paso" class="headerLink">
+    <a href="#pr%c3%a1ctica-guiada-y-siguiente-paso" class="header-mark" aria-label="Práctica guiada y siguiente paso" title="Práctica guiada y siguiente paso"></a>Práctica guiada y siguiente paso</h2>
+<ul>
+<li><a href="/ejercicios-flutter/" rel="">Más ejercicios de Flutter</a></li>
+<li><a href="/ejercicios-c/" rel="">Ejercicios C para reforzar fundamentos</a></li>
+<li><a href="/c100/" rel="">Programación en C en 100 ejercicios resueltos</a></li>
+<li><a href="https://amzn.to/41weJIN" target="_blank" rel="noopener noreferrer">Ver en Amazon (incluido en Kindle Unlimited)</a></li>
+</ul>
+<h2 id="faq" class="headerLink">
+    <a href="#faq" class="header-mark" aria-label="FAQ" title="FAQ"></a>FAQ</h2>
+<h3 id="se-puede-usar-ia-en-flutter-sin-complicar-demasiado-la-app" class="headerLink">
+    <a href="#se-puede-usar-ia-en-flutter-sin-complicar-demasiado-la-app" class="header-mark" aria-label="¿Se puede usar IA en Flutter sin complicar demasiado la app?" title="¿Se puede usar IA en Flutter sin complicar demasiado la app?"></a>¿Se puede usar IA en Flutter sin complicar demasiado la app?</h3>
+<p>Sí. Empieza por un endpoint simple y una funcionalidad clara con valor medible.</p>]]></description></item><item><title>Flutter Android, Web o Windows: comparativa práctica para elegir plataforma</title><link>https://rigle.dev/ejercicios-flutter/flutter-android-web-windows-comparativa/</link><pubDate>Wed, 11 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-flutter/flutter-android-web-windows-comparativa/</guid><description><![CDATA[<h2 id="flutter-android-web-o-windows-cómo-decidir" class="headerLink">
+    <a href="#flutter-android-web-o-windows-c%c3%b3mo-decidir" class="header-mark" aria-label="Flutter Android, Web o Windows: cómo decidir" title="Flutter Android, Web o Windows: cómo decidir"></a>Flutter Android, Web o Windows: cómo decidir</h2>
+<p>Si estás buscando <strong>Flutter Android</strong>, <strong>Flutter Web</strong> o <strong>Flutter Windows</strong>, la clave es no elegir por moda, sino por el tipo de experiencia que necesitas entregar.</p>
+<h2 id="comparativa-rápida-por-escenario" class="headerLink">
+    <a href="#comparativa-r%c3%a1pida-por-escenario" class="header-mark" aria-label="Comparativa rápida por escenario" title="Comparativa rápida por escenario"></a>Comparativa rápida por escenario</h2>
+<table>
+  <thead>
+      <tr>
+          <th>Plataforma</th>
+          <th>Punto fuerte</th>
+          <th>Mejor para</th>
+          <th>Límite principal</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Android (mobile)</td>
+          <td>UX nativa de app</td>
+          <td>Productos de consumo y MVP móviles</td>
+          <td>Requiere diseño responsive para tablets</td>
+      </tr>
+      <tr>
+          <td>Web</td>
+          <td>Distribución inmediata por URL</td>
+          <td>Herramientas internas y paneles</td>
+          <td>Rendimiento y SEO dependen más de arquitectura</td>
+      </tr>
+      <tr>
+          <td>Windows (desktop)</td>
+          <td>Flujo de trabajo de escritorio</td>
+          <td>Apps de productividad interna</td>
+          <td>Ecosistema de plugins más variable</td>
+      </tr>
+  </tbody>
+</table>
+<h2 id="recomendación-por-tipo-de-proyecto" class="headerLink">
+    <a href="#recomendaci%c3%b3n-por-tipo-de-proyecto" class="header-mark" aria-label="Recomendación por tipo de proyecto" title="Recomendación por tipo de proyecto"></a>Recomendación por tipo de proyecto</h2>
+<ul>
+<li>Validar idea rápido: Flutter Web.</li>
+<li>App centrada en móvil: Flutter Android.</li>
+<li>Herramienta para equipo interno en PC: Flutter Windows.</li>
+</ul>
+<h2 id="stack-mínimo-recomendado" class="headerLink">
+    <a href="#stack-m%c3%adnimo-recomendado" class="header-mark" aria-label="Stack mínimo recomendado" title="Stack mínimo recomendado"></a>Stack mínimo recomendado</h2>
+<ol>
+<li>Navegación robusta con <code>go_router</code>.</li>
+<li>Persistencia local con <code>sqflite</code> o <code>shared_preferences</code>.</li>
+<li>Si hay login: <code>firebase_auth</code>.</li>
+</ol>
+<h2 id="siguiente-recurso-recomendado" class="headerLink">
+    <a href="#siguiente-recurso-recomendado" class="header-mark" aria-label="Siguiente recurso recomendado" title="Siguiente recurso recomendado"></a>Siguiente recurso recomendado</h2>
+<ul>
+<li><a href="/ejercicios-flutter/flutter-go-router-ejercicio-resuelto/" rel="">go_router en Flutter: ejercicio resuelto</a></li>
+<li><a href="/ejercicios-flutter/flutter-sqlite-sqflite-ejercicio-resuelto/" rel="">SQLite con sqflite en Flutter: ejercicio resuelto</a></li>
+<li><a href="/ejercicios-flutter/flutter-firebase-auth-login-ejercicio-resuelto/" rel="">Firebase Auth login en Flutter: ejercicio resuelto</a></li>
+<li><a href="/ejercicios-flutter/" rel="">Todos los ejercicios de Flutter</a></li>
+</ul>
+<h2 id="práctica-guiada-y-siguiente-paso" class="headerLink">
+    <a href="#pr%c3%a1ctica-guiada-y-siguiente-paso" class="header-mark" aria-label="Práctica guiada y siguiente paso" title="Práctica guiada y siguiente paso"></a>Práctica guiada y siguiente paso</h2>
+<ul>
+<li><a href="/ejercicios-flutter/" rel="">Más ejercicios de Flutter</a></li>
+<li><a href="/ejercicios-c/" rel="">Ejercicios C para reforzar fundamentos</a></li>
+<li><a href="/c100/" rel="">Programación en C en 100 ejercicios resueltos</a></li>
+<li><a href="https://amzn.to/41weJIN" target="_blank" rel="noopener noreferrer">Ver en Amazon (incluido en Kindle Unlimited)</a></li>
+</ul>
+<h2 id="faq" class="headerLink">
+    <a href="#faq" class="header-mark" aria-label="FAQ" title="FAQ"></a>FAQ</h2>
+<h3 id="flutter-web-posiciona-bien-en-seo" class="headerLink">
+    <a href="#flutter-web-posiciona-bien-en-seo" class="header-mark" aria-label="¿Flutter Web posiciona bien en SEO?" title="¿Flutter Web posiciona bien en SEO?"></a>¿Flutter Web posiciona bien en SEO?</h3>
+<p>Puede posicionar, pero requiere cuidar estructura de contenido, rendimiento y enlazado interno.</p>]]></description></item><item><title>Dark mode en Flutter con ThemeMode: ejercicio resuelto</title><link>https://rigle.dev/ejercicios-flutter/flutter-theme-dark-mode-ejercicio-resuelto/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-flutter/flutter-theme-dark-mode-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="dark-mode-en-flutter-con-thememode-ejercicio-resuelto" class="headerLink">
     <a href="#dark-mode-en-flutter-con-thememode-ejercicio-resuelto" class="header-mark" aria-label="Dark mode en Flutter con ThemeMode: ejercicio resuelto" title="Dark mode en Flutter con ThemeMode: ejercicio resuelto"></a>Dark mode en Flutter con ThemeMode: ejercicio resuelto</h2>
 <p>Si quieres implementar <strong>modo oscuro en Flutter</strong>, este ejercicio te muestra una base clara con <code>ThemeMode</code>.</p>
 <h2 id="enunciado" class="headerLink">
@@ -208,65 +324,6 @@
 <h2 id="enunciado" class="headerLink">
     <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
 <p>Crea una lista que cargue 20 items iniciales y pida 20 más al llegar al final.</p>
-<h2 id="solución-en-flutter" class="headerLink">
-    <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
-<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
-  <div class="
-    
-    tw-flex 
-    tw-flex-row
-    tw-flex-1 
-    tw-justify-between 
-    tw-w-full tw-bg-bgColor-secondary
-    ">      
-    <button 
-      class="
-        code-block-button
-        tw-mx-2 
-        tw-flex
-        tw-flex-row
-        tw-flex-1"
-      aria-hidden="true">
-          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
-          <p class="tw-select-none !tw-my-1">dart</p>]]></description></item><item><title>FutureBuilder en Flutter: ejercicio resuelto para estados de carga</title><link>https://rigle.dev/ejercicios-flutter/flutter-futurebuilder-ejercicio-resuelto/</link><pubDate>Wed, 18 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-flutter/flutter-futurebuilder-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="futurebuilder-en-flutter-ejercicio-resuelto" class="headerLink">
-    <a href="#futurebuilder-en-flutter-ejercicio-resuelto" class="header-mark" aria-label="FutureBuilder en Flutter: ejercicio resuelto" title="FutureBuilder en Flutter: ejercicio resuelto"></a>FutureBuilder en Flutter: ejercicio resuelto</h2>
-<p>Si buscas <strong>FutureBuilder en Flutter</strong>, este ejercicio te enseña a gestionar estados asincronos sin complejidad innecesaria.</p>
-<h2 id="enunciado" class="headerLink">
-    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Carga una lista de elementos con un <code>Future</code> y muestra:</p>
-<ul>
-<li>spinner mientras carga,</li>
-<li>mensaje de error,</li>
-<li>lista de datos cuando finaliza.</li>
-</ul>
-<h2 id="solución-en-flutter" class="headerLink">
-    <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
-<div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
-  <div class="
-    
-    tw-flex 
-    tw-flex-row
-    tw-flex-1 
-    tw-justify-between 
-    tw-w-full tw-bg-bgColor-secondary
-    ">      
-    <button 
-      class="
-        code-block-button
-        tw-mx-2 
-        tw-flex
-        tw-flex-row
-        tw-flex-1"
-      aria-hidden="true">
-          <div class="group-[.is-open]:tw-rotate-90 tw-transition-[transform] tw-duration-500 tw-ease-in-out print:!tw-hidden tw-w-min tw-h-min tw-my-1 tw-mx-1"><svg class="icon"
-    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!-- Font Awesome Free 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d="M285.476 272.971L91.132 467.314c-9.373 9.373-24.569 9.373-33.941 0l-22.667-22.667c-9.357-9.357-9.375-24.522-.04-33.901L188.505 256 34.484 101.255c-9.335-9.379-9.317-24.544.04-33.901l22.667-22.667c9.373-9.373 24.569-9.373 33.941 0L285.475 239.03c9.373 9.372 9.373 24.568.001 33.941z"/></svg></div>
-          <p class="tw-select-none !tw-my-1">dart</p>]]></description></item><item><title>Consumo de API con http en Flutter: ejercicio resuelto</title><link>https://rigle.dev/ejercicios-flutter/flutter-consumo-api-http-ejercicio-resuelto/</link><pubDate>Tue, 17 Feb 2026 00:00:00 +0100</pubDate><author><name>Rodrigo Iglesias</name></author><guid>https://rigle.dev/ejercicios-flutter/flutter-consumo-api-http-ejercicio-resuelto/</guid><description><![CDATA[<h2 id="consumo-de-api-con-http-en-flutter-ejercicio-resuelto" class="headerLink">
-    <a href="#consumo-de-api-con-http-en-flutter-ejercicio-resuelto" class="header-mark" aria-label="Consumo de API con http en Flutter: ejercicio resuelto" title="Consumo de API con http en Flutter: ejercicio resuelto"></a>Consumo de API con http en Flutter: ejercicio resuelto</h2>
-<p>Si necesitas <strong>consumir una API en Flutter</strong>, este ejercicio te muestra un flujo base con <code>http</code>, parseo JSON y gestion de errores.</p>
-<h2 id="enunciado" class="headerLink">
-    <a href="#enunciado" class="header-mark" aria-label="Enunciado" title="Enunciado"></a>Enunciado</h2>
-<p>Consulta una lista de posts desde una API publica y muéstralos en pantalla.</p>
 <h2 id="solución-en-flutter" class="headerLink">
     <a href="#soluci%c3%b3n-en-flutter" class="header-mark" aria-label="Solución en Flutter" title="Solución en Flutter"></a>Solución en Flutter</h2>
 <div class="code-block highlight is-open show-line-numbers  tw-group tw-my-2">
