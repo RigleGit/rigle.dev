@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Proyectos on rigle.dev</title><link>https://rigle.dev/projects/</link><description>Recent content in Proyectos on rigle.dev</description><generator>Hugo</generator><language>es-ES</language><lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>3dslibris</title><link>https://rigle.dev/projects/3dslibris/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0100</pubDate><guid>https://rigle.dev/projects/3dslibris/</guid><description>&lt;p&gt;Lector de ebooks y manga homebrew para Nintendo 3DS, basado en el proyecto original de Nintendo DS &lt;a href="https://github.com/rhaleblian/dslibris"&gt;dslibris&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="características"&gt;Características&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Biblioteca con cuadrícula y vista de lista, portadas, metadatos y navegación táctil.&lt;/li&gt;
+&lt;li&gt;Seis temas de lectura con pantallas de inicio y gradientes de lector.&lt;/li&gt;
+&lt;li&gt;Formatos: &lt;code&gt;EPUB&lt;/code&gt;, &lt;code&gt;FB2&lt;/code&gt;, &lt;code&gt;TXT&lt;/code&gt;, &lt;code&gt;RTF&lt;/code&gt;, &lt;code&gt;ODT&lt;/code&gt;, &lt;code&gt;MOBI&lt;/code&gt;, &lt;code&gt;PDF&lt;/code&gt;, &lt;code&gt;CBZ&lt;/code&gt; y &lt;code&gt;XPS&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;EPUB con reflow, TOC, marcadores, ir a página, paginación cacheada y soporte de formato inline/bloque.&lt;/li&gt;
+&lt;li&gt;Visor de layout fijo para manga y documentos (&lt;code&gt;CBZ&lt;/code&gt;, &lt;code&gt;PDF&lt;/code&gt;, &lt;code&gt;XPS&lt;/code&gt;) con zoom, paneo, navegación por índice y previsualización de página completa.&lt;/li&gt;
+&lt;li&gt;Fuentes de respaldo incluidas para mayor cobertura de idiomas (latín, cirílico, griego, CJK, árabe, hebreo, thai y más).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="instalación"&gt;Instalación&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Recomendado&lt;/strong&gt; — &lt;code&gt;.cia&lt;/code&gt; vía &lt;a href="https://db.universal-team.net/3ds/3dslibris"&gt;Universal-Updater&lt;/a&gt;:&lt;/p&gt;</description></item><item><title>md-to-pdf-exams</title><link>https://rigle.dev/projects/md-to-pdf-exams/</link><pubDate>Sun, 09 Nov 2025 00:00:00 +0100</pubDate><guid>https://rigle.dev/projects/md-to-pdf-exams/</guid><description/></item><item><title>Programación en C en 100 ejercicios</title><link>https://rigle.dev/projects/c100/</link><pubDate>Sun, 31 Aug 2025 00:00:00 +0200</pubDate><guid>https://rigle.dev/projects/c100/</guid><description/></item><item><title>El Último Frame</title><link>https://rigle.dev/projects/elultimoframe/</link><pubDate>Wed, 09 Sep 2020 00:00:00 +0200</pubDate><guid>https://rigle.dev/projects/elultimoframe/</guid><description>&lt;p&gt;&lt;figure class="content-figure"&gt;
+	&lt;img
+		src="https://rigle.dev/elultimoframe/elultimoframe.webp"
+		alt="El Último Frame"
+		
+		loading="lazy"
+	&gt;
+
+	
+		&lt;figcaption&gt;
+			
+				El Último Frame
+			
+		&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id="sobre-el-podcast"&gt;Sobre el podcast&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;El Último Frame&lt;/strong&gt; es un podcast que se centraba en la comunidad competitiva de Super Smash Bros. en español, ofreciendo entrevistas en profundidad con jugadores, organizadores de torneos, creadores de contenido y otras figuras relevantes del mundillo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Plataformas:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/c/ElUltimoFrame"&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://open.spotify.com/show/4dDPHZeRT62vYzZzpd88ys"&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://podcasts.apple.com/pe/podcast/el-%C3%BAltimo-frame/id1531748199"&gt;Apple Podcasts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="lista-de-episodios"&gt;Lista de episodios&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;#16 - SmashBrosSpain, Smash Fighters y streamings&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=YsZZI5pYcPA"&gt;YouTube&lt;/a&gt;
+Trayectoria de más de 10 años en la comunidad, crecimiento de equipo y experiencia como mentor. Con Bardo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#15 - Trabajar con Nintendo, Speedruns e inclusión en Twitch&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=JWPzJGBbGVc"&gt;YouTube&lt;/a&gt;
+Colaboración con Nintendo, speedrunning y streaming en la comunidad. Con MTSergi.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#14 - Cómo Castear, trabajo con Riot Games y edición para BarbeQ&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=2bbwmMjOaZ4"&gt;YouTube&lt;/a&gt;
+Desarrollo profesional como caster, trabajo con Riot Games y proyectos de edición de vídeo. Con Aitor Tribal.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#13 - Viajes, Smash Argentina y sponsor de Wygers&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=ViAYms08HGY"&gt;YouTube&lt;/a&gt;
+Evolución competitiva, escena de Smash en Sudamérica y detalles del patrocinio. Con ZanT.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#12 Parte 2 - Entrenamiento en Smash, Sponsor y Streaming&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=2Chxjj7pLys"&gt;YouTube&lt;/a&gt;
+Metodologías de entrenamiento, cómo conseguir patrocinio y planes para streaming. Con Pepo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#12 Parte 1 - Vida personal, evolución desde Brawl y anécdotas&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=odg1xJC79-k"&gt;YouTube&lt;/a&gt;
+Historia personal, progresión desde la era de Brawl y experiencias competitivas. Con Pepo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#11 - Tronchabúfalos, el padre de Vidad&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=SmFKsIQZUFE"&gt;YouTube&lt;/a&gt;
+Perspectiva única sobre el apoyo familiar y las mejoras en la inclusividad de los torneos. Con Tronchabúfalos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#10 - ZaWarudo, Youtuber de Smash&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=DkCl2BaCuLM"&gt;YouTube&lt;/a&gt;
+Escena regional de Aragón y crecimiento del canal de YouTube. Con ZaWarudo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cinco Preguntas #3&lt;/strong&gt; | &lt;a href="https://www.youtube.com/c/ElUltimoFrame"&gt;YouTube&lt;/a&gt;
+Formato rápido de cinco preguntas con organizador de torneos y streamer. Con Charlie.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cinco Preguntas #2&lt;/strong&gt; | &lt;a href="https://www.youtube.com/c/ElUltimoFrame"&gt;YouTube&lt;/a&gt;
+Cinco preguntas con jugador del top 16 del ranking. Con Garrote.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cinco Preguntas #1&lt;/strong&gt; | &lt;a href="https://www.youtube.com/c/ElUltimoFrame"&gt;YouTube&lt;/a&gt;
+Episodio introductorio del formato de cinco preguntas. Con AlexGir.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#9 - Yagg, creador de la Starman League&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=8W0rLGE-cvY"&gt;YouTube&lt;/a&gt;
+Organización de torneos y posicionamiento competitivo. Con Yagg.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#8 - Roymi, organizadora de Gaming Sisters&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=w-kpb2GQ08w"&gt;YouTube&lt;/a&gt;
+Eventos competitivos centrados en jugadoras femeninas. Con Roymi.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#7 - Sisqui, top 2 español y jugador para Nice Cactus&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=Btx8VHGq3b0"&gt;YouTube&lt;/a&gt;
+Patrocinio y crecimiento competitivo de uno de los mejores jugadores españoles. Con Sisqui.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#6 - Wizards Club, Torneos online y dedicación a streaming&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=RoB2RSeqmlM"&gt;YouTube&lt;/a&gt;
+Evolución y trayectoria competitiva de un top player patrocinado. Con AndresFn.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#5 - Anécdotas de MPS&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=_ssFet9XQrg"&gt;YouTube&lt;/a&gt;
+Mesa redonda con los mejores jugadores españoles sobre el estado competitivo de Smash. Con K12, Pelotaz0, Mäjoras, Trif y Nex.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#4 - Kanna, TO y jugadora de Valencia&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=J2fAySdQCBg"&gt;YouTube&lt;/a&gt;
+Organización de torneos y experiencias como jugadora en la escena valenciana. Con Kanna.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#3 - Marcbri, TO de Barcelona y Top Player de SBS&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=FWTX9YvrbYY"&gt;YouTube&lt;/a&gt;
+Torneos en Barcelona y trayectoria como top player. Con Marcbri.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#2 - JoseLuisasdfg, el creador del talkshow La Buena DI&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=ljENjkhhb90"&gt;YouTube&lt;/a&gt;
+Creación de contenido y el popular talkshow de la comunidad Smash. Con JoseLuisasdfg.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#1 - Trifasia, el mejor Peach del mundo&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=_3dCsFz9YKU"&gt;YouTube&lt;/a&gt;
+Primer episodio del podcast con uno de los mejores jugadores de Peach a nivel mundial. Con Trifasia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="mi-primer-paso-en-creación-de-contenido"&gt;Mi primer paso en creación de contenido&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;El Último Frame&lt;/strong&gt; fue mi primer proyecto de creación de contenido en internet. A través de este podcast aprendí:&lt;/p&gt;</description></item><item><title>ROMHacking y traducciones</title><link>https://rigle.dev/projects/romhacking/</link><pubDate>Sat, 04 Oct 2008 00:00:00 +0200</pubDate><guid>https://rigle.dev/projects/romhacking/</guid><description>&lt;p&gt;&lt;figure class="content-figure"&gt;
+	&lt;img
+		src="https://rigle.dev/romhacking/romhacking-logo.webp"
+		alt="Logo de ROMHacking.net"
+		
+		loading="lazy"
+	&gt;
+
+	
+		&lt;figcaption&gt;
+			
+				Logo de ROMHacking.net
+			
+		&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id="cómo-empezó-todo"&gt;Cómo empezó todo&lt;/h2&gt;
+&lt;p&gt;Cuando me metí en la programación y empecé a preguntarme qué había dentro de los videojuegos, intenté &amp;ldquo;abrirlos&amp;rdquo; para ver cómo estaban hechos. Empecé modificando juegos de Pokémon para añadir más entrenadores, personalizar mi experiencia jugando o poder capturar todos los pokémon en el mismo cartucho. Sí, comencé este viaje haciendo &lt;strong&gt;&amp;ldquo;pokehacking&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Sin embargo, el proyecto más grande que logré en este ámbito fue la &lt;strong&gt;localización completa del juego de Nintendo DS &lt;em&gt;The World Ends With You&lt;/em&gt;&lt;/strong&gt;. Abrimos el juego, tradujimos el texto, las imágenes e incluso &lt;strong&gt;doblamos los vídeos al español&lt;/strong&gt;. Si quieres saber más sobre esto, hice un &lt;a href="https://twitter.com/RigleOP/status/1014120684979671040"&gt;hilo en Twitter explicándolo&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>

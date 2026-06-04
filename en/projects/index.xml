@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on rigle.dev</title><link>https://rigle.dev/en/projects/</link><description>Recent content in Projects on rigle.dev</description><generator>Hugo</generator><language>en-US</language><lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://rigle.dev/en/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>3dslibris</title><link>https://rigle.dev/en/projects/3dslibris/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0100</pubDate><guid>https://rigle.dev/en/projects/3dslibris/</guid><description>&lt;p&gt;Homebrew ebook and manga reader for Nintendo 3DS, based on the original Nintendo DS project &lt;a href="https://github.com/rhaleblian/dslibris"&gt;dslibris&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="features"&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Library browser with grid and list views, cover thumbnails, metadata titles, and touch navigation.&lt;/li&gt;
+&lt;li&gt;Six reading themes with matching splash screens and reader gradients.&lt;/li&gt;
+&lt;li&gt;Formats: &lt;code&gt;EPUB&lt;/code&gt;, &lt;code&gt;FB2&lt;/code&gt;, &lt;code&gt;TXT&lt;/code&gt;, &lt;code&gt;RTF&lt;/code&gt;, &lt;code&gt;ODT&lt;/code&gt;, &lt;code&gt;MOBI&lt;/code&gt;, &lt;code&gt;PDF&lt;/code&gt;, &lt;code&gt;CBZ&lt;/code&gt; and &lt;code&gt;XPS&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;EPUB reflow with TOC, bookmarks, go-to-page, cached pagination, and broad inline/block formatting support.&lt;/li&gt;
+&lt;li&gt;Fixed-layout viewer for manga and documents (&lt;code&gt;CBZ&lt;/code&gt;, &lt;code&gt;PDF&lt;/code&gt;, &lt;code&gt;XPS&lt;/code&gt;) with zoom, pan, outline navigation, and full-page preview.&lt;/li&gt;
+&lt;li&gt;Bundled fallback fonts for broader language coverage (Latin, Cyrillic, Greek, CJK, Arabic, Hebrew, Thai, and more).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="installation"&gt;Installation&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Recommended&lt;/strong&gt; — &lt;code&gt;.cia&lt;/code&gt; via &lt;a href="https://db.universal-team.net/3ds/3dslibris"&gt;Universal-Updater&lt;/a&gt;:&lt;/p&gt;</description></item><item><title>md-to-pdf-exams</title><link>https://rigle.dev/en/projects/md-to-pdf-exams/</link><pubDate>Sun, 09 Nov 2025 00:00:00 +0100</pubDate><guid>https://rigle.dev/en/projects/md-to-pdf-exams/</guid><description/></item><item><title>C Programming in 100 Exercises</title><link>https://rigle.dev/en/projects/c100/</link><pubDate>Sun, 31 Aug 2025 00:00:00 +0200</pubDate><guid>https://rigle.dev/en/projects/c100/</guid><description/></item><item><title>El Último Frame</title><link>https://rigle.dev/en/projects/elultimoframe/</link><pubDate>Wed, 09 Sep 2020 00:00:00 +0200</pubDate><guid>https://rigle.dev/en/projects/elultimoframe/</guid><description>&lt;p&gt;&lt;figure class="content-figure"&gt;
+	&lt;img
+		src="https://rigle.dev/elultimoframe/elultimoframe.webp"
+		alt="El Último Frame"
+		
+		loading="lazy"
+	&gt;
+
+	
+		&lt;figcaption&gt;
+			
+				El Último Frame
+			
+		&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id="about-the-podcast"&gt;About the podcast&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;El Último Frame&lt;/strong&gt; was a podcast focused on the competitive Super Smash Bros. community in Spanish, featuring in-depth interviews with players, tournament organizers, content creators, and other key figures in the scene.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Platforms:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/c/ElUltimoFrame"&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://open.spotify.com/show/4dDPHZeRT62vYzZzpd88ys"&gt;Spotify&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://podcasts.apple.com/pe/podcast/el-%C3%BAltimo-frame/id1531748199"&gt;Apple Podcasts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="episode-list"&gt;Episode list&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;#16 - SmashBrosSpain, Smash Fighters and streaming&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=YsZZI5pYcPA"&gt;YouTube&lt;/a&gt;
+Over 10 years in the community, team growth and mentoring experience. With Bardo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#15 - Working with Nintendo, Speedruns and Twitch inclusion&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=JWPzJGBbGVc"&gt;YouTube&lt;/a&gt;
+Nintendo collaboration, speedrunning and streaming in the community. With MTSergi.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#14 - How to cast, working with Riot Games and editing for BarbeQ&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=2bbwmMjOaZ4"&gt;YouTube&lt;/a&gt;
+Professional development as a caster, work with Riot Games and video editing projects. With Aitor Tribal.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#13 - Travels, Smash Argentina and Wygers sponsorship&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=ViAYms08HGY"&gt;YouTube&lt;/a&gt;
+Competitive evolution, the Smash scene in South America and sponsorship details. With ZanT.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#12 Part 2 - Smash training, sponsorship and streaming&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=2Chxjj7pLys"&gt;YouTube&lt;/a&gt;
+Training methodologies, getting sponsored and streaming plans. With Pepo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#12 Part 1 - Personal life, evolution from Brawl and anecdotes&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=odg1xJC79-k"&gt;YouTube&lt;/a&gt;
+Personal history, progression from the Brawl era and competitive experiences. With Pepo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#11 - Tronchabúfalos, Vidad&amp;rsquo;s father&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=SmFKsIQZUFE"&gt;YouTube&lt;/a&gt;
+Unique perspective on family support and tournament inclusivity improvements. With Tronchabúfalos.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#10 - ZaWarudo, Smash YouTuber&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=DkCl2BaCuLM"&gt;YouTube&lt;/a&gt;
+Aragon&amp;rsquo;s regional scene and YouTube channel growth. With ZaWarudo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Five Questions #3&lt;/strong&gt; | &lt;a href="https://www.youtube.com/c/ElUltimoFrame"&gt;YouTube&lt;/a&gt;
+Quick five-question format with a tournament organizer and streamer. With Charlie.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Five Questions #2&lt;/strong&gt; | &lt;a href="https://www.youtube.com/c/ElUltimoFrame"&gt;YouTube&lt;/a&gt;
+Five questions with a top-16 ranking player. With Garrote.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Five Questions #1&lt;/strong&gt; | &lt;a href="https://www.youtube.com/c/ElUltimoFrame"&gt;YouTube&lt;/a&gt;
+Introductory episode of the five-question format. With AlexGir.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;#9 - Yagg, creator of the Starman League&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=8W0rLGE-cvY"&gt;YouTube&lt;/a&gt;
+Tournament organization and competitive positioning. With Yagg.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;#8 - Roymi, organizer of Gaming Sisters&lt;/strong&gt; | &lt;a href="https://www.youtube.com/watch?v=w-kpb2GQ08w"&gt;YouTube&lt;/a&gt;
+Competitive events focused on female players. With Roymi.&lt;/p&gt;</description></item><item><title>ROMHacking and translations</title><link>https://rigle.dev/en/projects/romhacking/</link><pubDate>Sat, 04 Oct 2008 00:00:00 +0200</pubDate><guid>https://rigle.dev/en/projects/romhacking/</guid><description>&lt;p&gt;&lt;figure class="content-figure"&gt;
+	&lt;img
+		src="https://rigle.dev/romhacking/romhacking-logo.webp"
+		alt="ROMHacking.net logo"
+		
+		loading="lazy"
+	&gt;
+
+	
+		&lt;figcaption&gt;
+			
+				ROMHacking.net logo
+			
+		&lt;/figcaption&gt;
+	
+&lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id="how-it-started"&gt;How it started&lt;/h2&gt;
+&lt;p&gt;When I got into programming and started wondering what was inside video games, I tried to &amp;ldquo;open them up&amp;rdquo; to see how they were made. I started by modifying Pokémon games to add more trainers, customize my experience or catch all Pokémon in a single cartridge. Yes, I began this journey doing &lt;strong&gt;&amp;ldquo;pokehacking&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The biggest project I achieved in this field was the &lt;strong&gt;complete localization of the Nintendo DS game &lt;em&gt;The World Ends With You&lt;/em&gt;&lt;/strong&gt;. We opened the game, translated the text and images, and even &lt;strong&gt;dubbed the videos into Spanish&lt;/strong&gt;. If you want to know more, I wrote a &lt;a href="https://twitter.com/RigleOP/status/1014120684979671040"&gt;Twitter thread explaining it&lt;/a&gt;.&lt;/p&gt;</description></item></channel></rss>
