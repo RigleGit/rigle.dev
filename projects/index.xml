@@ -1,15 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Proyectos on rigle.dev</title><link>https://rigle.dev/projects/</link><description>Recent content in Proyectos on rigle.dev</description><generator>Hugo</generator><language>es-ES</language><lastBuildDate>Sun, 18 Oct 2026 00:00:00 +0200</lastBuildDate><atom:link href="https://rigle.dev/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>3dslibris</title><link>https://rigle.dev/projects/3dslibris/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0100</pubDate><guid>https://rigle.dev/projects/3dslibris/</guid><description>&lt;p&gt;Lector de ebooks y manga homebrew para Nintendo 3DS, basado en el proyecto original de Nintendo DS &lt;a href="https://github.com/rhaleblian/dslibris"&gt;dslibris&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id="características"&gt;Características&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Proyectos on rigle.dev</title><link>https://rigle.dev/projects/</link><description>Recent content in Proyectos on rigle.dev</description><generator>Hugo</generator><language>es-ES</language><lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0200</lastBuildDate><atom:link href="https://rigle.dev/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>3dslibris: ebooks y manga en Nintendo 3DS</title><link>https://rigle.dev/projects/3dslibris/</link><pubDate>Thu, 05 Mar 2026 00:00:00 +0100</pubDate><guid>https://rigle.dev/projects/3dslibris/</guid><description>&lt;p&gt;&lt;strong&gt;3dslibris convierte tu Nintendo 3DS en un lector de libros y manga.&lt;/strong&gt; Es una aplicación homebrew gratuita y de código abierto, basada en &lt;a href="https://github.com/rhaleblian/dslibris"&gt;dslibris&lt;/a&gt;, el lector de Nintendo DS de Ray Haleblian. Funciona en la consola y en el emulador Azahar.&lt;/p&gt;
+&lt;aside class="libris-start" aria-label="Empieza con 3dslibris"&gt;
+ &lt;p class="libris-start__date"&gt;Revisado el 2026-10-19 · v2.9.1&lt;/p&gt;
+ 
+ &lt;div class="libris-actions"&gt;
+ &lt;a class="libris-button" href="https://github.com/RigleGit/3dslibris/releases/latest"&gt;Descargar 3dslibris &lt;span aria-hidden="true"&gt;↗&lt;/span&gt;&lt;/a&gt;
+ 
+ &lt;a href="https://db.universal-team.net/3ds/3dslibris"&gt;Instalar con Universal-Updater ↗&lt;/a&gt;
+ 
+ &lt;/div&gt;
+ 
+ &lt;p class="libris-start__note"&gt;Para seguir lo que voy desarrollando: &lt;a href="https://rodrigoiglesias.substack.com/"&gt;newsletter&lt;/a&gt; · &lt;a href="https://x.com/RigleOP"&gt;X&lt;/a&gt;.&lt;/p&gt;
+ 
+&lt;/aside&gt;
+
+&lt;h2 id="qué-puedes-hacer-con-3dslibris"&gt;Qué puedes hacer con 3dslibris&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Biblioteca con cuadrícula y vista de lista, portadas, metadatos y navegación táctil.&lt;/li&gt;
-&lt;li&gt;Seis temas de lectura con pantallas de inicio y gradientes de lector.&lt;/li&gt;
-&lt;li&gt;Formatos: &lt;code&gt;EPUB&lt;/code&gt;, &lt;code&gt;FB2&lt;/code&gt;, &lt;code&gt;TXT&lt;/code&gt;, &lt;code&gt;RTF&lt;/code&gt;, &lt;code&gt;ODT&lt;/code&gt;, &lt;code&gt;MOBI&lt;/code&gt;, &lt;code&gt;PDF&lt;/code&gt;, &lt;code&gt;CBZ&lt;/code&gt; y &lt;code&gt;XPS&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;EPUB con reflow, TOC, marcadores, ir a página, paginación cacheada y soporte de formato inline/bloque.&lt;/li&gt;
-&lt;li&gt;Visor de layout fijo para manga y documentos (&lt;code&gt;CBZ&lt;/code&gt;, &lt;code&gt;PDF&lt;/code&gt;, &lt;code&gt;XPS&lt;/code&gt;) con zoom, paneo, navegación por índice y previsualización de página completa.&lt;/li&gt;
-&lt;li&gt;Fuentes de respaldo incluidas para mayor cobertura de idiomas (latín, cirílico, griego, CJK, árabe, hebreo, thai y más).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Leer libros y manga en diez formatos:&lt;/strong&gt; EPUB, FB2, TXT, Markdown, RTF, ODT, MOBI, PDF, CBZ y XPS.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Organizar tu biblioteca en carpetas&lt;/strong&gt;, con vista de cuadrícula o lista, portadas personalizadas, ordenación y navegación táctil.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Leer en vertical u horizontal&lt;/strong&gt;, con ajustes para la mano con la que sujetas la consola y para el sentido de lectura de PDF y CBZ.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ajustar la lectura a tu gusto:&lt;/strong&gt; tamaño de letra, espaciado, seis temas y opciones de maquetación del EPUB, tanto generales como por libro.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Retomar donde lo dejaste:&lt;/strong&gt; progreso y marcadores guardados entre carpetas, con la opción de abrir el último libro al iniciar.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consultar documentos y manga con zoom&lt;/strong&gt;, desplazamiento, navegación por capítulos y vista previa de página completa en PDF, CBZ y XPS.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id="instalación"&gt;Instalación&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Recomendado&lt;/strong&gt; — &lt;code&gt;.cia&lt;/code&gt; vía &lt;a href="https://db.universal-team.net/3ds/3dslibris"&gt;Universal-Updater&lt;/a&gt;:&lt;/p&gt;</description></item><item><title>md-to-pdf-exams</title><link>https://rigle.dev/projects/md-to-pdf-exams/</link><pubDate>Sun, 09 Nov 2025 00:00:00 +0100</pubDate><guid>https://rigle.dev/projects/md-to-pdf-exams/</guid><description/></item><item><title>Aprende C paso a paso: 100 ejercicios resueltos</title><link>https://rigle.dev/projects/c100/</link><pubDate>Sun, 31 Aug 2025 00:00:00 +0200</pubDate><guid>https://rigle.dev/projects/c100/</guid><description/></item><item><title>El Último Frame</title><link>https://rigle.dev/projects/elultimoframe/</link><pubDate>Wed, 09 Sep 2020 00:00:00 +0200</pubDate><guid>https://rigle.dev/projects/elultimoframe/</guid><description>&lt;p&gt;&lt;figure class="content-figure"&gt;
+&lt;p&gt;En EPUB tienes índice, marcadores, salto a página y paginación guardada para las siguientes aperturas. Las fuentes incluidas amplían la cobertura de idiomas, incluidos alfabetos latino, cirílico, griego, CJK, árabe y hebreo.&lt;/p&gt;</description></item><item><title>md-to-pdf-exams</title><link>https://rigle.dev/projects/md-to-pdf-exams/</link><pubDate>Sun, 09 Nov 2025 00:00:00 +0100</pubDate><guid>https://rigle.dev/projects/md-to-pdf-exams/</guid><description/></item><item><title>Aprende C paso a paso: 100 ejercicios resueltos</title><link>https://rigle.dev/projects/c100/</link><pubDate>Sun, 31 Aug 2025 00:00:00 +0200</pubDate><guid>https://rigle.dev/projects/c100/</guid><description/></item><item><title>El Último Frame</title><link>https://rigle.dev/projects/elultimoframe/</link><pubDate>Wed, 09 Sep 2020 00:00:00 +0200</pubDate><guid>https://rigle.dev/projects/elultimoframe/</guid><description>&lt;p&gt;&lt;figure class="content-figure"&gt;
 	&lt;img
 		src="https://rigle.dev/elultimoframe/elultimoframe.webp"
 		alt="El Último Frame"
