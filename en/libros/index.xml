@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Books on rigle.dev</title><link>https://rigle.dev/en/libros/</link><description>Recent content in Books on rigle.dev</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://rigle.dev/en/libros/index.xml" rel="self" type="application/rss+xml"/><item><title>Aprende Go paso a paso: 100 ejercicios resueltos</title><link>https://rigle.dev/en/libros/go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rigle.dev/en/libros/go/</guid><description>&lt;h2 id="inside-the-book"&gt;Inside the book&lt;/h2&gt;
+&lt;p&gt;One hundred exercises with complete solutions and explanations, covering first programs, functions, Unicode, collections, pointers, errors, interfaces, files, testing and generics. Later exercises introduce goroutines, channels, cancellation and HTTP with JSON.&lt;/p&gt;
+&lt;p&gt;Two final projects bring these topics together: a terminal task manager with JSON storage and a concurrent website monitor.&lt;/p&gt;
+&lt;h2 id="who-it-is-for"&gt;Who it is for&lt;/h2&gt;
+&lt;p&gt;Students, self-taught learners and programmers learning Go through practice. No knowledge of C or the first volume is required. This book is available in Spanish.&lt;/p&gt;</description></item><item><title>Aprende C paso a paso: 100 ejercicios resueltos</title><link>https://rigle.dev/en/libros/c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rigle.dev/en/libros/c/</guid><description>&lt;h2 id="inside-the-book"&gt;Inside the book&lt;/h2&gt;
+&lt;p&gt;One hundred solved C17 exercises covering fundamentals, functions, arrays, strings, pointers, dynamic memory, data structures, files, threads and networking, followed by two final projects.&lt;/p&gt;
+&lt;h2 id="who-it-is-for"&gt;Who it is for&lt;/h2&gt;
+&lt;p&gt;Students and self-taught learners who want to learn C through explained solutions. This page presents the revised Spanish edition.&lt;/p&gt;
+&lt;h2 id="book-resources"&gt;Book resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://c.rigle.dev/c100/"&gt;Book website (Spanish)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://c.rigle.dev/assets/c100/aprende-c-paso-a-paso-muestra.pdf"&gt;Free sample (Spanish)&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://c.rigle.dev/c100/code/"&gt;Source code&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://c.rigle.dev/c100/erratas/"&gt;Errata&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>

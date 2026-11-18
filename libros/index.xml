@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Libros on rigle.dev</title><link>https://rigle.dev/libros/</link><description>Recent content in Libros on rigle.dev</description><generator>Hugo</generator><language>es-ES</language><atom:link href="https://rigle.dev/libros/index.xml" rel="self" type="application/rss+xml"/><item><title>Aprende Go paso a paso: 100 ejercicios resueltos</title><link>https://rigle.dev/libros/go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rigle.dev/libros/go/</guid><description>&lt;h2 id="qué-encontrarás"&gt;Qué encontrarás&lt;/h2&gt;
+&lt;p&gt;Cien ejercicios para ir incorporando las herramientas del lenguaje a tus programas. Cada ejercicio incluye un enunciado, una solución completa y una explicación del código.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Primeros programas, control de flujo, funciones y closures.&lt;/li&gt;
+&lt;li&gt;Texto y Unicode, arrays, slices, maps, structs y punteros.&lt;/li&gt;
+&lt;li&gt;Errores, interfaces, archivos, paquetes, pruebas y generics.&lt;/li&gt;
+&lt;li&gt;Goroutines, canales, contexto, cancelación y sincronización.&lt;/li&gt;
+&lt;li&gt;Clientes y servidores HTTP con JSON.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;El recorrido termina con un gestor de tareas por terminal que guarda datos en JSON y un monitor concurrente de direcciones web.&lt;/p&gt;</description></item><item><title>Aprende C paso a paso: 100 ejercicios resueltos</title><link>https://rigle.dev/libros/c/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://rigle.dev/libros/c/</guid><description>&lt;h2 id="qué-encontrarás"&gt;Qué encontrarás&lt;/h2&gt;
+&lt;p&gt;Cien ejercicios resueltos con C17, desde los primeros programas hasta problemas que combinan varias herramientas del lenguaje.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tipos de datos, decisiones, bucles y funciones.&lt;/li&gt;
+&lt;li&gt;Arrays, cadenas, punteros y memoria dinámica.&lt;/li&gt;
+&lt;li&gt;Estructuras de datos y archivos.&lt;/li&gt;
+&lt;li&gt;Hilos, redes y dos proyectos finales.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="para-quién-es"&gt;Para quién es&lt;/h2&gt;
+&lt;p&gt;Para estudiantes y autodidactas que quieren aprender C resolviendo ejercicios y siguiendo la explicación de cada solución.&lt;/p&gt;
+&lt;h2 id="recursos-del-libro"&gt;Recursos del libro&lt;/h2&gt;
+&lt;p&gt;La web del libro reúne la muestra gratuita, el código y los materiales de apoyo.&lt;/p&gt;</description></item></channel></rss>
